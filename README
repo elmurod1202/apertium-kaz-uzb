@@ -54,18 +54,18 @@ If you are in the source directory after running make, the following
 commands should work:
 
 ```console
-$ echo "TODO test sentence 1" | apertium -d . kaz-uzb
-TODO test translated sentence 1
+$ echo "Жылдам қоңыр түлкі жалқау иттің үстінен секірді" | apertium -d . kaz-uzb
+Ildam qoʻngʻir tulki dangasa itning ustidan sakrab oʻtdi
 
-$ echo "TODO test sentence 2" | apertium -d . uzb-kaz
-TODO test translated sentence 2
+$ echo "Ildam qoʻngʻir tulki dangasa itning ustidan sakrab oʻtdi" | apertium -d . uzb-kaz
+Жылдам қоңыр түлкі жалқау иттің үстінен секірді
 ```
 
 After installing somewhere in `$PATH`, you should be able to do e.g.
 
 ```console
-$ echo "TODO test sentence 1" | apertium kaz-uzb
-TODO test translated sentence 1
+$ echo "Жылдам қоңыр түлкі жалқау иттің үстінен секірді" | apertium kaz-uzb
+Ildam qoʻngʻir tulki dangasa itning ustidan sakrab oʻtdi
 ```
 
 Files and data
