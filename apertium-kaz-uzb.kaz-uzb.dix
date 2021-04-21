@@ -281,6 +281,11 @@
       <e><re>%?[0-9]+([.,][0-9]+)*[.,]*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e> 
       <e><re>[.\?;:!"]+</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
 
+      <e><p><l>ауа<b/>райы<s n="n"/></l><r>ob-havo<s n="n"/></r></p></e>
+      <e><p><l>еш<b/>қашан<s n="adv"/></l><r>hech<b/>qachon<s n="adv"/></r></p></e>
+      <e><p><l>жақсы<b/>көр<s n="v"/><s n="tv"/></l><r>yaxshi<b/>koʻr<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>осы<b/>себептен<s n="cnjadv"/><s n="cnjadv"/></l><r>shu<b/>sababli<s n="cnjadv"/></r></p></e>
+
 
    </section>
 </dictionary>
