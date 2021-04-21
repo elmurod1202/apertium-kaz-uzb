@@ -93,15 +93,41 @@
 
     <sdef n="compound-only-L" c="May only be the left-side of a compound"/>
     <sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
+
+   <!--These are sdefs I added -->
+   <sdef n="v"                c="Verb, lexical"/>
+   <sdef n="iv"               c="Intransitive"/>
+   <sdef n="tv"               c="Transitive"/>
+   <sdef n="abbr"             c="Abbreviation"/>
+   <sdef n="coll"             c="coll"/>
+   <sdef n="post"             c="Postposition"/>
+   <sdef n="coop"             c="Cooperative"/>
+   <sdef n="cop"              c="Copula"/>
+   <sdef n="mf"               c="Masculine / feminine"/>
+   <sdef n="mod"              c="module"/>
+   <sdef n="pat"              c="patronymic"/>
+   
+   <!--Are we also supposed to add these? -->
+   <sdef n="advl"             c=""/>
+   <sdef n="postadv"          c=""/>
+   <sdef n="qst"              c=""/>
+   <sdef n="sim"              c=""/>
+   <sdef n="subst"            c=""/>
+
   </sdefs>
 
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
-
+      <e><p><l>Азамат<s n="np"/><s n="ant"/><s n="m"/></l><r>Azamat<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Айгүл<s n="np"/><s n="ant"/><s n="f"/></l><r>Oygul<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+      
+      <e><p><l>–<s n="guio"/></l><r>–<s n="guio"/></r></p></e>
       <e><p><l>сәлем<s n="ij"/></l><r>salom<s n="ij"/></r></p></e>
       <e><p><l>әлем<s n="n"/></l><r>dunyo<s n="n"/></r></p></e>
+      <e><re>%?[0-9]+([.,][0-9]+)*[.,]*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e> 
+      <e><re>[.\?;:!"]+</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
 
 
    </section>
