@@ -3,7 +3,7 @@
   <!--
     This rule chooses "energía" as the translation of "power" when it is preceded by "wind".
     Add your own rules within <rule> here, using the resources below as a guide
-  -->
+
 
   <rule>
     <match lemma="wind"/>
@@ -11,6 +11,49 @@
       <select lemma="energía" tags="n.*"/>
     </match>
   </rule>
+  -->
+  
+  <rule weight ="1">  <!-- default -->
+    <match lemma="ақырын" tags="adj">
+      <select lemma="sekin" tags="adj"/>
+    </match>
+  </rule>
+
+  <rule weight ="1">  <!-- default -->
+    <match lemma="бірақ" tags="cnjcoo">
+      <select lemma="lekin" tags="cnjcoo"/>
+    </match>
+  </rule>
+
+  <rule weight ="1">  <!-- default -->
+    <match lemma="мен" tags="cnjcoo">
+      <select lemma="bilan" tags="cnjcoo"/>
+    </match>
+  </rule>
+  <rule>
+    <match tags="np.ant.*"/>
+    <match lemma="мен" tags="cnjcoo"><select lemma="va" tags="cnjcoo"/></match>
+  </rule>
+
+  <rule weight ="1">  <!-- default -->
+    <match lemma="адам" tags="n">
+      <select lemma="odam" tags="n"/>
+    </match>
+  </rule>
+
+  <rule weight ="1">  <!-- default -->
+    <match lemma="neden" tags="adv">
+      <select lemma="nimaga" tags="adv"/>
+    </match>
+  </rule>
+
+  <rule weight ="1">  <!-- default -->
+    <match lemma="neden" tags="adv">
+      <select lemma="nimaga" tags="adv"/>
+    </match>
+  </rule>
+
+
 </rules>
 
 <!--
