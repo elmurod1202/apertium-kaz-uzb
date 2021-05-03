@@ -52,9 +52,9 @@
   </rule>
   <rule weight ="2">  <!-- if it comes after number, then it's "kishi" -->
     <match  tags="num"/>
-    <match lemma="адам" tags="n.*"/>
+    <match lemma="адам" tags="n.*">
       <select lemma="kishi" tags="n.*"/>
-      </match>
+    </match>
   </rule>
 
   <rule weight ="1">  <!-- default -->
@@ -96,6 +96,7 @@
       <select lemma="nimaga" tags="adv"/>
     </match>
   </rule>
+
 
 
 </rules>

@@ -72,12 +72,8 @@ Files and data
 -------------------------------------------------------------------------------
 
 * [`apertium-kaz-uzb.kaz-uzb.dix`](apertium-kaz-uzb.kaz-uzb.dix) - Bilingual dictionary
-* [`apertium-kaz-uzb.kaz-uzb.t1x`](apertium-kaz-uzb.kaz-uzb.t1x) - Chunking rules for translating into Uzbek
-* [`apertium-kaz-uzb.uzb-kaz.t1x`](apertium-kaz-uzb.uzb-kaz.t1x) - Chunking rules for translating into Kazakh
-* [`apertium-kaz-uzb.kaz-uzb.t2x`](apertium-kaz-uzb.kaz-uzb.t2x) - Interchunk rules for translating into Uzbek
-* [`apertium-kaz-uzb.uzb-kaz.t2x`](apertium-kaz-uzb.uzb-kaz.t2x) - Interchunk rules for translating into Kazakh
-* [`apertium-kaz-uzb.kaz-uzb.t3x`](apertium-kaz-uzb.kaz-uzb.t3x) - Postchunk rules for translating into Uzbek
-* [`apertium-kaz-uzb.uzb-kaz.t3x`](apertium-kaz-uzb.uzb-kaz.t3x) - Postchunk rules for translating into Kazakh
+* [`apertium-kaz-uzb.kaz-uzb.rtx`](apertium-kaz-uzb.kaz-uzb.rtx) - Structural transfer rules for translating into Uzbek
+* [`apertium-kaz-uzb.uzb-kaz.rtx`](apertium-kaz-uzb.uzb-kaz.rtx) - Structural transfer rules for translating into Kazakh
 * [`apertium-kaz-uzb.kaz-uzb.lrx`](apertium-kaz-uzb.kaz-uzb.lrx) - Lexical selection rules for translating into Uzbek
 * [`apertium-kaz-uzb.uzb-kaz.lrx`](apertium-kaz-uzb.uzb-kaz.lrx) - Lexical selection rules for translating into Kazakh
 * [`modes.xml`](modes.xml) - Translation modes
