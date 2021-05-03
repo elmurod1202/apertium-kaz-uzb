@@ -13,6 +13,50 @@
   </rule>
   -->
   
+  <rule weight ="1">  <!-- default translation-->
+    <match lemma="қызметкер" tags="adj">
+      <select lemma="ishchi" tags="adj"/>
+    </match>
+  </rule>
+  <rule weight ="2">  <!-- if it comes after the word "militsiya" or "prokuratura", then it's "xodim" -->
+    <or>
+      <match lemma="полиция" tags="n.*"/>
+      <match lemma="прокуратура" tags="n.*"/>
+    </or>
+    <match lemma="қызметкер" tags="n.*">
+      <select lemma="xodim" tags="n.*"/>
+    </match>
+  </rule>
+
+  <rule weight ="1">  <!-- default translation-->
+    <match lemma="жең" tags="v.*">
+      <select lemma="yeng" tags="v.*"/>
+    </match>
+  </rule>
+  <rule weight ="2">  <!-- if it comes after words "алтын","күміс","қола" or "медаль", then it's "yut" -->
+    <or>
+      <match lemma="алтын"/>
+      <match lemma="күміс"/>
+      <match lemma="қола"/>
+      <match lemma="медаль"/>
+    </or>
+    <match lemma="жең" tags="v.*">
+      <select lemma="yut" tags="v.*"/>
+    </match>
+  </rule>
+
+  <rule weight ="1">  <!-- default translation-->
+    <match lemma="адам" tags="n.*">
+      <select lemma="odam" tags="adj"/>
+    </match>
+  </rule>
+  <rule weight ="2">  <!-- if it comes after number, then it's "kishi" -->
+    <match  tags="num"/>
+    <match lemma="адам" tags="n.*"/>
+      <select lemma="kishi" tags="n.*"/>
+      </match>
+  </rule>
+
   <rule weight ="1">  <!-- default -->
     <match lemma="ақырын" tags="adj">
       <select lemma="sekin" tags="adj"/>
