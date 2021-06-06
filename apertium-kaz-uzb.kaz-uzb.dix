@@ -120,6 +120,19 @@
       <!-- Define entries within <e> here. -->
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
+      <e><p><l>-<s n="guio"/></l><r>-<s n="guio"/></r></p></e>
+      <e><p><l>—<s n="guio"/></l><r>—<s n="guio"/></r></p></e>
+      <e><p><l>(<s n="lpar"/></l><r>(<s n="lpar"/></r></p></e>
+      <e><p><l>[<s n="lpar"/></l><r>[<s n="lpar"/></r></p></e>
+      <e><p><l>)<s n="rpar"/></l><r>)<s n="rpar"/></r></p></e>
+      <e><p><l>]<s n="rpar"/></l><r>]<s n="rpar"/></r></p></e>
+      <e><p><l>'<s n="apos"/></l><r>'<s n="apos"/></r></p></e>
+      <e><p><l>“<s n="lquot"/></l><r>“<s n="lquot"/></r></p></e>
+      <e><p><l>«<s n="lquot"/></l><r>«<s n="lquot"/></r></p></e>
+      <e><p><l>”<s n="rquot"/></l><r>”<s n="rquot"/></r></p></e>
+      <e><p><l>»<s n="rquot"/></l><r>»<s n="rquot"/></r></p></e>
+      <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
+
       <e><p><l>Азамат<s n="np"/><s n="ant"/><s n="m"/></l><r>Azamat<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Айгүл<s n="np"/><s n="ant"/><s n="f"/></l><r>Oygul<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
       <e><p><l>ақырын<s n="adj"/></l><r>sekin<s n="adj"/></r></p></e>
@@ -321,20 +334,20 @@
 		<e><p><l>абайламаушылық<s n="n"/></l><r>ehtiyotsizlik<s n="n"/></r></p></e>
 		<e><p><l>абайлаушылық<s n="n"/></l><r>ehtiyotkorlik<s n="n"/></r></p></e>
 		<e><p><l>абаймен<s n="adv"/></l><r>ehtiyotkor<s n="adv"/></r></p></e>
-		<e><p><l>абайсыз<s n="adj"/></l><r>bee'tibor<s n="adj"/></r></p></e>
+		<e><p><l>абайсыз<s n="adj"/></l><r>beeʻtibor<s n="adj"/></r></p></e>
 		<e><p><l>абайсызда<s n="adv"/></l><r>ehtiyotkorsiz<s n="adv"/></r></p></e>
 		<e><p><l>абайсыздық<s n="n"/></l><r>ehtiyotkorsizlik<s n="n"/></r></p></e>
 		<e><p><l>абайшылдық<s n="n"/></l><r>ehtiyotkorlik<s n="n"/></r></p></e>
 		<e><p><l>абайым<s n="n"/></l><r>aka<s n="n"/></r></p></e>
 		<e><p><l>абака<s n="n"/></l><r>abak<s n="n"/></r></p></e>
 		<e><p><l>абақ<s n="n"/></l><r>qamoqxona<s n="n"/></r></p></e>
-		<e><p><l>абақоңыр<s n="adj"/></l><r>to'q<b/>jigarrang<s n="adj"/></r></p></e>
+		<e><p><l>абақоңыр<s n="adj"/></l><r>toʻq<b/>jigarrang<s n="adj"/></r></p></e>
 		<e><p><l>абақты<s n="n"/></l><r>qamoqxona<s n="n"/></r></p></e>
 		<e><p><l>абақты<s n="adj"/></l><r>mahkum<s n="adj"/></r></p></e>
 		<e><p><l>абақы<s n="n"/></l><r>qamoqxona<s n="n"/></r></p></e>
 		<e><p><l>абалақ-сабалақ<s n="adj"/></l><r>abalak-sabalak<s n="adj"/></r></p></e>
 		<e><p><l>абалақта<s n="v"/><s n="iv"/></l><r>qopla<s n="v"/><s n="iv"/></r></p></e>
-		<e><p><l>абалақтай<s n="adj"/></l><r>o'ralgan<s n="adj"/></r></p></e>
+		<e><p><l>абалақтай<s n="adj"/></l><r>oʻralgan<s n="adj"/></r></p></e>
 		<e><p><l>абалат</l><r>bezovta<b/>qil</r></p></e>
 		<e><p><l>абаттандыр</l><r>obod<b/>qil</r></p></e>
 		<e><p><l>абаттық<s n="n"/></l><r>odobonlashtirish<s n="n"/></r></p></e>
@@ -346,7 +359,7 @@
 		<e><p><l>аббревиация<s n="n"/></l><r>abbrevatsiya<s n="n"/></r></p></e>
 		<e><p><l>абда<s n="adj"/></l><r>obdon<s n="adj"/></r></p></e>
 		<e><p><l>абдал<s n="n"/></l><r>tentak<s n="n"/></r></p></e>
-		<e><p><l>абдаста<s n="n"/></l><r>to'pponcha<s n="n"/></r></p></e>
+		<e><p><l>абдаста<s n="n"/></l><r>toʻpponcha<s n="n"/></r></p></e>
 		<e><p><l>абдомен<s n="n"/></l><r>qorin<s n="n"/></r></p></e>
 		<e><p><l>абдыра<s n="n"/></l><r>chalkash<s n="n"/></r></p></e>
 		<e><p><l>абдыра<s n="v"/><s n="iv"/></l><r>dovdira<s n="v"/><s n="iv"/></r></p></e>
@@ -359,8 +372,8 @@
 		<e><p><l>абстрактілі<s n="adj"/></l><r>mavhum<s n="adj"/></r></p></e>
 		<e><p><l>абстрактілік<s n="adj"/></l><r>mavhumlik<s n="adj"/></r></p></e>
 		<e><p><l>абстракция<s n="n"/></l><r>mavhumlashtirish<s n="n"/></r></p></e>
-		<e><p><l>абсурд<s n="n"/></l><r>bema'nilik<s n="n"/></r></p></e>
-		<e><p><l>абсурдтық<s n="adj"/></l><r>bema'ni<s n="adj"/></r></p></e>
+		<e><p><l>абсурд<s n="n"/></l><r>bemaʻnilik<s n="n"/></r></p></e>
+		<e><p><l>абсурдтық<s n="adj"/></l><r>bemaʻni<s n="adj"/></r></p></e>
 		<e><p><l>абырж<s n="v"/><s n="iv"/></l><r>chalkash<s n="v"/><s n="iv"/></r></p></e>
 		<e><p><l>абыржу<s n="n"/></l><r>chalkashlik<s n="n"/></r></p></e>
 		<e><p><l>абыржушылық<s n="n"/></l><r>chalkashlik<s n="n"/></r></p></e>
@@ -379,10 +392,10 @@
 		<e><p><l>авиабағдаршам<s n="n"/></l><r>aviasvetofor<s n="n"/></r></p></e>
 		<e><p><l>авиабайланыс<s n="n"/></l><r>aviaaloqa<s n="n"/></r></p></e>
 		<e><p><l>авиабилет<s n="n"/></l><r>aviachipta<s n="n"/></r></p></e>
-		<e><p><l>авиажелі<s n="n"/></l><r>havo<b/>tarmog'i<s n="n"/></r></p></e>
+		<e><p><l>авиажелі<s n="n"/></l><r>havo<b/>tarmogʻi<s n="n"/></r></p></e>
 		<e><p><l>авиазауыт<s n="n"/></l><r>aviazavod<s n="n"/></r></p></e>
 		<e><p><l>авиаклуб<s n="n"/></l><r>aviaklub<s n="n"/></r></p></e>
-		<e><p><l>авиақоректендіру<s n="n"/></l><r>havo<b/>elektr<b/>ta'minoti<s n="n"/></r></p></e>
+		<e><p><l>авиақоректендіру<s n="n"/></l><r>havo<b/>elektr<b/>taʻminoti<s n="n"/></r></p></e>
 		<e><p><l>авиақұрылыс<s n="n"/></l><r>aviaqurilish<s n="n"/></r></p></e>
 		<e><p><l>авиалайнер<s n="n"/></l><r>samolyot<s n="n"/></r></p></e>
 		<e><p><l>авиамектеп<s n="n"/></l><r>aviatsiya<b/>maktabi<s n="n"/></r></p></e>
@@ -402,7 +415,7 @@
 		<e><p><l>Австралиялық<s n="n"/></l><r>Avstraliyalik<s n="n"/></r></p></e>
 		<e><p><l>Австриялық<s n="n"/></l><r>Avstriyalik<s n="n"/></r></p></e>
 		<e><p><l>авто<s n="n"/></l><r>avto<s n="n"/></r></p></e>
-		<e><p><l>автоағаштасығыш<s n="n"/></l><r>yog'och<b/>tashuvchi<b/>avto<s n="n"/></r></p></e>
+		<e><p><l>автоағаштасығыш<s n="n"/></l><r>yogʻoch<b/>tashuvchi<b/>avto<s n="n"/></r></p></e>
 		<e><p><l>автоара<s n="n"/></l><r>avtoulov<s n="n"/></r></p></e>
 		<e><p><l>автоаудармашы<s n="n"/></l><r>avtomatik<b/>tarjimon<s n="n"/></r></p></e>
 		<e><p><l>автобақылау<s n="n"/></l><r>avtomatik<b/>boshqaruv<s n="n"/></r></p></e>
@@ -413,8 +426,8 @@
 		<e><p><l>автовус<s n="n"/></l><r>avtobus<s n="n"/></r></p></e>
 		<e><p><l>автодинамикалық<s n="adj"/></l><r>avtodinamik<s n="adj"/></r></p></e>
 		<e><p><l>автодром<s n="n"/></l><r>avtodrom<s n="n"/></r></p></e>
-		<e><p><l>автодүкен<s n="n"/></l><r>avtodo'kon<s n="n"/></r></p></e>
-		<e><p><l>автожол<s n="n"/></l><r>avtoyo'l<s n="n"/></r></p></e>
+		<e><p><l>автодүкен<s n="n"/></l><r>avtodoʻkon<s n="n"/></r></p></e>
+		<e><p><l>автожол<s n="n"/></l><r>avtoyoʻl<s n="n"/></r></p></e>
 		<e><p><l>автозауыт<s n="n"/></l><r>avtozavod<s n="n"/></r></p></e>
 		<e><p><l>автоматты<s n="adj"/></l><r>avtomatik<s n="adj"/></r></p></e>
 		<e><p><l>автомеханик<s n="n"/></l><r>avtomexanik<s n="n"/></r></p></e>
@@ -425,7 +438,7 @@
 		<e><p><l>аға<s n="n"/></l><r>aka<s n="n"/></r></p></e>
 		<e><p><l>ағажан<s n="n"/></l><r>akajon<s n="n"/></r></p></e>
 		<e><p><l>ағай<s n="n"/></l><r>amaki<s n="n"/></r></p></e>
-		<e><p><l>ағайын<s n="n"/></l><r>og'ayni<s n="n"/></r></p></e>
+		<e><p><l>ағайын<s n="n"/></l><r>ogʻayni<s n="n"/></r></p></e>
 		<e><p><l>ағайынды<s n="n"/></l><r>birodar<s n="n"/></r></p></e>
 		<e><p><l>ағайындық<s n="n"/></l><r>birodarlik<s n="n"/></r></p></e>
 		<e><p><l>ағайыншыл<s n="adj"/></l><r>qardosh<s n="adj"/></r></p></e>
@@ -436,9 +449,9 @@
 		<e><p><l>ағартқы<s n="n"/></l><r>oqartiruvchi<s n="n"/></r></p></e>
 		<e><p><l>ағартқыш<s n="n"/></l><r>oqartirgich<s n="n"/></r></p></e>
 		<e><p><l>ағарту<s n="n"/></l><r>oqartirgich<s n="n"/></r></p></e>
-		<e><p><l>ағаш<s n="adj"/></l><r>yog'och<s n="adj"/></r></p></e>
-		<e><p><l>ағаш<s n="adj"/></l><r>yog'ochli<s n="adj"/></r></p></e>
-		<e><p><l>ағаш<s n="n"/></l><r>yog'och<s n="n"/></r></p></e>
+		<e><p><l>ағаш<s n="adj"/></l><r>yogʻoch<s n="adj"/></r></p></e>
+		<e><p><l>ағаш<s n="adj"/></l><r>yogʻochli<s n="adj"/></r></p></e>
+		<e><p><l>ағаш<s n="n"/></l><r>yogʻoch<s n="n"/></r></p></e>
 		<e><p><l>ағызу<s n="n"/></l><r>oqava<s n="n"/></r></p></e>
 		<e><p><l>ағыл<s n="v"/><s n="iv"/></l><r>otil<s n="v"/><s n="iv"/></r></p></e>
 		<e><p><l>ағылу<s n="n"/></l><r>otilish<s n="n"/></r></p></e>
@@ -454,7 +467,7 @@
 		<e><p><l>ағымдық<s n="n"/></l><r>hozirgi<s n="n"/></r></p></e>
 		<e><p><l>ағымсыз<s n="adj"/></l><r>oqimsiz<s n="adj"/></r></p></e>
 		<e><p><l>ағын<s n="n"/></l><r>oqim<s n="n"/></r></p></e>
-		<e><p><l>ада<s n="n"/></l><r>do'zah<s n="n"/></r></p></e>
+		<e><p><l>ада<s n="n"/></l><r>doʻzah<s n="n"/></r></p></e>
 		<e><p><l>адал<s n="adj"/></l><r>odil<s n="adj"/></r></p></e>
 		<e><p><l>адал<s n="adv"/></l><r>halol<s n="adv"/></r></p></e>
 		<e><p><l>адалдық<s n="n"/></l><r>odillik<s n="n"/></r></p></e>
@@ -479,13 +492,13 @@
 		<e><p><l>адас<s n="v"/><s n="iv"/></l><r>adash<s n="v"/><s n="iv"/></r></p></e>
 		<e><p><l>адасқандық<s n="n"/></l><r>adashish<s n="n"/></r></p></e>
 		<e><p><l>адасушылық<s n="n"/></l><r>adashishlik<s n="n"/></r></p></e>
-		<e><p><l>адвербиальді<s n="adj"/></l><r>qo'shimcha<s n="adj"/></r></p></e>
+		<e><p><l>адвербиальді<s n="adj"/></l><r>qoʻshimcha<s n="adj"/></r></p></e>
 		<e><p><l>адвокат<s n="n"/></l><r>advokat<s n="n"/></r></p></e>
 		<e><p><l>адвокаттық<s n="n"/></l><r>advokatlik<s n="n"/></r></p></e>
-		<e><p><l>аддендум<s n="n"/></l><r>qo'shimcha<s n="n"/></r></p></e>
+		<e><p><l>аддендум<s n="n"/></l><r>qoʻshimcha<s n="n"/></r></p></e>
 		<e><p><l>адекваттық<s n="adj"/></l><r>etarli<s n="adj"/></r></p></e>
 		<e><p><l>адекваттық<s n="n"/></l><r>etarlilik<s n="n"/></r></p></e>
-		<e><p><l>администратор<s n="n"/></l><r>ma'mur<s n="n"/></r></p></e>
+		<e><p><l>администратор<s n="n"/></l><r>maʻmur<s n="n"/></r></p></e>
 		<e><p><l>адмирал<s n="n"/></l><r>admiral<s n="n"/></r></p></e>
 		<e><p><l>адреналин<s n="n"/></l><r>adrenalin<s n="n"/></r></p></e>
 		<e><p><l>адрес<s n="n"/></l><r>manzil<s n="n"/></r></p></e>
@@ -494,8 +507,8 @@
 		<e><p><l>адрестік<s n="adj"/></l><r>manzilli<s n="adj"/></r></p></e>
 		<e><p><l>адриатикалық<s n="adj"/></l><r>adriatikalik<s n="adj"/></r></p></e>
 		<e><p><l>адриатикалық<s n="adj"/></l><r>adriatikalik<s n="adj"/></r></p></e>
-		<e><p><l>адуынды<s n="adj"/></l><r>o'tinli<s n="adj"/></r></p></e>
-		<e><p><l>адуындық<s n="n"/></l><r>o'tin<s n="n"/></r></p></e>
+		<e><p><l>адуынды<s n="adj"/></l><r>oʻtinli<s n="adj"/></r></p></e>
+		<e><p><l>адуындық<s n="n"/></l><r>oʻtin<s n="n"/></r></p></e>
 		<e><p><l>адъективті<s n="adj"/></l><r>sifat<s n="adj"/></r></p></e>
 		<e><p><l>адым<s n="n"/></l><r>qadam<s n="n"/></r></p></e>
 		<e><p><l>адымда<s n="v"/><s n="iv"/></l><r>qadam<b/>tashla<s n="v"/><s n="iv"/></r></p></e>
@@ -505,17 +518,17 @@
 		<e><p><l>адыр<s n="n"/></l><r>adir<s n="n"/></r></p></e>
 		<e><p><l>адырақ<s n="adj"/></l><r>tepalik<s n="adj"/></r></p></e>
 		<e><p><l>адыраңдық<s n="n"/></l><r>qahramonlik<s n="n"/></r></p></e>
-		<e><p><l>адыр<b/>-бұдырлылық<s n="n"/></l><r>g'adir-budir<s n="n"/></r></p></e>
+		<e><p><l>адыр<b/>-бұдырлылық<s n="n"/></l><r>gʻadir-budir<s n="n"/></r></p></e>
 		<e><p><l>адырлы<s n="adj"/></l><r>adirli<s n="adj"/></r></p></e>
 		<e><p><l>адырна<s n="n"/></l><r>adir<s n="n"/></r></p></e>
 		<e><p><l>адьютант<s n="n"/></l><r>yordamchi<s n="n"/></r></p></e>
 		<e><p><l>адюльтер<s n="n"/></l><r>zino<s n="n"/></r></p></e>
-		<e><p><l>ажал<s n="n"/></l><r>o'lim<s n="n"/></r></p></e>
+		<e><p><l>ажал<s n="n"/></l><r>oʻlim<s n="n"/></r></p></e>
         <e><p><l>ажал<s n="n"/></l><r>ajal<s n="n"/></r></p></e>
 		<e><p><l>ажалды<s n="adj"/></l><r>vafot etgan<s n="adj"/></r></p></e>
 		<e><p><l>ажалсыз<s n="adj"/></l><r>beajal<s n="adj"/></r></p></e>
-		<e><p><l>ажалсыз<s n="n"/></l><r>o'lmas<s n="n"/></r></p></e>
-		<e><p><l>ажалсыздық<s n="n"/></l><r>o'lmaslik<s n="n"/></r></p></e>
+		<e><p><l>ажалсыз<s n="n"/></l><r>oʻlmas<s n="n"/></r></p></e>
+		<e><p><l>ажалсыздық<s n="n"/></l><r>oʻlmaslik<s n="n"/></r></p></e>
 		<e><p><l>ажар<s n="n"/></l><r>charx<s n="n"/></r></p></e>
 		<e><p><l>ажарла<s n="v"/><s n="tv"/></l><r>charxla<s n="v"/><s n="tv"/></r></p></e>
 		<e><p><l>ажарлайтын<s n="adj"/></l><r>charxlash<s n="adj"/></r></p></e>
