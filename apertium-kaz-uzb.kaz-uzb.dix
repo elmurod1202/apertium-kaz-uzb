@@ -1258,7 +1258,7 @@
 <e><p><l>бер<s n="v"/><s n="tv"/></l><r>chiq<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>береке<s n="n"/></l><r>foyda<s n="n"/></r></p></e>
 <e><p><l>бері<s n="post"/></l><r>beri<s n="post"/></r></p></e>
-<e><p><l>бәрі<s n="prn"/><s n="qnt"/></l><r>hamma<s n="prn"/><s n="qnt"/><s n="px3sp"/></r></p></e>
+<e><p><l>бәрі<s n="prn"/><s n="qnt"/></l><r>hamma<s n="prn"/><s n="qnt"/></r></p></e>
 <e><p><l>берік<s n="adj"/></l><r>qattiq<s n="adj"/></r></p></e>
 <e><p><l>берік<s n="adj"/></l><r>zich<s n="adj"/></r></p></e>
 <e><p><l>Берлин<s n="np"/><s n="top"/></l><r>Berlin<s n="np"/><s n="top"/></r></p></e>
@@ -2420,7 +2420,6 @@
 <e><p><l>зорлық<s n="n"/></l><r>zoʻrlik<s n="n"/></r></p></e>
 <e><p><l>зұлым<s n="n"/></l><r>zulm<s n="n"/></r></p></e>
 <e><p><l>зұлымдық<s n="n"/></l><r>shaddodlik<s n="n"/></r></p></e>
-<e><p><l>зұлымдық<s n="n"/></l><r>sharr<s n="n"/></l>
 <e><p><l>зұлымдық<s n="n"/></l><r>sharr<s n="n"/></r></p></e>
 <e><p><l>зымыран<s n="n"/></l><r>raketa<s n="n"/></r></p></e>
 <e><p><l>Иван<s n="np"/><s n="ant"/><s n="m"/></l><r>Ivan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -2679,7 +2678,7 @@
 <e><p><l>Қарағанды<s n="np"/><s n="top"/></l><r>Qaragʻanda<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>қаражат<s n="n"/></l><r>pul<s n="n"/></r></p></e>
 <e><p><l>қаражат<s n="n"/></l><r>vosıta<s n="n"/></r></p></e>
-<e><p><l>қарай<s n="post"/></l><r>qarab<s n="post"/>></l>
+<e><p><l>қарай<s n="post"/></l><r>qarab<s n="post"/></r></p></e>
 <e><p><l>қарай<s n="post"/></l><r>qarshi<s n="post"/></r></p></e>
 <e><p><l>қарай<s n="v"/><s n="iv"/></l><r>qara<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>қарақшы<s n="n"/></l><r>bosmachi<s n="n"/></r></p></e>
@@ -4452,7 +4451,7 @@
 <e><p><l>салым<s n="n"/></l><r>taqsimot<s n="n"/></r></p></e>
 <e><p><l>салым<s n="n"/></l><r>taqsim<s n="n"/></r></p></e>
 <e><p><l>салым<s n="post"/></l><r>binoan<s n="post"/></r></p></e>
-<e><p><l>салым<s n="post"/></l><r>qarab<s n="post"/>></l>
+<e><p><l>салым<s n="post"/></l><r>qarab<s n="post"/></r></p></e>
 <e><p><l>салыстыр<s n="v"/><s n="tv"/></l><r>uchra<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>салыстырғанда<s n="v"/><s n="tv"/></l><r>uchra<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>Самар<s n="np"/><s n="top"/></l><r>Samar<s n="np"/><s n="top"/></r></p></e>
@@ -4615,8 +4614,8 @@
 <e><p><l>сияқты<s n="post"/></l><r>qadar<s n="post"/></r></p></e>
 <e><p><l>сияқты<s n="post"/></l><r>singari<s n="post"/></r></p></e>
 <e><p><l>Сібір<s n="np"/><s n="top"/></l><r>Sibir<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>сіз<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="frm"/></l><r>siz<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></r></p></e>
-<e><p><l>сіздер<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="frm"/></l><r>siz<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></r></p></e>
+<e><p><l>сіз<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></l><r>siz<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></r></p></e>
+<e><p><l>сіздер<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></l><r>siz<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></r></p></e>
 <e><p><l>сіңлі<s n="n"/></l><r>singli<s n="n"/></r></p></e>
 <e><p><l>Скандинавия<s n="np"/><s n="top"/></l><r>Skandinaviya<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>славян<s n="n"/></l><r>slavyan<s n="n"/></r></p></e>
