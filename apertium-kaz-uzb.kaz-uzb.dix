@@ -887,6 +887,407 @@
       <e><p><l>аян<s n="adj"/></l>                          <r>ayon<s n="adj"/></r></p></e>
       <e><p><l>аян<s n="adj"/></l>                          <r>maʻlum<s n="adj"/></r></p></e>
       <e><p><l>аят<s n="n"/></l>                            <r>oyat<s n="n"/></r></p></e>
+
+      <e><p><l>бiл<s n="v"/><s n="tv"/></l>                 <r>bil<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>баба<s n="n"/></l>                           <r>bobo<s n="n"/></r></p></e>
+      <e><p><l>баба<s n="n"/></l>                           <r>buva<s n="n"/></r></p></e>
+      <e><p><l>бағ<s n="n"/></l>                            <r>mevazor<s n="n"/></r></p></e>
+      <e><p><l>баға<s n="n"/></l>                           <r>narx<s n="n"/></r></p></e>
+      <e><p><l>баға<s n="n"/></l>                           <r>qiymat<s n="n"/></r></p></e>
+      <e><p><l>бағалы<s n="adj"/></l>                       <r>qodir<s n="adj"/></r></p></e>
+      <e><p><l>бағам<s n="n"/></l>                          <r>kurs<s n="n"/></r></p></e>
+      <e><p><l>бағана<s n="adv"/></l>                       <r>ilgari<s n="adv"/></r></p></e>
+      <e><p><l>бағана<s n="adv"/></l>                       <r>oldin<s n="adv"/></r></p></e>
+      <e><p><l>Багдад<s n="np"/><s n="top"/></l>            <r>Bogʻdot<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Бағдад<s n="np"/><s n="top"/></l>            <r>Bogʻdot<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>бағдарлама<s n="n"/></l>                     <r>programma<s n="n"/></r></p></e>
+      <e><p><l>Бағдат<s n="np"/><s n="top"/></l>            <r>Bogʻdot<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>бағыт<s n="n"/></l>                          <r>yon<s n="n"/></r></p></e>
+      <e><p><l>бағышта<s n="v"/><s n="tv"/></l>             <r>bagʻishla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>база<s n="n"/></l>                           <r>baza<s n="n"/></r></p></e>
+      <e><p><l>база<s n="n"/></l>                           <r>ombor<s n="n"/></r></p></e>
+      <e><p><l>базаs<s n="n"/></l>                          <r>poydevor<s n="n"/></r></p></e>
+      <e><p><l>базар<s n="n"/></l>                          <r>bozor<s n="n"/></r></p></e>
+      <e><p><l>Базель<s n="np"/><s n="top"/></l>            <r>Basel<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>базигер<s n="n"/></l>                        <r>teatr<s n="n"/></r></p></e>
+      <e><p><l>бай<s n="adj"/></l>                          <r>badavlat<s n="adj"/></r></p></e>
+      <e><p><l>бай<s n="adj"/></l>                          <r>boy<s n="adj"/></r></p></e>
+      <e><p><l>бай<s n="n"/></l>                            <r>er<s n="n"/></r></p></e>
+      <e><p><l>бай<s n="n"/></l>                            <r>gʻani<s n="n"/></r></p></e>
+      <e><p><l>байла<s n="v"/><s n="tv"/></l>               <r>bogʻla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>байлан<s n="v"/><s n="iv"/></l>              <r>bogʻlan<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>байланыс<s n="n"/></l>                       <r>aloqa<s n="n"/></r></p></e>
+      <e><p><l>байланыс<s n="n"/></l>                       <r>bogʻlanish<s n="n"/></r></p></e>
+      <e><p><l>байланыс<s n="n"/></l>                       <r>muloqot<s n="n"/></r></p></e>
+      <e><p><l>байланыс<s n="n"/></l>                       <r>munosabat<s n="n"/></r></p></e>
+      <e><p><l>байланыс<s n="n"/></l>                       <r>muomala<s n="n"/></r></p></e>
+      <e><p><l>байланысты<s n="adj"/></l>                   <r>aloqador<s n="adj"/></r></p></e>
+      <e><p><l>байланысты<s n="adj"/></l>                   <r>aloqali<s n="adj"/></r></p></e>
+      <e><p><l>байланысты<s n="adj"/></l>                   <r>bogʻliq<s n="adj"/></r></p></e>
+      <e><p><l>байланыстыр<s n="v"/><s n="tv"/></l>         <r>birlashtir<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>байлық<s n="n"/></l>                         <r>borliq<s n="n"/></r></p></e>
+      <e><p><l>байлық<s n="n"/></l>                         <r>boylik<s n="n"/></r></p></e>
+      <e><p><l>байлық<s n="n"/></l>                         <r>mulk<s n="n"/></r></p></e>
+      <e><p><l>байлық<s n="n"/></l>                         <r>tovar<s n="n"/></r></p></e>
+      <e><p><l>бақ<s n="n"/></l>                            <r>bogʻ<s n="n"/></r></p></e>
+      <e><p><l>бақ<s n="n"/></l>                            <r>mevazor<s n="n"/></r></p></e>
+      <e><p><l>бақ<s n="n"/></l>                            <r>yogʻoch<s n="n"/></r></p></e>
+      <e><p><l>бақ<s n="v"/><s n="tv"/></l>                 <r>boq<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>бақай<s n="n"/></l>                          <r>boshliq<s n="n"/></r></p></e>
+      <e><p><l>бактерия<s n="n"/></l>                       <r>bakteriya<s n="n"/></r></p></e>
+      <e><p><l>бактериялар<s n="n"/></l>                    <r>bakteriya<s n="n"/></r></p></e>
+      <e><p><l>Баку<s n="np"/><s n="top"/></l>              <r>Boku<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>бақша<s n="n"/></l>                          <r>bogʻcha<s n="n"/></r></p></e>
+      <e><p><l>бақша<s n="n"/></l>                          <r>bogʻ<s n="n"/></r></p></e>
+      <e><p><l>бақылау<s n="n"/></l>                        <r>nazorat<s n="n"/></r></p></e>
+      <e><p><l>бақыт<s n="n"/></l>                          <r>baxt<s n="n"/></r></p></e>
+      <e><p><l>бақыт<s n="n"/></l>                          <r>saodat<s n="n"/></r></p></e>
+      <e><p><l>бақыт<s n="n"/></l>                          <r>xushbaxtlik<s n="n"/></r></p></e>
+      <e><p><l>бал<s n="n"/></l>                            <r>asal<s n="n"/></r></p></e>
+      <e><p><l>бала<s n="n"/></l>                           <r>avlod<s n="n"/></r></p></e>
+      <e><p><l>бала<s n="n"/></l>                           <r>bolacha<s n="n"/></r></p></e>
+      <e><p><l>бала<s n="n"/></l>                           <r>bolakay<s n="n"/></r></p></e>
+      <e><p><l>бала<s n="n"/></l>                           <r>bola<s n="n"/></r></p></e>
+      <e><p><l>балапан<s n="n"/></l>                        <r>joʻja<s n="n"/></r></p></e>
+      <e><p><l>балапан<s n="n"/></l>                        <r>polapon<s n="n"/></r></p></e>
+      <e><p><l>Баласағұн<s n="np"/><s n="top"/></l>         <r>Balasagʻun<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>балет<s n="n"/></l>                          <r>balet<s n="n"/></r></p></e>
+      <e><p><l>Балкан<s n="np"/><s n="top"/></l>            <r>Bolqon<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>балкон<s n="n"/></l>                         <r>balkon<s n="n"/></r></p></e>
+      <e><p><l>балқу<s n="n"/></l>                          <r>erituvchi<s n="n"/></r></p></e>
+      <e><p><l>балта<s n="n"/></l>                          <r>bolta<s n="n"/></r></p></e>
+      <e><p><l>Балтимор<s n="np"/><s n="top"/></l>          <r>Baltimor<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>балық<s n="n"/></l>                          <r>baliq{Q}<s n="n"/></r></p></e>
+      <e><p><l>балық<s n="n"/></l>                          <r>baliq<s n="n"/></r></p></e>
+      <e><p><l>Балық<s n="np"/><s n="top"/></l>             <r>Baliq<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Бамако<s n="np"/><s n="top"/></l>            <r>Bamako<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Бангкок<s n="np"/><s n="top"/></l>           <r>Bangkok<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Бангладеш<s n="np"/><s n="top"/></l>         <r>Bangladesh<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>банк<s n="n"/></l>                           <r>bank<s n="n"/></r></p></e>
+      <e><p><l>банкир<s n="n"/></l>                         <r>bankir<s n="n"/></r></p></e>
+      <e><p><l>бап<s n="n"/></l>                            <r>bob<s n="n"/></r></p></e>
+      <e><p><l>бар<s n="adj"/></l>                          <r>bor<s n="adj"/></r></p></e>
+      <e><p><l>бар<s n="v"/><s n="iv"/></l>                 <r>bor<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>бар<s n="v"/><s n="iv"/></l>                 <r>ket<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>Барбадос<s n="np"/><s n="top"/></l>          <r>Barbados<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>баритон<s n="n"/></l>                        <r>bariton<s n="n"/></r></p></e>
+      <e><p><l>барлық<s n="adj"/></l>                       <r>borliq<s n="adj"/></r></p></e>
+      <e><p><l>барлық<s n="adv"/></l>                       <r>hamma<b/>yer<s n="adv"/></r></p></e>
+      <e><p><l>барлық<s n="det"/><s n="qnt"/></l>           <r>hamma<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>барлық<s n="prn"/></l>                       <r>barcha<s n="prn"/></r></p></e>
+      <e><p><l>барша<s n="adj"/></l>                        <r>barcha<s n="adj"/></r></p></e>
+      <e><p><l>бары<s n="adv"/></l>                         <r>barchasi<s n="adv"/></r></p></e>
+      <e><p><l>барыс<s n="n"/></l>                          <r>qoplon<s n="n"/></r></p></e>
+      <e><p><l>бас<b/>тарт<s n="v"/><s n="tv"/></l>         <r>tashla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>бас<s n="n"/></l>                            <r>bosh<s n="n"/></r></p></e>
+      <e><p><l>бас<s n="n"/></l>                            <r>kalla<s n="n"/></r></p></e>
+      <e><p><l>бас<s n="n"/></l>                            <r>yetakchi<s n="n"/></r></p></e>
+      <e><p><l>бас<s n="v"/><s n="iv"/></l>                 <r>bos<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>бас<s n="v"/><s n="tv"/></l>                 <r>bos<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>басқа<s n="adj"/></l>                        <r>boshqa<s n="adj"/></r></p></e>
+      <e><p><l>басқа<s n="adj"/></l>                        <r>boshqa<s n="adv"/></r></p></e>
+      <e><p><l>басқа<s n="adj"/></l>                        <r>boshqa<s n="det"/><s n="ind"/></r></p></e>
+      <e><p><l>басқа<s n="post"/></l>                       <r>boshqa<s n="post"/></r></p></e>
+      <e><p><l>басқар<s n="v"/><s n="tv"/></l>              <r>boshqar<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>басқарма<s n="n"/></l>                       <r>boshqarma<s n="n"/></r></p></e>
+      <e><p><l>басқару<s n="n"/></l>                        <r>boshqarma<s n="n"/></r></p></e>
+      <e><p><l>басқару<s n="n"/></l>                        <r>idora<s n="n"/></r></p></e>
+      <e><p><l>басқарушы<s n="n"/></l>                      <r>boshqaruvchi<s n="n"/></r></p></e>
+      <e><p><l>баспақ<s n="n"/></l>                         <r>qoramol<s n="n"/></r></p></e>
+      <e><p><l>баспасөз<s n="n"/></l>                       <r>matbuot<s n="n"/></r></p></e>
+      <e><p><l>Басра<s n="np"/><s n="top"/></l>             <r>Basra<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>баста<s n="adv"/></l>                        <r>boshida<s n="adv"/></r></p></e>
+      <e><p><l>баста<s n="adv"/></l>                        <r>avaliga<s n="adv"/></r></p></e>
+      <e><p><l>баста<s n="vaux"/></l>                       <r>boshla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>баста<s n="v"/><s n="iv"/></l>               <r>boshla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>баста<s n="v"/><s n="tv"/></l>               <r>boshla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>бастау<s n="n"/></l>                         <r>boshlanish<s n="n"/></r></p></e>
+      <e><p><l>бастау<s n="n"/></l>                         <r>resurs<s n="n"/></r></p></e>
+      <e><p><l>бастауыш<s n="n"/></l>                       <r>poydevor<s n="n"/></r></p></e>
+      <e><p><l>басты<s n="adj"/></l>                        <r>asosiy<s n="adj"/></r></p></e>
+      <e><p><l>бастық<s n="n"/></l>                         <r>rais<s n="n"/></r></p></e>
+      <e><p><l>бастық<s n="n"/></l>                         <r>yetakchi<s n="n"/></r></p></e>
+      <e><p><l>бастық<s n="n"/></l>                         <r>boshliq<s n="n"/></r></p></e>
+      <e><p><l>басшы<s n="n"/></l>                          <r>boshchi<s n="n"/></r></p></e>
+      <e><p><l>басшы<s n="n"/></l>                          <r>boshliq{Q}<s n="n"/></r></p></e>
+      <e><p><l>басшы<s n="n"/></l>                          <r>rahbar<s n="n"/></r></p></e>
+      <e><p><l>басшы<s n="n"/></l>                          <r>rais<s n="n"/></r></p></e>
+      <e><p><l>басшылық<s n="n"/></l>                       <r>boshchilik<s n="n"/></r></p></e>
+      <e><p><l>басшылық<s n="n"/></l>                       <r>boshliq<s n="n"/></r></p></e>
+      <e><p><l>басшылық<s n="n"/></l>                       <r>rahbarlik<s n="n"/></r></p></e>
+      <e><p><l>басылым<s n="n"/></l>                        <r>nashr<s n="n"/></r></p></e>
+      <e><p><l>басым<s n="adj"/></l>                        <r>yalpi<s n="adj"/></r></p></e>
+      <e><p><l>басымды<s n="adj"/></l>                      <r>yuksak<s n="adj"/></r></p></e>
+      <e><p><l>басын<s n="n"/></l>                          <r>yetakchi<s n="n"/></r></p></e>
+      <e><p><l>бата<s n="n"/></l>                           <r>duo<s n="n"/></r></p></e>
+      <e><p><l>бата<s n="n"/></l>                           <r>fotiha<s n="n"/></r></p></e>
+      <e><p><l>бата<s n="n"/></l>                           <r>namoz<s n="n"/></r></p></e>
+      <e><p><l>батпақты<s n="adj"/></l>                     <r>botqoqli<s n="adj"/></r></p></e>
+      <e><p><l>батыл<s n="adj"/></l>                        <r>jasur<s n="adj"/></r></p></e>
+      <e><p><l>батыр<s n="n"/></l>                          <r>qahramon<s n="n"/></r></p></e>
+      <e><p><l>батыр<s n="adj"/></l>                        <r>qoʻrqmas<s n="adj"/></r></p></e>
+      <e><p><l>батыр<s n="adj"/></l>                        <r>botir<s n="adj"/></r></p></e>
+      <e><p><l>батыс<s n="n"/></l>                          <r>gʻarb<s n="n"/></r></p></e>
+      <e><p><l>батыс<s n="n"/></l>                          <r>kunbotar<s n="n"/></r></p></e>
+      <e><p><l>бау-бақша<s n="n"/></l>                      <r>bogʻ<s n="n"/></r></p></e>
+      <e><p><l>бауыр<s n="n"/></l>                          <r>jigar<s n="n"/></r></p></e>
+      <e><p><l>бауыр<s n="n"/></l>                          <r>oʻpka<s n="n"/></r></p></e>
+      <e><p><l>бауырластық<s n="n"/></l>                    <r>birodarlik<s n="n"/></r></p></e>
+      <e><p><l>бауырластық<s n="n"/></l>                    <r>ogʻaynilik<s n="n"/></r></p></e>
+      <e><p><l>Бахрейн<s n="np"/><s n="top"/></l>           <r>Bahrayn<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Бахтия<s n="np"/><s n="cog"/><s n="mf"/></l> <r>Bahtiya<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+      <e><p><l>Башқұртстан<s n="np"/><s n="top"/></l>       <r>Boshqirdiston<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>баян<s n="n"/></l>                           <r>bayon<s n="n"/></r></p></e>
+      <e><p><l>баян<s n="n"/></l>                           <r>qissa<s n="n"/></r></p></e>
+      <e><p><l>без<s n="n"/></l>                            <r>bez<s n="n"/></r></p></e>
+      <e><p><l>без<s n="n"/></l>                            <r>boʻz<s n="n"/></r></p></e>
+      <e><p><l>бейбіт<s n="adj"/></l>                       <r>tinch<s n="adj"/></r></p></e>
+      <e><p><l>бейбіт<s n="adj"/></l>                       <r>osoyishta<s n="adj"/></r></p></e>
+      <e><p><l>бейбітшілік<s n="n"/></l>                    <r>tinchlik<s n="n"/></r></p></e>
+      <e><p><l>бейбітшілік<s n="n"/></l>                    <r>tinch<s n="n"/></r></p></e>
+      <e><p><l>бейбітшілікті<s n="n"/></l>                  <r>tinchlik<s n="n"/></r></p></e>
+      <e><p><l>бәйбіше<s n="n"/></l>                        <r>xotin<s n="n"/></r></p></e>
+      <e><p><l>бәйбіше<s n="n"/></l>                        <r>uy<b/>bekasi<s n="n"/></r></p></e>
+      <e><p><l>Бейжің<s n="np"/><s n="top"/></l>            <r>Pekin<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>бейне<s n="n"/></l>                          <r>kadr<s n="n"/></r></p></e>
+      <e><p><l>бейне<s n="n"/></l>                          <r>manzara<s n="n"/></r></p></e>
+      <e><p><l>бейнет<s n="n"/></l>                         <r>aziyat<s n="n"/></r></p></e>
+      <e><p><l>бейнет<s n="n"/></l>                         <r>azob<s n="n"/></r></p></e>
+      <e><p><l>бейнет<s n="n"/></l>                         <r>dard<s n="n"/></r></p></e>
+      <e><p><l>бейнет<s n="n"/></l>                         <r>jabr<s n="n"/></r></p></e>
+      <e><p><l>бейнет<s n="n"/></l>                         <r>jafo<s n="n"/></r></p></e>
+      <e><p><l>Бейрут<s n="np"/><s n="top"/></l>            <r>Beyrut<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>бейсенбі<s n="n"/></l>                       <r>payshanba<s n="n"/></r></p></e>
+      <e><p><l>Бекболат<s n="np"/><s n="ant"/><s n="m"/></l><r>Bekpoʻlat<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>бекіт<s n="v"/><s n="tv"/></l>               <r>saqla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>бекіт<s n="v"/><s n="tv"/></l>               <r>mahkamla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>бел<s n="n"/></l>                            <r>belkurak<s n="n"/></r></p></e>
+      <e><p><l>бел<s n="n"/></l>                            <r>bel<s n="n"/></r></p></e>
+      <e><p><l>белгі<s n="n"/></l>                          <r>belgi<s n="n"/></r></p></e>
+      <e><p><l>белгі<s n="n"/></l>                          <r>alomat<s n="n"/></r></p></e>
+      <e><p><l>белгі<s n="n"/></l>                          <r>ishora<s n="n"/></r></p></e>
+      <e><p><l>белгіле<s n="v"/><s n="tv"/></l>             <r>aniqla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>белгіле<s n="v"/><s n="tv"/></l>             <r>belgila<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>белгілі<s n="adj"/></l>                      <r>mashhur<s n="adj"/></r></p></e>
+      <e><p><l>белгілі<s n="adj"/></l>                      <r>muayyan<s n="adj"/></r></p></e>
+      <e><p><l>Белград<s n="np"/><s n="top"/></l>           <r>Belgrad<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Белиз<s n="np"/><s n="top"/></l>             <r>Beliz<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>белсене<s n="adv"/></l>                      <r>faol<s n="adv"/></r></p></e>
+      <e><p><l>Бельгия<s n="np"/><s n="top"/></l>           <r>Belgiya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Бен<s n="np"/><s n="ant"/><s n="m"/></l>     <r>Ben<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Бенгази<s n="np"/><s n="top"/></l>           <r>Bengazi<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Бенин<s n="np"/><s n="top"/></l>             <r>Benin<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>бер<s n="vaux"/></l>                         <r>ber<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>бер<s n="v"/><s n="iv"/></l>                 <r>ber<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>бер<s n="v"/><s n="iv"/></l>                 <r>ket<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>бер<s n="v"/><s n="tv"/></l>                 <r>ber<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>бер<s n="v"/><s n="tv"/></l>                 <r>chiq<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>береке<s n="n"/></l>                         <r>foyda<s n="n"/></r></p></e>
+      <e><p><l>береке<s n="n"/></l>                         <r>baraka<s n="n"/></r></p></e>
+      <e><p><l>бері<s n="post"/></l>                        <r>beri<s n="post"/></r></p></e>
+      <e><p><l>бәрі<s n="prn"/><s n="qnt"/></l>             <r>hamma<s n="prn"/><s n="qnt"/></r></p></e>
+      <e><p><l>берік<s n="adj"/></l>                        <r>qattiq<s n="adj"/></r></p></e>
+      <e><p><l>берік<s n="adj"/></l>                        <r>zich<s n="adj"/></r></p></e>
+      <e><p><l>Берлин<s n="np"/><s n="top"/></l>            <r>Berlin<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Берн<s n="np"/><s n="top"/></l>              <r>Bern<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>бес<s n="num"/></l>                          <r>besh<s n="num"/></r></p></e>
+      <e><p><l>бәсеке<s n="n"/></l>                         <r>raqobat<s n="n"/></r></p></e>
+      <e><p><l>бәсекелестік<s n="n"/></l>                   <r>musobaqa<s n="n"/></r></p></e>
+      <e><p><l>бәстес<s n="v"/><s n="iv"/></l>              <r>bahslash<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>бет<s n="n"/></l>                            <r>sahifa<s n="n"/></r></p></e>
+      <e><p><l>бет<s n="n"/></l>                            <r>tus<s n="n"/></r></p></e>
+      <e><p><l>бетон<s n="n"/></l>                          <r>beton<s n="n"/></r></p></e>
+      <e><p><l>Бехар<s n="np"/><s n="top"/></l>             <r>Bahar<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>бешпет<s n="n"/></l>                         <r>kamzul<s n="n"/></r></p></e>
+      <e><p><l>би<s n="n"/></l>                             <r>qarsak<s n="n"/></r></p></e>
+      <e><p><l>би<s n="n"/></l>                             <r>raqs<s n="n"/></r></p></e>
+      <e><p><l>бидай<s n="n"/></l>                          <r>bugʻdoy<s n="n"/></r></p></e>
+      <e><p><l>бизнес<s n="n"/></l>                         <r>biznes<s n="n"/></r></p></e>
+      <e><p><l>биік<s n="adj"/></l>                         <r>yirik<s n="adj"/></r></p></e>
+      <e><p><l>биік<s n="adj"/></l>                         <r>yuksak<s n="adj"/></r></p></e>
+      <e><p><l>биікте<s n="v"/><s n="iv"/></l>              <r>koʻtaril<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>биіктік<s n="n"/></l>                        <r>balandlik<s n="n"/></r></p></e>
+      <e><p><l>биле<s n="v"/><s n="tv"/></l>                <r>boshqar<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>билет<s n="n"/></l>                          <r>bilet<s n="n"/></r></p></e>
+      <e><p><l>билет<s n="n"/></l>                          <r>patta<s n="n"/></r></p></e>
+      <e><p><l>билет<s n="n"/></l>                          <r>chipta<s n="n"/></r></p></e>
+      <e><p><l>билік<s n="n"/></l>                          <r>iqtidor<s n="n"/></r></p></e>
+      <e><p><l>билік<s n="n"/></l>                          <r>hokimiyat<s n="n"/></r></p></e>
+      <e><p><l>билік<s n="n"/></l>                          <r>kuch<s n="n"/></r></p></e>
+      <e><p><l>билік<s n="n"/></l>                          <r>vakolat<s n="n"/></r></p></e>
+      <e><p><l>биология<s n="n"/></l>                       <r>biologiya<s n="n"/></r></p></e>
+      <e><p><l>биржа<s n="n"/></l>                          <r>birja<s n="n"/></r></p></e>
+      <e><p><l>Бирма<s n="np"/><s n="top"/></l>             <r>Myanma<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>біл<s n="v"/><s n="tv"/></l>                 <r>bil<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>біл<s n="v"/><s n="tv"/></l>                 <r>koʻr<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>білдір<s n="v"/><s n="tv"/></l>              <r>bildir<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>білезік<s n="n"/></l>                        <r>bilaguzuk<s n="n"/></r></p></e>
+      <e><p><l>білікті<s n="adj"/></l>                      <r>bilimli<s n="adj"/></r></p></e>
+      <e><p><l>білікті<s n="adj"/></l>                      <r>ma’rifatli<s n="adj"/></r></p></e>
+      <e><p><l>білім<s n="n"/></l>                          <r>bilim<s n="n"/></r></p></e>
+      <e><p><l>білім<s n="n"/></l>                          <r>ilm<s n="n"/></r></p></e>
+      <e><p><l>білім<s n="n"/></l>                          <r>maʻlumot<s n="n"/></r></p></e>
+      <e><p><l>білім<s n="n"/></l>                          <r>ma’rifat<s n="n"/></r></p></e>
+      <e><p><l>бір<b/>ауыз<s n="n"/></l>                    <r>ittifoqchi<s n="n"/></r></p></e>
+      <e><p><l>бір<s n="adj"/></l>                          <r>biror<s n="adj"/></r></p></e>
+      <e><p><l>бір<s n="det"/><s n="ind"/></l>              <r>bir<s n="det"/><s n="ind"/></r></p></e>
+      <e><p><l>бір<s n="num"/></l>                          <r>bir<s n="num"/></r></p></e>
+      <e><p><l>бір<s n="num"/></l>                          <r>bitta<s n="num"/></r></p></e>
+      <e><p><l>біраз<s n="adv"/></l>                        <r>ozgina<s n="adv"/></r></p></e>
+      <e><p><l>бірақ<s n="cnjcoo"/></l>                     <r>ammo<s n="cnjcoo"/></r></p></e>
+      <e><p><l>бірақ<s n="cnjcoo"/></l>                     <r>biroq<s n="cnjcoo"/></r></p></e>
+      <e><p><l>бірақ<s n="cnjcoo"/></l>                     <r>lekin<s n="cnjcoo"/></r></p></e>
+      <e><p><l>бірге<s n="adv"/></l>                        <r>birga<s n="adv"/></r></p></e>
+      <e><p><l>бірге<s n="post"/></l>                       <r>birga<s n="post"/></r></p></e>
+      <e><p><l>бірден<s n="adv"/></l>                       <r>darhol<s n="adv"/></r></p></e>
+      <e><p><l>бірегей<s n="adj"/></l>                      <r>noyob<s n="adj"/></r></p></e>
+      <e><p><l>біресе<s n="cnjcoo"/></l>                    <r>yoʻqsa<s n="cnjadv"/></r></p></e>
+      <e><p><l>бірік<s n="adj"/></l>                        <r>qoʻshma<s n="adj"/></r></p></e>
+      <e><p><l>бірқатар<s n="prn"/><s n="qnt"/><s n="nom"/></l><r>biroz<s n="det"/><s n="ind"/></r></p></e>
+      <e><p><l>бірлес<s n="v"/><s n="iv"/></l>              <r>birlash<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>бірлестік<s n="n"/></l>                      <r>birlashma<s n="n"/></r></p></e>
+      <e><p><l>бірлестік<s n="n"/></l>                      <r>ittifoq<s n="n"/></r></p></e>
+      <e><p><l>бірлестік<s n="n"/></l>                      <r>uyushma<s n="n"/></r></p></e>
+      <e><p><l>бірлік<s n="n"/></l>                         <r>birlik<s n="n"/></r></p></e>
+      <e><p><l>бірлік<s n="n"/></l>                         <r>uyushma<s n="n"/></r></p></e>
+      <e><p><l>бірталай<s n="adv"/></l>                     <r>birtalay<s n="adv"/></r></p></e>
+      <e><p><l>бірталай<s n="adv"/></l>                     <r>yetarlicha<s n="adv"/></r></p></e>
+      <e><p><l>біртіндеп<s n="adv"/></l>                    <r>tobora<s n="adv"/></r></p></e>
+      <e><p><l>біт<s n="v"/><s n="iv"/></l>                 <r>bit<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>бітір<s n="v"/><s n="tv"/></l>               <r>tugat<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>Бішкек<s n="np"/><s n="top"/></l>            <r>Bishkek<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Бобров<s n="np"/><s n="cog"/><s n="m"/></l>  <r>Bobrov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+      <e><p><l>Богдан<s n="np"/><s n="ant"/><s n="m"/></l>  <r>Bogdan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Богота<s n="np"/><s n="top"/></l>            <r>Bogota<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Боинг<s n="np"/><s n="top"/></l>             <r>Boeing<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>бой<s n="n"/></l>                            <r>boʻy<s n="n"/></r></p></e>
+      <e><p><l>бой<s n="n"/></l>                            <r>balandlik<s n="n"/></r></p></e>
+      <e><p><l>бой<s n="n"/></l>                            <r>tuzilish<s n="n"/></r></p></e>
+      <e><p><l>бойда<s n="post"/></l>                       <r>mobaynida<s n="post"/></r></p></e>
+      <e><p><l>бойы<s n="post"/></l>                        <r>boʻyi<s n="post"/></r></p></e>
+      <e><p><l>бойы<s n="post"/></l>                        <r>davomida<s n="post"/></r></p></e>
+      <e><p><l>бойынша<s n="post"/></l>                     <r>boʻyicha<s n="post"/></r></p></e>
+      <e><p><l>бойынша<s n="post"/></l>                     <r>davomida<s n="post"/></r></p></e>
+      <e><p><l>бойынша<s n="post"/></l>                     <r>yarasha<s n="post"/></r></p></e>
+      <e><p><l>Бөкейхан<s n="np"/><s n="ant"/><s n="m"/></l><r>Bekeyxon<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>бол<s n="v"/><s n="iv"/></l>                 <r>boʻl<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>бол<s n="v"/><s n="iv"/></l>                 <r>uchra<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>бөл<s n="v"/><s n="tv"/></l>                 <r>farqla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>бөл<s n="v"/><s n="tv"/></l>                 <r>ajrat<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>болат<s n="n"/></l>                          <r>poʻlat<s n="n"/></r></p></e>
+      <e><p><l>болашақ<s n="n"/></l>                        <r>kelajak<s n="n"/></r></p></e>
+      <e><p><l>болашақ<s n="n"/></l>                        <r>boʻlajak<s n="n"/></r></p></e>
+      <e><p><l>Болгария<s n="np"/><s n="top"/></l>          <r>Bolgariya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>бөле<s n="v"/><s n="tv"/></l>                <r>farqla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>бөле<s n="v"/><s n="tv"/></l>                <r>oʻra<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>болжам<s n="n"/></l>                         <r>taxmin<s n="n"/></r></p></e>
+      <e><p><l>Боливия<s n="np"/><s n="top"/></l>           <r>Boliviya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>бөлік<s n="n"/></l>                          <r>boʻlak<s n="n"/></r></p></e>
+      <e><p><l>бөлік<s n="n"/></l>                          <r>klaster<s n="n"/></r></p></e>
+      <e><p><l>бөлік<s n="n"/></l>                          <r>parcha<s n="n"/></r></p></e>
+      <e><p><l>бөлік<s n="n"/></l>                          <r>qism<s n="n"/></r></p></e>
+      <e><p><l>бөлік<s n="n"/></l>                          <r>zona<s n="n"/></r></p></e>
+      <e><p><l>бөлім<s n="n"/></l>                          <r>boʻlim<s n="n"/></r></p></e>
+      <e><p><l>бөлім<s n="n"/></l>                          <r>kafedra<s n="n"/></r></p></e>
+      <e><p><l>бөлім<s n="n"/></l>                          <r>maxraj<s n="n"/></r></p></e>
+      <e><p><l>бөлім<s n="n"/></l>                          <r>qism<s n="n"/></r></p></e>
+      <e><p><l>бөлімше<s n="n"/></l>                        <r>kafedra<s n="n"/></r></p></e>
+      <e><p><l>бөлме<s n="n"/></l>                          <r>kayuta<s n="n"/></r></p></e>
+      <e><p><l>бөлме<s n="n"/></l>                          <r>xona<s n="n"/></r></p></e>
+      <e><p><l>болмыс<s n="n"/></l>                         <r>borliq{Q}<s n="n"/></r></p></e>
+      <e><p><l>болмыс<s n="n"/></l>                         <r>borliq<s n="n"/></r></p></e>
+      <e><p><l>бөлшек<s n="n"/></l>                         <r>kasr<s n="n"/></r></p></e>
+      <e><p><l>бөлшек<s n="n"/></l>                         <r>parcha<s n="n"/></r></p></e>
+      <e><p><l>бөлшек<s n="n"/></l>                         <r>qism<s n="n"/></r></p></e>
+      <e><p><l>болып<b/>кел<s n="v"/><s n="iv"/></l>        <r>ket<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>болып<b/>табыл<s n="v"/><s n="iv"/></l>      <r>boʻl<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>бомба<s n="n"/></l>                          <r>bomba<s n="n"/></r></p></e>
+      <e><p><l>Бонн<s n="np"/><s n="top"/></l>              <r>Bonn<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>бор<s n="n"/></l>                            <r>boʻr<s n="n"/></r></p></e>
+      <e><p><l>Боран<s n="np"/><s n="top"/></l>             <r>Boran<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Борис<s n="np"/><s n="ant"/><s n="m"/></l>   <r>Boris<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>бөрі<s n="n"/></l>                           <r>qurt<s n="n"/></r></p></e>
+      <e><p><l>борыш<s n="n"/></l>                          <r>qarz<s n="n"/></r></p></e>
+      <e><p><l>борышқорлық<s n="n"/></l>                    <r>qarzdorlik<s n="n"/></r></p></e>
+      <e><p><l>бос<s n="adj"/></l>                          <r>boʻm-boʻsh<s n="adj"/></r></p></e>
+      <e><p><l>бос<s n="adj"/></l>                          <r>boʻsh<s n="adj"/></r></p></e>
+      <e><p><l>бос<s n="adj"/></l>                          <r>puch<s n="adj"/></r></p></e>
+      <e><p><l>боса<s n="v"/><s n="iv"/></l>                <r>boʻsha<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>бостандық<s n="n"/></l>                      <r>ozodlik<s n="n"/></r></p></e>
+      <e><p><l>Бостон<s n="np"/><s n="top"/></l>            <r>Boston<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>ботаника<s n="n"/></l>                       <r>botanika<s n="n"/></r></p></e>
+      <e><p><l>бөтен<s n="adj"/></l>                        <r>boshqa<s n="det"/><s n="ind"/></r></p></e>
+      <e><p><l>Ботсвана<s n="np"/><s n="top"/></l>          <r>Botsvana<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>боя<s n="v"/><s n="tv"/></l>                 <r>boʻya<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>бояу<s n="n"/></l>                           <r>boʻyoq<s n="n"/></r></p></e>
+      <e><p><l>Бразилиа<s n="np"/><s n="top"/></l>          <r>Braziliya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Бранислав<s n="np"/><s n="ant"/><s n="m"/></l><r>Branislav<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Братислава<s n="np"/><s n="top"/></l>        <r>Bratislava<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Бриндизи<s n="np"/><s n="top"/></l>          <r>Brindizi<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Брисбен<s n="np"/><s n="top"/></l>           <r>Brisban<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Британия<s n="np"/><s n="top"/></l>          <r>Britaniya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Брно<s n="np"/><s n="top"/></l>              <r>Brno<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Бруней<s n="np"/><s n="top"/></l>            <r>Bruney<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Бруно<s n="np"/><s n="ant"/><s n="m"/></l>   <r>Bruno<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Бруссел<s n="np"/><s n="top"/></l>           <r>Bryussel<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Брюссель<s n="np"/><s n="top"/></l>          <r>Bryussel<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>бу<s n="n"/></l>                             <r>bugʻ<s n="n"/></r></p></e>
+      <e><p><l>бұғау<s n="n"/></l>                          <r>tizma<s n="n"/></r></p></e>
+      <e><p><l>Бүгілме<s n="np"/><s n="top"/></l>           <r>Bugilme<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>бүгін<s n="adv"/></l>                        <r>bugun<s n="adv"/></r></p></e>
+      <e><p><l>бүгін<s n="n"/></l>                          <r>bugun<s n="n"/></r></p></e>
+      <e><p><l>Бүгінгі таңда<s n="adv"/></l>                <r>bugun<s n="adv"/></r></p></e>
+      <e><p><l>Будапешт<s n="np"/><s n="top"/></l>          <r>Budapesht<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>бұз<s n="v"/><s n="tv"/></l>                 <r>buz<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>бұзақылық<s n="n"/></l>                      <r>gʻalamislik<s n="n"/></r></p></e>
+      <e><p><l>бұйра<s n="adj"/></l>                        <r>jingalak<s n="adj"/></r></p></e>
+      <e><p><l>бүйрек<s n="n"/></l>                         <r>buyrak<s n="n"/></r></p></e>
+      <e><p><l>бұйрық<s n="n"/></l>                         <r>buyruq<s n="n"/></r></p></e>
+      <e><p><l>бұйрық<s n="n"/></l>                         <r>farmoiysh<s n="n"/></r></p></e>
+      <e><p><l>бүйт<s n="v"/><s n="tv"/></l>                <r>bunday<b/>qil<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>бұйым<s n="n"/></l>                          <r>buyum<s n="n"/></r></p></e>
+      <e><p><l>бұйым<s n="n"/></l>                          <r>zaxira<s n="n"/></r></p></e>
+      <e><p><l>бұйыр<s n="v"/><s n="tv"/></l>               <r>gapir<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>бұқа<s n="n"/></l>                           <r>buqa<s n="n"/></r></p></e>
+      <e><p><l>бүкіл<s n="det"/><s n="qnt"/></l>            <r>butun<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>бүкпеле<s n="v"/><s n="iv"/></l>             <r>berkin<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>Бұқтырма<s n="np"/><s n="top"/></l>          <r>Buktyrma<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>бұл<s n="det"/><s n="dem"/></l>              <r>bu<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>бұл<s n="det"/><s n="dem"/><s n="qnt"/></l>  <r>bu<s n="det"/><s n="dem"/><s n="qnt"/></r></p></e>
+      <e><p><l>бұл<s n="prn"/><s n="dem"/></l>              <r>bu<s n="prn"/><s n="dem"/></r></p></e>
+      <e><p><l>бұл<s n="prn"/><s n="dem"/><s n="advl"/></l> <r>shunday<s n="adv"/></r></p></e>
+      <e><p><l>бұл<s n="prn"/><s n="dem"/><s n="advl"/></l> <r>shunga<s n="adv"/></r></p></e>
+      <e><p><l>Бұлан<s n="np"/><s n="top"/></l>             <r>Los<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>бүлікші<s n="n"/></l>                        <r>isyonchi<s n="n"/></r></p></e>
+      <e><p><l>бүлікші<s n="n"/></l>                        <r>isyonkor<s n="n"/></r></p></e>
+      <e><p><l>бүлікші<s n="n"/></l>                        <r>qoʻzgʻolonchi<s n="n"/></r></p></e>
+      <e><p><l>бұлт<s n="n"/></l>                           <r>bulut<s n="n"/></r></p></e>
+      <e><p><l>бұлшықет<s n="n"/></l>                       <r>muskul<s n="n"/></r></p></e>
+      <e><p><l>бұлыңғыр<s n="adj"/></l>                     <r>bulutli<s n="adj"/></r></p></e>
+      <e><p><l>бұр<s n="v"/><s n="tv"/></l>                 <r>qaytar<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>бұрғыла<s n="v"/><s n="tv"/></l>             <r>bura<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>бүрле<s n="v"/><s n="iv"/></l>               <r>gʻunchala<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>Бурунди<s n="np"/><s n="top"/></l>           <r>Burundi<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>бұршақ<s n="n"/></l>                         <r>doʻl<s n="n"/></r></p></e>
+      <e><p><l>бұрын<s n="adv"/></l>                        <r>ilgari<s n="adv"/></r></p></e>
+      <e><p><l>бұрынғы<s n="adj"/></l>                      <r>sobiq<s n="adj"/></r></p></e>
+      <e><p><l>бұрынғы<s n="adv"/></l>                      <r>oldingi<s n="adv"/></r></p></e>
+      <e><p><l>бұрынғыдай<s n="adv"/></l>                   <r>burungiday<s n="adv"/></r></p></e>
+      <e><p><l>бұрындық<s n="adj"/></l>                     <r>sobiq<s n="adj"/></r></p></e>
+      <e><p><l>бұрыш<s n="n"/></l>                          <r>burchak<s n="n"/></r></p></e>
+      <e><p><l>бұрыш<s n="n"/></l>                          <r>murch<s n="n"/></r></p></e>
+      <e><p><l>бұта<s n="n"/></l>                           <r>buta<s n="n"/></r></p></e>
+      <e><p><l>бұтақ<s n="n"/></l>                          <r>filial<s n="n"/></r></p></e>
+      <e><p><l>бұтақ<s n="n"/></l>                          <r>novda<s n="n"/></r></p></e>
+      <e><p><l>Бутан<s n="np"/><s n="top"/></l>             <r>Butan<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Бұхара<s n="np"/><s n="top"/></l>            <r>Buxoro<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Бухарест<s n="np"/><s n="top"/></l>          <r>Buxarest<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>буын<s n="n"/></l>                           <r>boʻgʻin<s n="n"/></r></p></e>
+      <e><p><l>бықырла<s n="v"/><s n="iv"/></l>             <r>gʻijilla<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>былға<s n="v"/><s n="tv"/></l>               <r>bulgʻa<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>бюджет<s n="n"/></l>                         <r>byudjet<s n="n"/></r></p></e>
+      <e><p><l>бюро<s n="n"/></l>                           <r>byuro<s n="n"/></r></p></e>
+      <e><p><l>бюро<s n="n"/></l>                           <r>vakolatxona<s n="n"/></r></p></e>
    </section>
 </dictionary>
 
