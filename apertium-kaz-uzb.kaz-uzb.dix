@@ -1415,6 +1415,204 @@
       <e><p><l>Гурьев<s n="np"/><s n="top"/></l>            <r>Gurev<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>ғылым<s n="n"/></l>                          <r>ilm<s n="n"/></r></p></e>
       <e><p><l>ғылыми<s n="adj"/></l>                       <r>ilmiy<s n="adj"/></r></p></e>
+
+     <e><p><l>да<s n="cnjcoo"/></l>                        <r>da<s n="cnjcoo"/></r></p></e>
+      <e><p><l>да<s n="cnjcoo"/></l>                        <r>ham<s n="cnjcoo"/></r></p></e>
+      <e><p><l>Давид<s n="np"/><s n="ant"/><s n="m"/></l>   <r>David<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Давор<s n="np"/><s n="ant"/><s n="m"/></l>   <r>Davor<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>дағдарыс<s n="n"/></l>                       <r>krizis<s n="n"/></r></p></e>
+      <e><p><l>дағдылы<s n="adj"/></l>                      <r>oddiy<s n="adj"/></r></p></e>
+      <e><p><l>дағуат<s n="n"/></l>                         <r>daʻvat<s n="n"/></r></p></e>
+      <e><p><l>Дағыстан<s n="np"/><s n="top"/></l>          <r>Dogʻiston<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>дайын<s n="adj"/></l>                        <r>tayyor<s n="adj"/></r></p></e>
+      <e><p><l>дайында<s n="v"/><s n="tv"/></l>             <r>shayla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>дайында<s n="v"/><s n="tv"/></l>             <r>tayyorla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>дайындық<s n="n"/></l>                       <r>tayorgarlik<s n="n"/></r></p></e>
+      <e><p><l>Дакар<s n="np"/><s n="top"/></l>             <r>Dakar<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Дакка<s n="np"/><s n="top"/></l>             <r>Dakka<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>дала<s n="n"/></l>                           <r>dala<s n="n"/></r></p></e>
+      <e><p><l>дала<s n="n"/></l>                           <r>dasht<s n="n"/></r></p></e>
+      <e><p><l>дала<s n="n"/></l>                           <r>hovli<s n="n"/></r></p></e>
+      <e><p><l>дала<s n="n"/></l>                           <r>tashqari<s n="n"/></r></p></e>
+      <e><p><l>дала<s n="n"/></l>                           <r>vodiy<s n="n"/></r></p></e>
+      <e><p><l>Даллас<s n="np"/><s n="top"/></l>            <r>Dallas<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Дамаск<s n="np"/><s n="top"/></l>            <r>Damashq<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Дамир<s n="np"/><s n="ant"/><s n="m"/></l>   <r>Damir<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>даму<s n="n"/></l>                           <r>taraqqiyot<s n="n"/></r></p></e>
+      <e><p><l>дамы<s n="v"/><s n="iv"/></l>                <r>rivojlan<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>дамы<s n="v"/><s n="iv"/></l>                <r>rivojlantir<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>дамыт<s n="v"/><s n="tv"/></l>               <r>rivojlantir<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>дана<s n="n"/></l>                           <r>dona<s n="n"/></r></p></e>
+      <e><p><l>Данило<s n="np"/><s n="ant"/><s n="m"/></l>  <r>Danilo<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Дания<s n="np"/><s n="top"/></l>             <r>Danimarka<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>даңқ<s n="n"/></l>                           <r>shavkat<s n="n"/></r></p></e>
+      <e><p><l>даңқ<s n="n"/></l>                           <r>shon<s n="n"/></r></p></e>
+      <e><p><l>даңқ<s n="n"/></l>                           <r>shon-sharaf<s n="n"/></r></p></e>
+      <e><p><l>дара<s n="adj"/></l>                         <r>baʻzi<s n="adj"/></r></p></e>
+      <e><p><l>Дар-әл-Харб<s n="np"/><s n="top"/></l>       <r>Dar-al-Harb<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>дарын<s n="n"/></l>                          <r>talant<s n="n"/></r></p></e>
+      <e><p><l>дастан<s n="n"/></l>                         <r>doston<s n="n"/></r></p></e>
+      <e><p><l>дау<s n="n"/></l>                            <r>musobaqa<s n="n"/></r></p></e>
+      <e><p><l>дау<s n="n"/></l>                            <r>nizo<s n="n"/></r></p></e>
+      <e><p><l>дауа<s n="n"/></l>                           <r>chora<s n="n"/></r></p></e>
+      <e><p><l>дауа<s n="n"/></l>                           <r>dori<s n="n"/></r></p></e>
+      <e><p><l>дауа<s n="n"/></l>                           <r>qaror<s n="n"/></r></p></e>
+      <e><p><l>дау-дамай<s n="n"/></l>                      <r>nizo<s n="n"/></r></p></e>
+      <e><p><l>дауыс<s n="n"/></l>                          <r>ovoz<s n="n"/></r></p></e>
+      <e><p><l>дауыс<s n="n"/></l>                          <r>un<s n="n"/></r></p></e>
+      <e><p><l>дауыс<s n="n"/></l>                          <r>tovush<s n="n"/></r></p></e>
+      <e><p><l>даяр<s n="adj"/></l>                         <r>tayyor<s n="adj"/></r></p></e>
+      <e><p><l>даярла<s n="v"/><s n="tv"/></l>              <r>tayyorla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>де<s n="v"/><s n="tv"/></l>                  <r>de<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>де<s n="v"/><s n="tv"/></l>                  <r>deyish<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>Девон<s n="np"/><s n="top"/></l>             <r>Devon<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>дейін<s n="post"/></l>                       <r>dovur<s n="post"/></r></p></e>
+      <e><p><l>дейін<s n="post"/></l>                       <r>qadar<s n="post"/></r></p></e>
+      <e><p><l>декабрь<s n="n"/></l>                        <r>dekabr<s n="n"/></r></p></e>
+      <e><p><l>Делавэр<s n="np"/><s n="top"/></l>           <r>Delaver<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>делдал<s n="n"/></l>                         <r>dallol<s n="n"/></r></p></e>
+      <e><p><l>делдалдық<s n="n"/></l>                      <r>dallollik<s n="n"/></r></p></e>
+      <e><p><l>дәлел<s n="n"/></l>                          <r>dalolat<s n="n"/></r></p></e>
+      <e><p><l>Дели<s n="np"/><s n="top"/></l>              <r>Dehli<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>дем<s n="n"/></l>                            <r>dam<s n="n"/></r></p></e>
+      <e><p><l>дем<s n="n"/></l>                            <r>nafas<s n="n"/></r></p></e>
+      <e><p><l>дәм<s n="n"/></l>                            <r>qaygʻu<s n="n"/></r></p></e>
+      <e><p><l>демде<s n="v"/><s n="tv"/></l>               <r>koʻr<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>дәмдеуіштер<s n="n"/></l>                    <r>dorivor<s n="n"/></r></p></e>
+      <e><p><l>демек<s n="cnjadv"/></l>                     <r>demak<s n="cnjadv"/></r></p></e>
+      <e><p><l>демократ<s n="n"/></l>                       <r>demokrat<s n="n"/></r></p></e>
+      <e><p><l>демократия<s n="n"/></l>                     <r>demokratiyalik<s n="n"/></r></p></e>
+      <e><p><l>демократия<s n="n"/></l>                     <r>demokratiya<s n="n"/></r></p></e>
+      <e><p><l>демократиялық<s n="adj"/></l>                <r>demokratik<s n="adj"/></r></p></e>
+      <e><p><l>дән<s n="n"/></l>                            <r>don<s n="n"/></r></p></e>
+      <e><p><l>деңгей<s n="n"/></l>                         <r>saviya<s n="n"/></r></p></e>
+      <e><p><l>деңгей<s n="n"/><s n="attr"/></l>            <r>saviya<s n="n"/></r></p></e>
+      <e><p><l>дене<s n="n"/></l>                           <r>badan<s n="n"/></r></p></e>
+      <e><p><l>дене<s n="n"/></l>                           <r>jism<s n="n"/></r></p></e>
+      <e><p><l>дене<s n="n"/></l>                           <r>struktura<s n="n"/></r></p></e>
+      <e><p><l>дене<s n="n"/></l>                           <r>tana<s n="n"/></r></p></e>
+      <e><p><l>дене<s n="n"/></l>                           <r>tan<s n="n"/></r></p></e>
+      <e><p><l>дәнекер<s n="n"/></l>                        <r>namoyanda<s n="n"/></r></p></e>
+      <e><p><l>дәнекер<s n="n"/></l>                        <r>vositachi<s n="n"/></r></p></e>
+      <e><p><l>денелі<s n="adj"/></l>                       <r>jussali<s n="adj"/></r></p></e>
+      <e><p><l>Денис<s n="np"/><s n="ant"/><s n="m"/></l>   <r>Denis<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>денсаулық<s n="n"/></l>                      <r>sogʻliq<s n="n"/></r></p></e>
+      <e><p><l>департамент<s n="n"/></l>                    <r>boʻlim<s n="n"/></r></p></e>
+      <e><p><l>дәптер<s n="n"/></l>                         <r>daftar<s n="n"/></r></p></e>
+      <e><p><l>депутат<s n="n"/></l>                        <r>deputat<s n="n"/></r></p></e>
+      <e><p><l>дербес<s n="adj"/></l>                       <r>mustaqil<s n="adj"/></r></p></e>
+      <e><p><l>дербес<s n="adj"/></l>                       <r>shaxsiy<s n="adj"/></r></p></e>
+      <e><p><l>дербес<s n="adj"/></l>                       <r>oʻz<s n="adj"/></r></p></e>
+      <e><p><l>дәреже<s n="n"/></l>                         <r>daraja<s n="n"/></r></p></e>
+      <e><p><l>дәреже<s n="n"/></l>                         <r>saviya<s n="n"/></r></p></e>
+      <e><p><l>дәреже<s n="n"/></l>                         <r>temperatura<s n="n"/></r></p></e>
+      <e><p><l>дерек<s n="n"/></l>                          <r>maʻlumot<s n="n"/></r></p></e>
+      <e><p><l>дерек<s n="n"/></l>                          <r>manba<s n="n"/></r></p></e>
+      <e><p><l>Дерек<s n="np"/><s n="ant"/><s n="m"/></l>   <r>Derek<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>дереу<s n="adv"/></l>                        <r>darhol<s n="adv"/></r></p></e>
+      <e><p><l>дереу<s n="adv"/></l>                        <r>hamon<s n="adv"/></r></p></e>
+      <e><p><l>дереу<s n="adv"/></l>                        <r>zudlik<b/>bilan<s n="adv"/></r></p></e>
+      <e><p><l>дәрі<s n="n"/></l>                           <r>dori<s n="n"/></r></p></e>
+      <e><p><l>дәрі<s n="n"/></l>                           <r>porox<s n="n"/></r></p></e>
+      <e><p><l>дәрігер<s n="n"/></l>                        <r>hakim<s n="n"/></r></p></e>
+      <e><p><l>дәрігер<s n="n"/></l>                        <r>shifokor<s n="n"/></r></p></e>
+      <e><p><l>дәрігер<s n="n"/></l>                        <r>vrach<s n="n"/></r></p></e>
+      <e><p><l>дәрігерлік<s n="adj"/></l>                   <r>tibbiy<s n="adj"/></r></p></e>
+      <e><p><l>дәрі-дәрмек<s n="n"/></l>                    <r>dori<s n="n"/></r></p></e>
+      <e><p><l>дәріс<s n="n"/></l>                          <r>rishta<s n="n"/></r></p></e>
+      <e><p><l>дәріс<s n="n"/></l>                          <r>saboq<s n="n"/></r></p></e>
+      <e><p><l>дәрісхана<s n="n"/></l>                      <r>auditoriya<s n="n"/></r></p></e>
+      <e><p><l>дәрісхана<s n="n"/></l>                      <r>sinf<s n="n"/></r></p></e>
+      <e><p><l>дәріхана<s n="n"/></l>                       <r>apteka<s n="n"/></r></p></e>
+      <e><p><l>дәріхана<s n="n"/></l>                       <r>dorixona<s n="n"/></r></p></e>
+      <e><p><l>дәрмен<s n="n"/></l>                         <r>shiddat<s n="n"/></r></p></e>
+      <e><p><l>дерт<s n="n"/></l>                           <r>dard<s n="n"/></r></p></e>
+      <e><p><l>дерт<s n="n"/></l>                           <r>kasallık<s n="n"/></r></p></e>
+      <e><p><l>дәрумен<s n="n"/></l>                        <r>vitamin<s n="n"/></r></p></e>
+      <e><p><l>десант<s n="n"/></l>                         <r>desant<s n="n"/></r></p></e>
+      <e><p><l>дәстүр<s n="n"/></l>                         <r>an’ana<s n="n"/></r></p></e>
+      <e><p><l>дәстүр<s n="n"/></l>                         <r>dastur<s n="n"/></r></p></e>
+      <e><p><l>дәстүр<s n="n"/></l>                         <r>marosim<s n="n"/></r></p></e>
+      <e><p><l>дәстүр<s n="n"/></l>                         <r>taomil<s n="n"/></r></p></e>
+      <e><p><l>дәстүрлі<s n="adj"/></l>                     <r>anʻanaviy<s n="adj"/></r></p></e>
+      <e><p><l>Детройт<s n="np"/><s n="top"/></l>           <r>Detroit<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>дәуір<s n="n"/></l>                          <r>davr<s n="n"/></r></p></e>
+      <e><p><l>дәуір<s n="n"/></l>                          <r>termin<s n="n"/></r></p></e>
+      <e><p><l>Дәуіт<s n="np"/><s n="top"/></l>             <r>Mantis<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Дәулет<s n="np"/><s n="ant"/><s n="m"/></l>  <r>Davlat<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Деште-Кевир<s n="np"/><s n="top"/></l>       <r>Dashti-Kabir<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Деште-Лух<s n="np"/><s n="top"/></l>         <r>Dashti-Lux<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Джакарта<s n="np"/><s n="top"/></l>          <r>Jakarta<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Джек<s n="np"/><s n="ant"/><s n="m"/></l>    <r>Jek<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Джерси<s n="np"/><s n="top"/></l>            <r>Jersi<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Джибути<s n="np"/><s n="top"/></l>           <r>Chibuti<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Джорджия<s n="np"/><s n="top"/></l>          <r>Gruziya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>диалог<s n="n"/></l>                         <r>dialog<s n="n"/></r></p></e>
+      <e><p><l>диаметр<s n="n"/></l>                        <r>diametr<s n="n"/></r></p></e>
+      <e><p><l>дивизия<s n="n"/></l>                        <r>diviziya<s n="n"/></r></p></e>
+      <e><p><l>Дик<s n="np"/><s n="ant"/><s n="m"/></l>     <r>Dik<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>директор<s n="n"/></l>                       <r>direktor<s n="n"/></r></p></e>
+      <e><p><l>директор<s n="n"/></l>                       <r>mudir<s n="n"/></r></p></e>
+      <e><p><l>диск<s n="n"/></l>                           <r>disk<s n="n"/></r></p></e>
+      <e><p><l>диссертация<s n="n"/></l>                    <r>dissertatsiya<s n="n"/></r></p></e>
+      <e><p><l>диэлектрик<s n="adj"/></l>                   <r>dielektrik<s n="adj"/></r></p></e>
+      <e><p><l>дін<s n="n"/></l>                            <r>din<s n="n"/></r></p></e>
+      <e><p><l>дінбасы<s n="n"/></l>                        <r>ruhoniy<s n="n"/></r></p></e>
+      <e><p><l>діни<s n="adj"/></l>                         <r>diniy<s n="adj"/></r></p></e>
+      <e><p><l>дірілде<s n="v"/><s n="iv"/></l>             <r>choʻchi<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>Дмитрий<s n="np"/><s n="ant"/><s n="m"/></l> <r>Dmitriy<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>доғар<s n="v"/><s n="tv"/></l>               <r>kes<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>доктор<s n="n"/></l>                         <r>doktor<s n="n"/></r></p></e>
+      <e><p><l>доктор<s n="n"/></l>                         <r>shifokor<s n="n"/></r></p></e>
+      <e><p><l>доктор<s n="n"/></l>                         <r>vrach<s n="n"/></r></p></e>
+      <e><p><l>долл<s n="n"/></l>                           <r>dollar<s n="n"/></r></p></e>
+      <e><p><l>доллар<s n="n"/></l>                         <r>dollar<s n="n"/></r></p></e>
+      <e><p><l>домалат<s n="v"/><s n="tv"/></l>             <r>aylantir<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>Доминика<s n="np"/><s n="top"/></l>          <r>Dominika<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Дональд<s n="np"/><s n="ant"/><s n="m"/></l> <r>Donald<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>дөңгелек<s n="n"/></l>                       <r>gʻildirak<s n="n"/></r></p></e>
+      <e><p><l>Дөңгелек<s n="np"/><s n="top"/></l>          <r>Dumaloq<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Донецк<s n="np"/><s n="top"/></l>            <r>Donetsk<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>доп<s n="n"/></l>                            <r>toʻp<s n="n"/></r></p></e>
+      <e><p><l>доп<s n="n"/></l>                            <r>umumiy<s n="n"/></r></p></e>
+      <e><p><l>дос<s n="n"/></l>                            <r>doʻst<s n="n"/></r></p></e>
+      <e><p><l>дос<s n="n"/></l>                            <r>inoq<s n="n"/></r></p></e>
+      <e><p><l>дос<s n="n"/></l>                            <r>joʻra<s n="n"/></r></p></e>
+      <e><p><l>дос<s n="n"/></l>                            <r>ogʻayni<s n="n"/></r></p></e>
+      <e><p><l>дос<s n="n"/></l>                            <r>orqodosh<s n="n"/></r></p></e>
+      <e><p><l>достастық<s n="n"/></l>                      <r>hamkorlik<s n="n"/></r></p></e>
+      <e><p><l>достастық<s n="n"/></l>                      <r>ogʻaynilik<s n="n"/></r></p></e>
+      <e><p><l>достық<s n="n"/></l>                         <r>doʻstlik<s n="n"/></r></p></e>
+      <e><p><l>достық<s n="n"/></l>                         <r>ogʻaynilik<s n="n"/></r></p></e>
+      <e><p><l>Достық<s n="np"/><s n="top"/></l>            <r>Doʻstlik<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Доһа<s n="np"/><s n="top"/></l>              <r>Doha<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>доцент<s n="n"/></l>                         <r>dotsent<s n="n"/></r></p></e>
+      <e><p><l>драма<s n="n"/></l>                          <r>drama<s n="n"/></r></p></e>
+      <e><p><l>драматург<s n="n"/></l>                      <r>dramaturg<s n="n"/></r></p></e>
+      <e><p><l>Дубай<s n="np"/><s n="top"/></l>             <r>Dubay<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Дублин<s n="np"/><s n="top"/></l>            <r>Dublin<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>дұға<s n="n"/></l>                           <r>duo<s n="n"/></r></p></e>
+      <e><p><l>дүйсенбі<s n="n"/></l>                       <r>dushanba<s n="n"/></r></p></e>
+      <e><p><l>дүкен<s n="n"/></l>                          <r>doʻkon<s n="n"/></r></p></e>
+      <e><p><l>дума<s n="n"/></l>                           <r>fikr<s n="n"/></r></p></e>
+      <e><p><l>дүние<s n="n"/></l>                          <r>dunyo<s n="n"/></r></p></e>
+      <e><p><l>дүние<s n="n"/></l>                          <r>yer<s n="n"/></r></p></e>
+      <e><p><l>дұрыс<s n="adj"/></l>                        <r>durust<s n="adj"/></r></p></e>
+      <e><p><l>дұрыс<s n="adj"/></l>                        <r>toʻgʻri<s n="adj"/></r></p></e>
+      <e><p><l>Душанбе<s n="np"/><s n="top"/></l>           <r>Dushanbe<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>дұшпан<s n="n"/></l>                         <r>raqib<s n="n"/></r></p></e>
+      <e><p><l>дұшпан<s n="n"/></l>                         <r>dushman<s n="n"/></r></p></e>
+      <e><p><l>дұшпан<s n="n"/></l>                         <r>gʻanim<s n="n"/></r></p></e>
+      <e><p><l>дыбыс<s n="n"/></l>                          <r>gʻavgʻo<s n="n"/></r></p></e>
+      <e><p><l>дыбыс<s n="n"/></l>                          <r>ovoz<s n="n"/></r></p></e>
+      <e><p><l>дыбыс<s n="n"/></l>                          <r>tovush<s n="n"/></r></p></e>
+      <e><p><l>дыбыс<s n="n"/></l>                          <r>un<s n="n"/></r></p></e>
+      <e><p><l>дыбысты<s n="adj"/></l>                      <r>ovoz<s n="n"/></r></p></e>
+      <e><p><l>дыбысты<s n="adj"/></l>                      <r>un<s n="n"/></r></p></e>
+      <e><p><l>дым<s n="n"/></l>                            <r>kuch<s n="n"/></r></p></e>
+      <e><p><l>дым<s n="n"/></l>                            <r>nafas<s n="n"/></r></p></e>
+
+
    </section>
 </dictionary>
 
