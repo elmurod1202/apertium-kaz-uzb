@@ -3249,6 +3249,340 @@
       <e><p><l>Львов<s n="np"/><s n="top"/></l>             <r>Lvov<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Любляна<s n="np"/><s n="top"/></l>           <r>Lyublyana<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Люксембург<s n="np"/><s n="top"/></l>        <r>Lyuksemburg<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>ма<s n="qst"/></l>                           <r>mi<s n="qst"/></r></p></e>
+      <e><p><l>Маврикий<s n="np"/><s n="top"/></l>          <r>Mavrikiy<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Мавритания<s n="np"/><s n="top"/></l>        <r>Mavritaniya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>мағлұмат<s n="n"/></l>                       <r>axborot<s n="n"/></r></p></e>
+      <e><p><l>мағлұмат<s n="n"/></l>                       <r>ma’lumot<s n="n"/></r></p></e>
+      <e><p><l>магний<s n="n"/></l>                         <r>magniy<s n="n"/></r></p></e>
+      <e><p><l>магнит<s n="n"/></l>                         <r>magnit<s n="n"/></r></p></e>
+      <e><p><l>мағына<s n="n"/></l>                         <r>ahamiyat<s n="n"/></r></p></e>
+      <e><p><l>мағына<s n="n"/></l>                         <r>ma’ni<s n="n"/></r></p></e>
+      <e><p><l>мағына<s n="n"/></l>                         <r>ma’no<s n="n"/></r></p></e>
+      <e><p><l>Мадагаскар<s n="np"/><s n="top"/></l>        <r>Madakaskar<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>мадақ<s n="n"/></l>                          <r>madh<s n="n"/></r></p></e>
+      <e><p><l>мадақ<s n="n"/></l>                          <r>maqtov<s n="n"/></r></p></e>
+      <e><p><l>Мадрид<s n="np"/><s n="top"/></l>            <r>Madrid<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Мажарстан<s n="np"/><s n="top"/></l>         <r>Vengriya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>мазақ<s n="n"/></l>                          <r>mazah<s n="n"/></r></p></e>
+      <e><p><l>мазар<s n="n"/></l>                          <r>daxma<s n="n"/></r></p></e>
+      <e><p><l>мазар<s n="n"/></l>                          <r>mozor<s n="n"/></r></p></e>
+      <e><p><l>мазар<s n="n"/></l>                          <r>maqbara<s n="n"/></r></p></e>
+      <e><p><l>мазмұн<s n="n"/></l>                         <r>mazmun<s n="n"/></r></p></e>
+      <e><p><l>мазмұн<s n="n"/></l>                         <r>mundarija<s n="n"/></r></p></e>
+      <e><p><l>май<s n="n"/></l>                            <r>yogʻ<s n="n"/></r></p></e>
+      <e><p><l>май<s n="n"/></l>                            <r>moy<s n="n"/></r></p></e>
+      <e><p><l>Майами<s n="np"/><s n="top"/></l>            <r>Mayami<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>майдан<s n="n"/></l>                         <r>doira<s n="n"/></r></p></e>
+      <e><p><l>майдан<s n="n"/></l>                         <r>maydon<s n="n"/></r></p></e>
+      <e><p><l>майдан<s n="n"/></l>                         <r>soha<s n="n"/></r></p></e>
+      <e><p><l>майла<s n="v"/><s n="tv"/></l>               <r>yogʻla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>маймыл<s n="n"/></l>                         <r>maymun<s n="n"/></r></p></e>
+      <e><p><l>Майнц<s n="np"/><s n="top"/></l>             <r>Mainz<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Майра<s n="np"/><s n="ant"/><s n="f"/></l>   <r>Mayra<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+      <e><p><l>майыр<s n="n"/></l>                          <r>xodim<s n="n"/></r></p></e>
+      <e><p><l>мақала<s n="n"/></l>                         <r>maqola<s n="n"/></r></p></e>
+      <e><p><l>Макао<s n="np"/><s n="top"/></l>             <r>Makao<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Македония<s n="np"/><s n="top"/></l>         <r>Makedoniya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Македонский<s n="np"/><s n="cog"/><s n="mf"/></l><r>Makedonya<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+      <e><p><l>мақсат<s n="n"/></l>                         <r>maqsad<s n="n"/></r></p></e>
+      <e><p><l>мақта<s n="n"/></l>                          <r>paxta<s n="n"/></r></p></e>
+      <e><p><l>мақтаныш<s n="n"/></l>                       <r>faxr<s n="n"/></r></p></e>
+      <e><p><l>мақтаныш<s n="n"/></l>                       <r>maqtanish<s n="n"/></r></p></e>
+      <e><p><l>мақтаныш<s n="n"/></l>                       <r>iftixor<s n="n"/></r></p></e>
+      <e><p><l>мақұлда<s n="v"/><s n="tv"/></l>             <r>ma’qulla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>мал<b/>шаруашылығы<s n="n"/></l>             <r>chorvachilik<s n="n"/></r></p></e>
+      <e><p><l>мал<s n="n"/></l>                            <r>chorvachilik<s n="n"/></r></p></e>
+      <e><p><l>мал<s n="n"/></l>                            <r>qoramol<s n="n"/></r></p></e>
+      <e><p><l>мал<s n="n"/></l>                            <r>tovar<s n="n"/></r></p></e>
+      <e><p><l>мал<s n="v"/><s n="tv"/></l>                 <r>oʻra<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>Малави<s n="np"/><s n="top"/></l>            <r>Malavi<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Малага<s n="np"/><s n="top"/></l>            <r>Malaga<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>малай<s n="n"/></l>                          <r>yuvundixoʻr<s n="n"/></r></p></e>
+      <e><p><l>малай<s n="n"/></l>                          <r>malay<s n="n"/></r></p></e>
+      <e><p><l>Малайзия<s n="np"/><s n="top"/></l>          <r>Malayziya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Мали<s n="np"/><s n="top"/></l>              <r>Mali<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>малталар<s n="n"/></l>                       <r>shagʻal<s n="n"/></r></p></e>
+      <e><p><l>Мальта<s n="np"/><s n="top"/></l>            <r>Malta<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>мама<s n="n"/></l>                           <r>ona<s n="n"/></r></p></e>
+      <e><p><l>маман<s n="n"/></l>                          <r>mutaxassis<s n="n"/></r></p></e>
+      <e><p><l>мамыр<s n="n"/></l>                          <r>may<s n="n"/></r></p></e>
+      <e><p><l>маңай<s n="n"/></l>                          <r>atrof<s n="n"/></r></p></e>
+      <e><p><l>маңай<s n="n"/></l>                          <r>hudud<s n="n"/></r></p></e>
+      <e><p><l>маңдай<s n="n"/></l>                         <r>peshona<s n="n"/></r></p></e>
+      <e><p><l>мандат<s n="n"/></l>                         <r>mandat<s n="n"/></r></p></e>
+      <e><p><l>Манила<s n="np"/><s n="top"/></l>            <r>Manila<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>мансап<s n="n"/></l>                         <r>mansab<s n="n"/></r></p></e>
+      <e><p><l>Мануэль<s n="np"/><s n="ant"/><s n="m"/></l> <r>Manuel<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Манхэттен<s n="np"/><s n="top"/></l>         <r>Manxetten<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>маңыз<s n="n"/></l>                          <r>ahamiyat<s n="n"/></r></p></e>
+      <e><p><l>маңыз<s n="n"/></l>                          <r>ma’ni<s n="n"/></r></p></e>
+      <e><p><l>маңызды<s n="adv"/></l>                      <r>muhim<s n="adj"/></r></p></e>
+      <e><p><l>Маракана<s n="np"/><s n="al"/></l>           <r>Marakana<s n="np"/><s n="al"/></r></p></e>
+      <e><p><l>марапатта<s n="v"/><s n="tv"/></l>           <r>mukofot<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>Марио<s n="np"/><s n="ant"/><s n="m"/></l>   <r>Mario<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Марк<s n="np"/><s n="ant"/><s n="m"/></l>    <r>Mark<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Марко<s n="np"/><s n="ant"/><s n="m"/></l>   <r>Marko<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Маркос<s n="np"/><s n="ant"/><s n="m"/></l>  <r>Markos<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Марокко<s n="np"/><s n="top"/></l>           <r>Marokash<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Марс<s n="np"/><s n="top"/></l>              <r>Mars<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Марсель<s n="np"/><s n="top"/></l>           <r>Marsel<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Мартин<s n="np"/><s n="ant"/><s n="m"/></l>  <r>Martin<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Марченко<s n="np"/><s n="cog"/><s n="mf"/></l><r>Marchenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+      <e><p><l>маршал<s n="n"/></l>                         <r>marshal<s n="n"/></r></p></e>
+      <e><p><l>масқара<s n="n"/></l>                        <r>masxara<s n="n"/></r></p></e>
+      <e><p><l>масқара<s n="n"/></l>                        <r>sharmanda<s n="n"/></r></p></e>
+      <e><p><l>масқара<s n="n"/></l>                        <r>sharmisor<s n="n"/></r></p></e>
+      <e><p><l>масса<s n="n"/></l>                          <r>massa<s n="n"/></r></p></e>
+      <e><p><l>Массачусетс<s n="np"/><s n="top"/></l>       <r>Massachutsets<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Массимо<s n="np"/><s n="ant"/><s n="m"/></l> <r>Massimo<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>масштаб<s n="n"/></l>                        <r>masshtab<s n="n"/></r></p></e>
+      <e><p><l>мата<s n="n"/></l>                           <r>mato<s n="n"/></r></p></e>
+      <e><p><l>мата<s n="v"/><s n="tv"/></l>                <r>bogʻla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>матастыр<s n="v"/><s n="tv"/></l>            <r>bogʻla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>математик<s n="adj"/></l>                    <r>matematik<s n="adj"/></r></p></e>
+      <e><p><l>математик<s n="n"/></l>                      <r>matematik<s n="n"/></r></p></e>
+      <e><p><l>математика<s n="n"/></l>                     <r>matematika<s n="n"/></r></p></e>
+      <e><p><l>материал<s n="n"/></l>                       <r>ashyo<s n="n"/></r></p></e>
+      <e><p><l>материал<s n="n"/></l>                       <r>material<s n="n"/></r></p></e>
+      <e><p><l>материалдық<s n="adj"/></l>                  <r>materialli<s n="adj"/></r></p></e>
+      <e><p><l>материя<s n="n"/></l>                        <r>materiya<s n="n"/></r></p></e>
+      <e><p><l>матч<s n="n"/></l>                           <r>match<s n="n"/></r></p></e>
+      <e><p><l>маусым<s n="n"/></l>                         <r>mavsum<s n="n"/></r></p></e>
+      <e><p><l>маусым<s n="n"/></l>                         <r>palla<s n="n"/></r></p></e>
+      <e><p><l>Махамбет<s n="np"/><s n="ant"/><s n="m"/></l><r>Muhammad<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>машина<s n="n"/></l>                         <r>mashina<s n="n"/></r></p></e>
+      <e><p><l>медаль<s n="n"/></l>                         <r>medal<s n="n"/></r></p></e>
+      <e><p><l>Медведев<s n="np"/><s n="cog"/><s n="m"/></l><r>Medvedev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+      <e><p><l>мәдени<s n="adj"/></l>                       <r>madaniy<s n="adj"/></r></p></e>
+      <e><p><l>мәдениет<s n="n"/></l>                       <r>madaniyat<s n="n"/></r></p></e>
+      <e><p><l>меджлис<s n="n"/></l>                        <r>majlis<s n="n"/></r></p></e>
+      <e><p><l>медицина<s n="n"/></l>                       <r>tibbiyot<s n="n"/></r></p></e>
+      <e><p><l>медициналық<s n="adj"/></l>                  <r>tibbiy<s n="adj"/></r></p></e>
+      <e><p><l>медициналық<s n="adj"/><s n="pl"/></l>       <r>tibbiy<s n="adj"/></r></p></e>
+      <e><p><l>медресе<s n="n"/></l>                        <r>madrasa<s n="n"/></r></p></e>
+      <e><p><l>мәз<s n="adj"/></l>                          <r>xursand<s n="adj"/></r></p></e>
+      <e><p><l>мезгіл<s n="n"/></l>                         <r>davr<s n="n"/></r></p></e>
+      <e><p><l>мезгіл<s n="n"/></l>                         <r>mavsum<s n="n"/></r></p></e>
+      <e><p><l>мезгіл<s n="n"/></l>                         <r>zahoti<s n="n"/></r></p></e>
+      <e><p><l>мейіз<s n="n"/></l>                          <r>mayiz<s n="n"/></r></p></e>
+      <e><p><l>мейірімді<s n="adj"/></l>                    <r>mehribon<s n="adj"/></r></p></e>
+      <e><p><l>мейірімді<s n="adj"/></l>                    <r>rahmli<s n="adj"/></r></p></e>
+      <e><p><l>мәйіт<s n="n"/></l>                          <r>marhum<s n="n"/></r></p></e>
+      <e><p><l>мейлі<s n="ij"/></l>                         <r>mayli<s n="cnjcoo"/></r></p></e>
+      <e><p><l>мейрам<s n="n"/></l>                         <r>bayram<s n="n"/></r></p></e>
+      <e><p><l>мейрам<s n="n"/></l>                         <r>tantana<s n="n"/></r></p></e>
+      <e><p><l>мекеме<s n="n"/></l>                         <r>idora<s n="n"/></r></p></e>
+      <e><p><l>мекеме<s n="n"/></l>                         <r>uyushma<s n="n"/></r></p></e>
+      <e><p><l>мекен<s n="qst"/></l>                        <r>makon<s n="qst"/></r></p></e>
+      <e><p><l>Мекке<s n="np"/><s n="top"/></l>             <r>Makka<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Мекран<s n="np"/><s n="top"/></l>            <r>Mekran<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Мексика<s n="np"/><s n="top"/></l>           <r>Meksika<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>мектеп<s n="n"/></l>                         <r>maktab<s n="n"/></r></p></e>
+      <e><p><l>мәлім<s n="adj"/></l>                        <r>ma`lum<s n="adj"/></r></p></e>
+      <e><p><l>мәлімдеме<s n="n"/></l>                      <r>bayonot<s n="n"/></r></p></e>
+      <e><p><l>мәлімдеме<s n="n"/></l>                      <r>bayon<s n="n"/></r></p></e>
+      <e><p><l>мәлімет<s n="n"/></l>                        <r>ma`lumot<s n="n"/></r></p></e>
+      <e><p><l>мелодия<s n="n"/></l>                        <r>kuy<s n="n"/></r></p></e>
+      <e><p><l>мәміле<s n="n"/></l>                         <r>muomala<s n="n"/></r></p></e>
+      <e><p><l>мәміле<s n="n"/></l>                         <r>bitim<s n="n"/></r></p></e>
+      <e><p><l>мемлекет<s n="n"/></l>                       <r>mamlakat<s n="n"/></r></p></e>
+      <e><p><l>мемлекеттік<s n="adj"/></l>                  <r>milliy<s n="adj"/></r></p></e>
+      <e><p><l>меморандум<s n="n"/></l>                     <r>memorandum<s n="n"/></r></p></e>
+      <e><p><l>мен<s n="cnjcoo"/></l>                       <r>bilan<s n="cnjcoo"/></r></p></e>
+      <e><p><l>мен<s n="cnjcoo"/></l>                       <r>va<s n="cnjcoo"/></r></p></e>
+      <e><p><l>мен<s n="cnjcoo"/></l>                       <r>ila<s n="cnjcoo"/></r></p></e>
+      <e><p><l>мән<s n="n"/></l>                            <r>ahamiyat<s n="n"/></r></p></e>
+      <e><p><l>мән<s n="n"/></l>                            <r>maʻno<s n="n"/></r></p></e>
+      <e><p><l>мән<s n="n"/></l>                            <r>oʻz<s n="n"/></r></p></e>
+      <e><p><l>мен<s n="post"/></l>                         <r>singari<s n="post"/></r></p></e>
+      <e><p><l>меңгеруші<s n="n"/></l>                      <r>boshqaruvchi<s n="n"/></r></p></e>
+      <e><p><l>мәңгі<s n="adj"/></l>                        <r>abadiy<s n="adj"/></r></p></e>
+      <e><p><l>мәңгі<s n="adj"/></l>                        <r>mangu<s n="adj"/></r></p></e>
+      <e><p><l>мәңгі<s n="adj"/></l>                        <r>doimiy<s n="adj"/></r></p></e>
+      <e><p><l>мәңгілік<s n="n"/></l>                       <r>abadiyat<s n="n"/></r></p></e>
+      <e><p><l>мәңгілік<s n="n"/></l>                       <r>abadiylik<s n="n"/></r></p></e>
+      <e><p><l>мәңгілік<s n="n"/></l>                       <r>abad<s n="n"/></r></p></e>
+      <e><p><l>мәңгілік<s n="n"/></l>                       <r>mangulik<s n="n"/></r></p></e>
+      <e><p><l>менеджмент<s n="n"/></l>                     <r>boshqarma<s n="n"/></r></p></e>
+      <e><p><l>мәнет<s n="n"/></l>                          <r>aqcha<s n="n"/></r></p></e>
+      <e><p><l>мәнет<s n="n"/></l>                          <r>chaqa<s n="n"/></r></p></e>
+      <e><p><l>мәнет<s n="n"/></l>                          <r>mablagʻ<s n="n"/></r></p></e>
+      <e><p><l>мәнет<s n="n"/></l>                          <r>pul<s n="n"/></r></p></e>
+      <e><p><l>мәнет<s n="n"/></l>                          <r>tanga<s n="n"/></r></p></e>
+      <e><p><l>мерген<s n="n"/></l>                         <r>mergan<s n="n"/></r></p></e>
+      <e><p><l>мерей<s n="n"/></l>                          <r>yubiley<s n="n"/></r></p></e>
+      <e><p><l>мереке<s n="n"/></l>                         <r>bayram<s n="n"/></r></p></e>
+      <e><p><l>мерзім<s n="n"/></l>                         <r>mavsum<s n="n"/></r></p></e>
+      <e><p><l>мерзім<s n="n"/></l>                         <r>muddat<s n="n"/></r></p></e>
+      <e><p><l>мерзім<s n="n"/></l>                         <r>vaqt<s n="n"/></r></p></e>
+      <e><p><l>мерзім<s n="n"/></l>                         <r>zamon<s n="n"/></r></p></e>
+      <e><p><l>мерзімді<s n="adj"/></l>                     <r>davriy<s n="adj"/></r></p></e>
+      <e><p><l>мерзімді<s n="adj"/></l>                     <r>muddatli<s n="adj"/></r></p></e>
+      <e><p><l>мәрте<s n="n"/></l>                          <r>marta<s n="n"/></r></p></e>
+      <e><p><l>мәрте<s n="n"/></l>                          <r>bora<s n="n"/></r></p></e>
+      <e><p><l>мәрте<s n="n"/></l>                          <r>karra<s n="n"/></r></p></e>
+      <e><p><l>мәрте<s n="n"/></l>                          <r>marotaba<s n="n"/></r></p></e>
+      <e><p><l>мәрте<s n="n"/></l>                          <r>sidra<s n="n"/></r></p></e>
+      <e><p><l>мәртебе<s n="n"/></l>                        <r>martaba<s n="n"/></r></p></e>
+      <e><p><l>мәселе<s n="n"/></l>                         <r>masala<s n="n"/></r></p></e>
+      <e><p><l>Мәскеу<s n="np"/><s n="top"/></l>            <r>Moskva<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>мәслихат<s n="n"/></l>                       <r>kengash<s n="n"/></r></p></e>
+      <e><p><l>метал<s n="n"/></l>                          <r>metall<s n="n"/></r></p></e>
+      <e><p><l>металл<s n="n"/></l>                         <r>ma’dan<s n="n"/></r></p></e>
+      <e><p><l>металл<s n="n"/></l>                         <r>metall<s n="n"/></r></p></e>
+      <e><p><l>металлургия<s n="n"/></l>                    <r>metallurgiya<s n="n"/></r></p></e>
+      <e><p><l>метан<s n="n"/></l>                          <r>metan<s n="n"/></r></p></e>
+      <e><p><l>метафора<s n="n"/></l>                       <r>metafora<s n="n"/></r></p></e>
+      <e><p><l>метафора<s n="n"/></l>                       <r>majoz<s n="n"/></r></p></e>
+      <e><p><l>мәтін<s n="n"/></l>                          <r>matn<s n="n"/></r></p></e>
+      <e><p><l>метр<s n="n"/></l>                           <r>metr<s n="n"/></r></p></e>
+      <e><p><l>механизм<s n="n"/></l>                       <r>mexanizm<s n="n"/></r></p></e>
+      <e><p><l>механик<s n="adj"/></l>                      <r>mexanik<s n="adj"/></r></p></e>
+      <e><p><l>механика<s n="n"/></l>                       <r>mexanika<s n="n"/></r></p></e>
+      <e><p><l>механикалық<s n="adj"/></l>                  <r>mexanik<s n="adj"/></r></p></e>
+      <e><p><l>Мехико<s n="np"/><s n="top"/></l>            <r>Mexiko<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>мешін<s n="n"/></l>                          <r>maymun<s n="n"/></r></p></e>
+      <e><p><l>мешіт<s n="n"/></l>                          <r>masjid<s n="n"/></r></p></e>
+      <e><p><l>Мешхед<s n="np"/><s n="top"/></l>            <r>Mashxed<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>ми<s n="n"/></l>                             <r>miya<s n="n"/></r></p></e>
+      <e><p><l>Мианма<s n="np"/><s n="top"/></l>            <r>Myanma<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>микроағзалар<s n="n"/></l>                   <r>mikroorganizm<s n="n"/></r></p></e>
+      <e><p><l>микроб<s n="n"/></l>                         <r>mikrob<s n="n"/></r></p></e>
+      <e><p><l>Милан<s n="np"/><s n="top"/></l>             <r>Milan<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>милиция<s n="n"/></l>                        <r>militsiya<s n="n"/></r></p></e>
+      <e><p><l>миллиард<s n="num"/></l>                     <r>milliard<s n="num"/></r></p></e>
+      <e><p><l>миллиард<s n="num"/></l>                     <r>mlrd<s n="abbr"/><s n="nom"/></r></p></e>
+      <e><p><l>миллион<s n="num"/></l>                      <r>mln<s n="abbr"/><s n="nom"/></r></p></e>
+      <e><p><l>миллион<s n="num"/></l>                      <r>million<s n="num"/></r></p></e>
+      <e><p><l>Мило<s n="np"/><s n="ant"/><s n="m"/></l>    <r>Milo<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Милорад<s n="np"/><s n="ant"/><s n="m"/></l> <r>Milorad<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>минерал<s n="n"/></l>                        <r>mineral<s n="n"/></r></p></e>
+      <e><p><l>минерал<s n="n"/></l>                        <r>qazilma<s n="n"/></r></p></e>
+      <e><p><l>министр<s n="n"/></l>                        <r>vazir<s n="n"/></r></p></e>
+      <e><p><l>министрлік<s n="n"/></l>                     <r>vazirlik<s n="n"/></r></p></e>
+      <e><p><l>Миннесота<s n="np"/><s n="top"/></l>         <r>Minnesota<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Минск<s n="np"/><s n="top"/></l>             <r>Minsk<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>минут<s n="n"/></l>                          <r>daqiqa<s n="n"/></r></p></e>
+      <e><p><l>мирас<s n="n"/></l>                          <r>meros<s n="n"/></r></p></e>
+      <e><p><l>Мирко<s n="np"/><s n="ant"/><s n="m"/></l>   <r>Mirko<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Мирослав<s n="np"/><s n="ant"/><s n="m"/></l><r>Miroslav<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Мисагие<s n="np"/><s n="cog"/><s n="mf"/></l><r>Miysagiye<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+      <e><p><l>митинг<s n="n"/></l>                         <r>muloqot<s n="n"/></r></p></e>
+      <e><p><l>митинг<s n="n"/></l>                         <r>uchrashuv<s n="n"/></r></p></e>
+      <e><p><l>митинг<s n="n"/></l>                         <r>yigʻilish<s n="n"/></r></p></e>
+      <e><p><l>Михаил<s n="np"/><s n="ant"/><s n="m"/></l>  <r>Mihail<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Михайлов<s n="np"/><s n="cog"/><s n="m"/></l><r>Mihaylov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+      <e><p><l>Мичиган<s n="np"/><s n="top"/></l>           <r>Michigan<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>мін<s n="n"/></l>                            <r>kamchilik<s n="n"/></r></p></e>
+      <e><p><l>мін<s n="n"/></l>                            <r>nuqson<s n="n"/></r></p></e>
+      <e><p><l>мін<s n="n"/></l>                            <r>qusur<s n="n"/></r></p></e>
+      <e><p><l>мін<s n="v"/><s n="iv"/></l>                 <r>tomosha<b/>qil<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>мінажат<s n="n"/></l>                        <r>ibodat<s n="n"/></r></p></e>
+      <e><p><l>мінгіз<s n="v"/><s n="tv"/></l>              <r>min<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>міндет<s n="n"/></l>                         <r>burch<s n="n"/></r></p></e>
+      <e><p><l>міндет<s n="n"/></l>                         <r>vazifa<s n="n"/></r></p></e>
+      <e><p><l>міндеттеме<s n="n"/></l>                     <r>majburiyat<s n="n"/></r></p></e>
+      <e><p><l>міндетті<s n="adj"/></l>                     <r>majburiy<s n="adj"/></r></p></e>
+      <e><p><l>міне<s n="ij"/></l>                          <r>mana<s n="ij"/></r></p></e>
+      <e><p><l>мінез<s n="n"/></l>                          <r>xulq-atvor<s n="n"/></r></p></e>
+      <e><p><l>мінез<s n="n"/></l>                          <r>obraz<s n="n"/></r></p></e>
+      <e><p><l>млн<s n="abbr"/></l>                         <r>mln<s n="abbr"/></r></p></e>
+      <e><p><l>модель<s n="n"/></l>                         <r>model<s n="n"/></r></p></e>
+      <e><p><l>модель<s n="n"/></l>                         <r>namuna<s n="n"/></r></p></e>
+      <e><p><l>Мозамбик<s n="np"/><s n="top"/></l>          <r>Mozambik<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>мол<s n="adj"/></l>                          <r>koʻp<s n="adj"/></r></p></e>
+      <e><p><l>мол<s n="adj"/></l>                          <r>moʻl<s n="adj"/></r></p></e>
+      <e><p><l>молда<s n="n"/></l>                          <r>mogʻor<s n="n"/></r></p></e>
+      <e><p><l>Молдавия<s n="np"/><s n="top"/></l>          <r>Moldaviya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Молдова<s n="np"/><s n="top"/></l>           <r>Moldova<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>молекула<s n="n"/></l>                       <r>molekula<s n="n"/></r></p></e>
+      <e><p><l>молибден<s n="n"/></l>                       <r>molibden<s n="n"/></r></p></e>
+      <e><p><l>мөлш<s n="n"/></l>                           <r>miqdor<s n="n"/></r></p></e>
+      <e><p><l>мөлшер<s n="n"/></l>                         <r>hajm<s n="n"/></r></p></e>
+      <e><p><l>мөлшер<s n="n"/></l>                         <r>miqdor<s n="n"/></r></p></e>
+      <e><p><l>мөлшер<s n="n"/></l>                         <r>oʻlcham<s n="n"/></r></p></e>
+      <e><p><l>момын<s n="adj"/></l>                        <r>sokin<s n="adj"/></r></p></e>
+      <e><p><l>момын<s n="adj"/></l>                        <r>muloyim<s n="adj"/></r></p></e>
+      <e><p><l>Монако<s n="np"/><s n="top"/></l>            <r>Monako<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>монархия<s n="n"/></l>                       <r>monarxiya<s n="n"/></r></p></e>
+      <e><p><l>Моңғолия<s n="np"/><s n="top"/></l>          <r>Mogʻuliston<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>монолог<s n="n"/></l>                        <r>monolog<s n="n"/></r></p></e>
+      <e><p><l>Монпелье<s n="np"/><s n="top"/></l>          <r>Monpelie<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Монреаль<s n="np"/><s n="top"/></l>          <r>Monreal<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Монтсеррат<s n="np"/><s n="top"/></l>        <r>Montserrat<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>мораль<s n="n"/></l>                         <r>axloq<s n="n"/></r></p></e>
+      <e><p><l>Мостар<s n="np"/><s n="top"/></l>            <r>Mostar<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Мохаммед<s n="np"/><s n="ant"/><s n="m"/></l><r>Muhammad<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Мохсени<s n="np"/><s n="cog"/><s n="mf"/></l><r>Mohseni<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+      <e><p><l>Мохтасем<s n="np"/><s n="cog"/><s n="mf"/></l><r>Muxtasham<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+      <e><p><l>мұғалiм<s n="n"/></l>                        <r>oʻqituvchi<s n="n"/></r></p></e>
+      <e><p><l>мұғалім<s n="n"/></l>                        <r>muallim<s n="n"/></r></p></e>
+      <e><p><l>мүгедек<s n="n"/></l>                        <r>nogiron<s n="n"/></r></p></e>
+      <e><p><l>мұғжиза<s n="n"/></l>                        <r>karomat<s n="n"/></r></p></e>
+      <e><p><l>мұғжиза<s n="n"/></l>                        <r>moʻjiza<s n="n"/></r></p></e>
+      <e><p><l>мүдде<s n="n"/></l>                          <r>ehtiros<s n="n"/></r></p></e>
+      <e><p><l>мұз<s n="n"/></l>                            <r>muz<s n="n"/></r></p></e>
+      <e><p><l>мұздай<s n="adj"/></l>                       <r>muzday<s n="adj"/></r></p></e>
+      <e><p><l>мұздық<s n="n"/></l>                         <r>muzlik<s n="n"/></r></p></e>
+      <e><p><l>музей<s n="n"/></l>                          <r>muzey<s n="n"/></r></p></e>
+      <e><p><l>музыка<s n="n"/></l>                         <r>musiqa<s n="n"/></r></p></e>
+      <e><p><l>музыкант<s n="n"/></l>                       <r>sozanda<s n="n"/></r></p></e>
+      <e><p><l>мұқа<s n="v"/><s n="tv"/></l>                <r>toʻmtoqla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>мүлде<s n="adv"/></l>                        <r>butunlay<s n="adv"/></r></p></e>
+      <e><p><l>мүлдем<s n="adv"/></l>                       <r>qisman<s n="adv"/></r></p></e>
+      <e><p><l>мүлік<s n="n"/></l>                          <r>mahr<s n="n"/></r></p></e>
+      <e><p><l>мүлік<s n="n"/></l>                          <r>mulk<s n="n"/></r></p></e>
+      <e><p><l>мүмкін<s n="adj"/></l>                       <r>balki<s n="adj"/></r></p></e>
+      <e><p><l>мүмкін<s n="adj"/></l>                       <r>balki<s n="cnjadv"/></r></p></e>
+      <e><p><l>мүмкін<s n="adj"/></l>                       <r>mumkin<s n="adj"/></r></p></e>
+      <e><p><l>мүмкіндік<s n="n"/></l>                      <r>fursat<s n="n"/></r></p></e>
+      <e><p><l>мүмкіндік<s n="n"/></l>                      <r>imkoniyat<s n="n"/></r></p></e>
+      <e><p><l>мұнай<s n="n"/></l>                          <r>neft<s n="n"/></r></p></e>
+      <e><p><l>мұнара<s n="n"/></l>                         <r>minora<s n="n"/></r></p></e>
+      <e><p><l>мұндай<s n="adv"/></l>                       <r>bunday<s n="adv"/></r></p></e>
+      <e><p><l>мұңды<s n="adj"/></l>                        <r>gʻamgin<s n="adj"/></r></p></e>
+      <e><p><l>мұңды<s n="adj"/></l>                        <r>gʻussali<s n="adj"/></r></p></e>
+      <e><p><l>мұңды<s n="adj"/></l>                        <r>mungli<s n="adj"/></r></p></e>
+      <e><p><l>мұңды<s n="adj"/></l>                        <r>qaygʻuli<s n="adj"/></r></p></e>
+      <e><p><l>мұра<s n="n"/></l>                           <r>meros<s n="n"/></r></p></e>
+      <e><p><l>мұрағат<s n="n"/></l>                        <r>arxiv<s n="n"/></r></p></e>
+      <e><p><l>мұрагер<s n="n"/></l>                        <r>merosxoʻr<s n="n"/></r></p></e>
+      <e><p><l>мұражай<s n="n"/></l>                        <r>muzey<s n="n"/></r></p></e>
+      <e><p><l>мұрсат<s n="n"/></l>                         <r>ruxsat<s n="n"/></r></p></e>
+      <e><p><l>мұрт<s n="n"/></l>                           <r>moʻylov<s n="n"/></r></p></e>
+      <e><p><l>мұрша<s n="n"/></l>                          <r>qalampir<s n="n"/></r></p></e>
+      <e><p><l>мұрын<s n="n"/></l>                          <r>burun<s n="n"/></r></p></e>
+      <e><p><l>мұрындық<s n="n"/></l>                       <r>burun<s n="n"/></r></p></e>
+      <e><p><l>мүсін<s n="n"/></l>                          <r>haykal<s n="n"/></r></p></e>
+      <e><p><l>Мустафа<s n="np"/><s n="ant"/><s n="m"/></l> <r>Mustafo<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>мұсылман<s n="n"/></l>                       <r>musulmon<s n="n"/></r></p></e>
+      <e><p><l>Мухамет<s n="np"/><s n="ant"/><s n="m"/></l> <r>Muhammad<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Мухаммед<s n="np"/><s n="ant"/><s n="m"/></l><r>Muhammad<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Мұхаммед<s n="np"/><s n="ant"/><s n="m"/></l><r>Muhammad<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>мұхит<s n="n"/></l>                          <r>okean<s n="n"/></r></p></e>
+      <e><p><l>мүше<s n="n"/></l>                           <r>aʻzo<s n="n"/></r></p></e>
+      <e><p><l>мүше<s n="n"/></l>                           <r>qatnashchi<s n="n"/></r></p></e>
+      <e><p><l>мүшел<s n="n"/></l>                          <r>qatnashchi<s n="n"/></r></p></e>
+      <e><p><l>мүшелік<s n="n"/></l>                        <r>a`zolik<s n="n"/></r></p></e>
+      <e><p><l>мықты<s n="adj"/></l>                        <r>kuchli<s n="adj"/></r></p></e>
+      <e><p><l>мықты<s n="adj"/></l>                        <r>qudratli<s n="adj"/></r></p></e>
+      <e><p><l>мылтық<s n="n"/></l>                         <r>miltiq<s n="n"/></r></p></e>
+      <e><p><l>мың<s n="num"/></l>                          <r>ming<s n="num"/></r></p></e>
+      <e><p><l>мына<s n="prn"/><s n="dem"/></l>             <r>bu<s n="prn"/><s n="dem"/></r></p></e>
+      <e><p><l>мына<s n="prn"/><s n="dem"/></l>             <r>shu<s n="prn"/><s n="dem"/></r></p></e>
+      <e><p><l>мынау<s n="prn"/><s n="dem"/></l>            <r>bu<s n="prn"/><s n="dem"/></r></p></e>
+      <e><p><l>мында<s n="adv"/></l>                        <r>bunda<s n="adv"/></r></p></e>
+      <e><p><l>мырза<s n="n"/></l>                          <r>afandi<s n="n"/></r></p></e>
+      <e><p><l>мырза<s n="n"/></l>                          <r>janob<s n="n"/></r></p></e>
+      <e><p><l>мыс<s n="n"/></l>                            <r>boʻgʻoz<s n="n"/></r></p></e>
+      <e><p><l>мыс<s n="n"/></l>                            <r>mis<s n="n"/></r></p></e>
+      <e><p><l>мысал<s n="n"/></l>                          <r>misol<s n="n"/></r></p></e>
+      <e><p><l>мысық<s n="n"/></l>                          <r>mushuk<s n="n"/></r></p></e>
+      <e><p><l>Мысыр<s n="np"/><s n="top"/></l>             <r>Misr<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Мьянма<s n="np"/><s n="top"/></l>            <r>Myanma<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Мэриленд<s n="np"/><s n="top"/></l>          <r>Merilend<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Мюнхен<s n="np"/><s n="top"/></l>            <r>Myunxen<s n="np"/><s n="top"/></r></p></e>
 
    </section>
 </dictionary>
