@@ -3584,6 +3584,104 @@
       <e><p><l>Мэриленд<s n="np"/><s n="top"/></l>          <r>Merilend<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Мюнхен<s n="np"/><s n="top"/></l>            <r>Myunxen<s n="np"/><s n="top"/></r></p></e>
 
+      <e><p><l>нағыз<s n="adj"/></l>                        <r>haqiqiy<s n="adj"/></r></p></e>
+      <e><p><l>назар<s n="n"/></l>                          <r>nazar<s n="n"/></r></p></e>
+      <e><p><l>назар<s n="n"/></l>                          <r>qarash<s n="n"/></r></p></e>
+      <e><p><l>назар<s n="n"/></l>                          <r>qiziqish<s n="n"/></r></p></e>
+      <e><p><l>найза<s n="n"/></l>                          <r>nayza<s n="n"/></r></p></e>
+      <e><p><l>найзағай<s n="n"/></l>                       <r>yashin<s n="n"/></r></p></e>
+      <e><p><l>найзағай<s n="n"/></l>                       <r>chaqmoq<s n="n"/></r></p></e>
+      <e><p><l>Найроби<s n="np"/><s n="top"/></l>           <r>Nayrobi<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>нақ<s n="adj"/></l>                          <r>tamoman<s n="adv"/></r></p></e>
+      <e><p><l>нақтыла<s n="v"/><s n="tv"/></l>             <r>belgila<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>нақтылы<s n="adj"/></l>                      <r>nominal<s n="adj"/></r></p></e>
+      <e><p><l>нақыста<s n="v"/><s n="tv"/></l>             <r>naqshla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>намаз<s n="n"/></l>                          <r>namoz<s n="n"/></r></p></e>
+      <e><p><l>Намибия<s n="np"/><s n="top"/></l>           <r>Namibiya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>намыс<s n="n"/></l>                          <r>nomus<s n="n"/></r></p></e>
+      <e><p><l>нан<s n="n"/></l>                            <r>non<s n="n"/></r></p></e>
+      <e><p><l>наразы<s n="adj"/></l>                       <r>norozi<s n="adj"/></r></p></e>
+      <e><p><l>наразылық<s n="n"/></l>                      <r>norozilik<s n="n"/></r></p></e>
+      <e><p><l>нарық<s n="n"/></l>                          <r>bozor<s n="n"/></r></p></e>
+      <e><p><l>нарық<s n="n"/></l>                          <r>narx<s n="n"/></r></p></e>
+      <e><p><l>Нарын<s n="np"/><s n="top"/></l>             <r>Norin<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>насихат<s n="n"/></l>                        <r>nasihat<s n="n"/></r></p></e>
+      <e><p><l>науқан<s n="n"/></l>                         <r>kompaniya<s n="n"/></r></p></e>
+      <e><p><l>Науру<s n="np"/><s n="top"/></l>             <r>Nauru<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>наурыз<s n="n"/></l>                         <r>mart<s n="n"/></r></p></e>
+      <e><p><l>наурыз<s n="n"/></l>                         <r>navroʻz<s n="n"/></r></p></e>
+      <e><p><l>нашар<s n="adj"/></l>                        <r>noshud<s n="adj"/></r></p></e>
+      <e><p><l>нашар<s n="adj"/></l>                        <r>yomon<s n="adj"/></r></p></e>
+      <e><p><l>нашар<s n="n"/></l>                          <r>yomonlik<s n="n"/></r></p></e>
+      <e><p><l>не<s n="cnjcoo"/></l>                        <r>na<s n="cnjcoo"/></r></p></e>
+      <e><p><l>не<s n="cnjcoo"/></l>                        <r>nima<s n="cnjcoo"/></r></p></e>
+      <e><p><l>не<s n="cnjcoo"/></l>                        <r>yoki<s n="cnjcoo"/></r></p></e>
+      <e><p><l>не<s n="cnjcoo"/></l>                        <r>yoxud<s n="cnjcoo"/></r></p></e>
+      <e><p><l>не<s n="prn"/><s n="itg"/></l>               <r>nima<s n="prn"/><s n="itg"/></r></p></e>
+      <e><p><l>Неаполь<s n="np"/><s n="top"/></l>           <r>Neapol<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Небраска<s n="np"/><s n="top"/></l>          <r>Nebraska<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Невада<s n="np"/><s n="top"/></l>            <r>Nevada<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>негіз<s n="n"/></l>                          <r>negiz<s n="n"/></r></p></e>
+      <e><p><l>негіз<s n="n"/></l>                          <r>poydevor<s n="n"/></r></p></e>
+      <e><p><l>негр<s n="n"/></l>                           <r>negr<s n="n"/></r></p></e>
+      <e><p><l>нәзік<s n="adj"/></l>                        <r>nozik<s n="adj"/></r></p></e>
+      <e><p><l>неке<s n="n"/></l>                           <r>nikoh<s n="n"/></r></p></e>
+      <e><p><l>неліктен<s n="adv"/></l>                     <r>nima uchun<s n="adv"/><s n="itg"/></r></p></e>
+      <e><p><l>немене<s n="prn"/><s n="itg"/></l>           <r>nima<s n="prn"/><s n="itg"/></r></p></e>
+      <e><p><l>немесе<s n="cnjcoo"/></l>                    <r>yoki<s n="cnjcoo"/></r></p></e>
+      <e><p><l>немесе<s n="cnjcoo"/></l>                    <r>yoʻqsa<s n="cnjadv"/></r></p></e>
+      <e><p><l>немесе<s n="cnjcoo"/></l>                    <r>yoxud<s n="cnjcoo"/></r></p></e>
+      <e><p><l>неміс<s n="n"/></l>                          <r>nemis<s n="n"/></r></p></e>
+      <e><p><l>Непал<s n="np"/><s n="top"/></l>             <r>Nepal<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>нәр<s n="n"/></l>                            <r>ovqat<s n="n"/></r></p></e>
+      <e><p><l>нәр<s n="n"/></l>                            <r>xoʻrak<s n="n"/></r></p></e>
+      <e><p><l>нәресте<s n="n"/></l>                        <r>chaqaloq<s n="n"/></r></p></e>
+      <e><p><l>нәрсе<s n="n"/></l>                          <r>buyum<s n="n"/></r></p></e>
+      <e><p><l>нәрсе<s n="n"/></l>                          <r>narsa<s n="n"/></r></p></e>
+      <e><p><l>нәрсе<s n="prn"/><s n="itg"/></l>            <r>nima<s n="prn"/><s n="itg"/></r></p></e>
+      <e><p><l>нәруыз<s n="n"/></l>                         <r>oqsil<s n="n"/></r></p></e>
+      <e><p><l>несеп<s n="n"/></l>                          <r>siydik<s n="n"/></r></p></e>
+      <e><p><l>несие<s n="n"/></l>                          <r>nasiya<s n="n"/></r></p></e>
+      <e><p><l>нәтиже<s n="n"/></l>                         <r>natija<s n="n"/></r></p></e>
+      <e><p><l>нәтиже<s n="n"/></l>                         <r>samara<s n="n"/></r></p></e>
+      <e><p><l>нәтиже<s n="n"/></l>                         <r>yakun<s n="n"/></r></p></e>
+      <e><p><l>Нигер<s n="np"/><s n="top"/></l>             <r>Niger<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Нигерия<s n="np"/><s n="top"/></l>           <r>Nigeriya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Нидерланд<s n="np"/><s n="top"/></l>         <r>Gollandiya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>ниеттен<s n="v"/><s n="iv"/></l>             <r>qur<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>Никарагуа<s n="np"/><s n="top"/></l>         <r>Nikaragua<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>никель<s n="n"/></l>                         <r>nikel<s n="n"/></r></p></e>
+      <e><p><l>Нико<s n="np"/><s n="ant"/><s n="m"/></l>    <r>Niko<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Никола<s n="np"/><s n="ant"/><s n="m"/></l>  <r>Nikola<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Нишапур<s n="np"/><s n="top"/></l>           <r>Nishopur<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Новосибирск<s n="np"/><s n="top"/></l>       <r>Novosibirsk<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>нөл<s n="num"/></l>                          <r>nol<s n="num"/></r></p></e>
+      <e><p><l>нөмір<s n="n"/></l>                          <r>nomer<s n="n"/></r></p></e>
+      <e><p><l>Норвегия<s n="np"/><s n="top"/></l>          <r>Norvegiya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>норма<s n="n"/></l>                          <r>me’yor<s n="n"/></r></p></e>
+      <e><p><l>норма<s n="n"/></l>                          <r>norma<s n="n"/></r></p></e>
+      <e><p><l>Нормандия<s n="np"/><s n="top"/></l>         <r>Normandiya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>норматив<s n="n"/></l>                       <r>normativ<s n="n"/></r></p></e>
+      <e><p><l>нота<s n="n"/></l>                           <r>nota<s n="n"/></r></p></e>
+      <e><p><l>Ноэль<s n="np"/><s n="ant"/><s n="m"/></l>   <r>Noel<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Нуакшот<s n="np"/><s n="top"/></l>           <r>Nuakshot<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>нұқсан<s n="n"/></l>                         <r>nuqson<s n="n"/></r></p></e>
+      <e><p><l>нұқсан<s n="n"/></l>                         <r>shikast<s n="n"/></r></p></e>
+      <e><p><l>нүкте<s n="n"/></l>                          <r>nuqta<s n="n"/></r></p></e>
+      <e><p><l>нүкте<s n="n"/></l>                          <r>punkt<s n="n"/></r></p></e>
+      <e><p><l>нұр<s n="n"/></l>                            <r>nur<s n="n"/></r></p></e>
+      <e><p><l>Нұри<s n="np"/><s n="ant"/><s n="m"/></l>    <r>Nuri<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>нұрлы<s n="adj"/></l>                        <r>nurli<s n="adj"/></r></p></e>
+      <e><p><l>Нұрсұлтан<s n="np"/><s n="ant"/><s n="m"/></l><r>Nursulton<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>нұсқа<s n="n"/></l>                          <r>nusxa<s n="n"/></r></p></e>
+      <e><p><l>нұсқа<s n="v"/><s n="tv"/></l>               <r>koʻrsat<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>нығай<s n="v"/><s n="iv"/></l>               <r>mustahkamla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>нысан<s n="n"/></l>                          <r>shakl<s n="n"/></r></p></e>
+      <e><p><l>нысан<s n="n"/></l>                          <r>siymo<s n="n"/></r></p></e>
+      <e><p><l>нысана<s n="n"/></l>                         <r>maqsud<s n="n"/></r></p></e>
+      <e><p><l>нысана<s n="n"/></l>                         <r>nishona<s n="n"/></r></p></e>
+      <e><p><l>Нюрнберг<s n="np"/><s n="top"/></l>          <r>Nyurnberg<s n="np"/><s n="top"/></r></p></e>
+
    </section>
 </dictionary>
 
