@@ -8781,6 +8781,52 @@
     <e><p><l>не<s n="prn"/></l><r>nima<s n="prn"/></r></p></e>
     <e><p><l>өз<s n="prn"/></l><r>oʻz<s n="prn"/></r></p></e>
 
+	<e><p><l>қай<s n="det"/><s n="itg"/></l><r>qaysi<s n="det"/><s n="itg"/></r></p></e>
+	<e><p><l>өз<s n="det"/><s n="ref"/></l><r>oʻz<s n="det"/><s n="ref"/></r></p></e>
+	<e><p><l>бұл<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
+	<e><p><l>осы<s n="det"/><s n="dem"/></l><r>ana<b/>shu<s n="det"/><s n="dem"/></r></p></e>
+	<e><p><l>сол<s n="det"/><s n="dem"/></l><r>shu<s n="det"/><s n="dem"/></r></p></e>
+	<e><p><l>сонау<s n="det"/><s n="dem"/></l><r>soʻng<s n="det"/><s n="dem"/></r></p></e>
+    <e><p><l>анау<s n="det"/></l><r>ana<b/>u<s n="det"/></r></p></e>
+    <e><p><l>бар<s n="det"/></l><r>bor<s n="det"/></r></p></e>
+    <e><p><l>барлық<s n="det"/></l><r>borliq<s n="det"/></r></p></e>
+    <e><p><l>бір<s n="det"/></l><r>bir<s n="det"/></r></p></e>
+    <e><p><l>бірер<s n="det"/></l><r>biror<s n="det"/></r></p></e>
+    <e><p><l>бірқатар<s n="det"/></l><r>bir<b/>qator<s n="det"/></r></p></e>
+    <e><p><l>бірнеше<s n="det"/></l><r>bir<b/>necha<s n="det"/></r></p></e>
+    <e><p><l>бүкіл<s n="det"/></l><r>butkul<s n="det"/></r></p></e>
+    <e><p><l>бұл<s n="det"/></l><r>bu<s n="det"/></r></p></e>
+    <e><p><l>әлгі<s n="det"/></l><r>mana<b/>shu<s n="det"/></r></p></e>
+    <e><p><l>әлдебір<s n="det"/></l><r>baʼzi<b/>bir<s n="det"/></r></p></e>
+    <e><p><l>әлденеше<s n="det"/></l><r>bir<b/>necha<s n="det"/></r></p></e>
+    <e><p><l>әр<s n="det"/></l><r>har<s n="det"/></r></p></e>
+    <e><p><l>әрбір<s n="det"/></l><r>har<b/>bir<s n="det"/></r></p></e>
+    <e><p><l>әртүрлі<s n="det"/></l><r>har<b/>turli<s n="det"/></r></p></e>
+    <e><p><l>ешбір<s n="det"/></l><r>hech<b/>bir<s n="det"/></r></p></e>
+    <e><p><l>ешқандай<s n="det"/></l><r>hech<b/>qanday<s n="det"/></r></p></e>
+    <e><p><l>жүздеген<s n="det"/></l><r>yuzlagan<s n="det"/></r></p></e>
+    <e><p><l>исі<s n="det"/></l><r>toʻliq<s n="det"/></r></p></e>
+    <e><p><l>қай<s n="det"/></l><r>qaysi<s n="det"/></r></p></e>
+    <e><p><l>қайсы<s n="det"/></l><r>qaysi<s n="det"/></r></p></e>
+    <e><p><l>қайсыбір<s n="det"/></l><r>qaysi<b/>bir<s n="det"/></r></p></e>
+    <e><p><l>қанша<s n="det"/></l><r>qancha<s n="det"/></r></p></e>
+    <e><p><l>кей<s n="det"/></l><r>baʼzi<s n="det"/></r></p></e>
+    <e><p><l>кейбір<s n="det"/></l><r>baʼzi<b/>bir<s n="det"/></r></p></e>
+    <e><p><l>көптеген<s n="det"/></l><r>koʻplagan<s n="det"/></r></p></e>
+    <e><p><l>күллі<s n="det"/></l><r>butkul<s n="det"/></r></p></e>
+    <e><p><l>миллиардтаған<s n="det"/></l><r>milliardlagan<s n="det"/></r></p></e>
+    <e><p><l>миллиондаған<s n="det"/></l><r>millionlagan<s n="det"/></r></p></e>
+    <e><p><l>мынау<s n="det"/></l><r>mana<b/>bu<s n="det"/></r></p></e>
+    <e><p><l>мыңдаған<s n="det"/></l><r>minglagan<s n="det"/></r></p></e>
+    <e><p><l>өз<s n="det"/></l><r>oʻz<s n="det"/></r></p></e>
+    <e><p><l>ол<s n="det"/></l><r>u<s n="det"/></r></p></e>
+    <e><p><l>ондаған<s n="det"/></l><r>oʻnlagan<s n="det"/></r></p></e>
+    <e><p><l>осы<s n="det"/></l><r>ana<b/>shu<s n="det"/></r></p></e>
+    <e><p><l>осынау<s n="det"/></l><r>bu<s n="det"/></r></p></e>
+    <e><p><l>сол<s n="det"/></l><r>shu<s n="det"/></r></p></e>
+    <e><p><l>сонау<s n="det"/></l><r>soʻng<s n="det"/></r></p></e>
+
+
 
    </section>
 </dictionary>
