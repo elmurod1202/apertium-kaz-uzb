@@ -8759,6 +8759,28 @@
     <e><p><l>хақында<s n="post"/></l><r>haqida<s n="post"/></r></p></e>
     <e><p><l>шейін<s n="post"/></l><r>gacha<s n="post"/></r></p></e>
 
+    <e><p><l>мен<s n="prn"/><s n="pers"/></l><r>men<s n="prn"/><s n="pers"/></r></p></e>
+    <e><p><l>сен<s n="prn"/><s n="pers"/></l><r>sen<s n="prn"/><s n="pers"/></r></p></e>
+    <e><p><l>ол<s n="prn"/><s n="pers"/></l><r>u<s n="prn"/><s n="pers"/></r></p></e>
+    <e><p><l>біз<s n="prn"/><s n="pers"/></l><r>biz<s n="prn"/><s n="pers"/></r></p></e>
+    <e><p><l>сіз<s n="prn"/><s n="pers"/></l><r>siz<s n="prn"/><s n="pers"/></r></p></e>
+    <e><p><l>нәрсе<s n="prn"/></l><r>narsa<s n="prn"/></r></p></e> <!-- "thing" -->
+   <e><p><l>еш<b/>нәрсе<s n="prn"/><s n="neg"/></l><r>hech<b/>narsa<s n="prn"/><s n="neg"/></r></p></e>
+    <e><p><l>сендер<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></l><r>sizlar<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></r></p></e>
+	<e><p><l>олар<s n="prn"/><s n="pers"/></l><r>ular<s n="prn"/><s n="pers"/></r></p></e>
+
+    <e><p><l>барлық<s n="prn"/></l><r>borliq<s n="prn"/></r></p></e>
+    <e><p><l>басқа<s n="prn"/></l><r>boshqa<s n="prn"/></r></p></e>
+    <e><p><l>бәрі<s n="prn"/></l><r>bari<s n="prn"/></r></p></e>
+    <e><p><l>бір-бір<s n="prn"/></l><r>bir-bir<s n="prn"/></r></p></e>
+    <e><p><l>бірдеме<s n="prn"/></l><r>nimadir<s n="prn"/></r></p></e>
+    <e><p><l>біреу<s n="prn"/></l><r>birov<s n="prn"/></r></p></e>
+    <e><p><l>әркім<s n="prn"/></l><r>har<b/>kim<s n="prn"/></r></p></e>
+    <e><p><l>кей<s n="prn"/></l><r>baʼzi<s n="prn"/></r></p></e>
+    <e><p><l>кім<s n="prn"/></l><r>kim<s n="prn"/></r></p></e>
+    <e><p><l>не<s n="prn"/></l><r>nima<s n="prn"/></r></p></e>
+    <e><p><l>өз<s n="prn"/></l><r>oʻz<s n="prn"/></r></p></e>
+
 
    </section>
 </dictionary>
