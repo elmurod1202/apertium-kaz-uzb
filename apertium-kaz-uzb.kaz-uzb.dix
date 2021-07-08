@@ -11067,6 +11067,118 @@
     <e><p><l>кет<s n="vaux"/></l><r>ket<s n="vaux"/></r></p></e>
     <e><p><l>біт<s n="vaux"/></l><r>bit<s n="vaux"/></r></p></e>
 
+	<e><p><l>әлбетте<s n="ij"/></l><r>albatta<s n="ij"/></r></p></e>
+	<e><p><l>жоқ<s n="ij"/></l><r>yoʻq<s n="ij"/></r></p></e>
+	<e><p><l>қай<s n="det"/><s n="itg"/></l><r>qaysi<s n="det"/><s n="itg"/></r></p></e>
+	<e><p><l>өз<s n="det"/><s n="ref"/></l><r>oʻz<s n="det"/><s n="ref"/></r></p></e>
+	<e><p><l>бұл<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
+	<e><p><l>осы<s n="det"/><s n="dem"/></l><r>shu<s n="det"/><s n="dem"/></r></p></e>
+	<e><p><l>сол<s n="det"/><s n="dem"/></l><r>shunda<s n="det"/><s n="dem"/></r></p></e>
+	<e><p><l>сонау<s n="det"/><s n="dem"/></l><r>soʻngi<s n="det"/><s n="dem"/></r></p></e>
+    <e><p><l>анау<s n="det"/></l><r>oʻsha<s n="det"/></r></p></e>
+    <e><p><l>бар<s n="det"/></l><r>bor<s n="det"/></r></p></e>
+    <e><p><l>барлық<s n="det"/></l><r>borliq<s n="det"/></r></p></e>
+    <e><p><l>бір<s n="det"/></l><r>bir<s n="det"/></r></p></e>
+    <e><p><l>бірер<s n="det"/></l><r>biror<s n="det"/></r></p></e>
+    <e><p><l>бірқатар<s n="det"/></l><r>bir<b/>qator<s n="det"/></r></p></e>
+    <e><p><l>бірнеше<s n="det"/></l><r>birnecha<s n="det"/></r></p></e>
+    <e><p><l>бүкіл<s n="det"/></l><r>butkul<s n="det"/></r></p></e>
+    <e><p><l>бұл<s n="det"/></l><r>mazkur<s n="det"/></r></p></e>
+    <e><p><l>әлгі<s n="det"/></l><r>oʻsha<s n="det"/></r></p></e>
+    <e><p><l>әлдебір<s n="det"/></l><r>ba'zi<b/>bir<s n="det"/></r></p></e>
+    <e><p><l>әлденеше<s n="det"/></l><r>bir<b/>necha<s n="det"/></r></p></e>
+    <e><p><l>әр<s n="det"/></l><r>har<s n="det"/></r></p></e>
+    <e><p><l>әрбір<s n="det"/></l><r>har<b/>bir<s n="det"/></r></p></e>
+    <e><p><l>әртүрлі<s n="det"/></l><r>har<b/>turli<s n="det"/></r></p></e>
+    <e><p><l>ешбір<s n="det"/></l><r>hech<b/>bir<s n="det"/></r></p></e>
+    <e><p><l>ешқандай<s n="det"/></l><r>hech<b/>qanday<s n="det"/></r></p></e>
+    <e><p><l>жүздеген<s n="det"/></l><r>yuzlagan<s n="det"/></r></p></e>
+    <e><p><l>исі<s n="det"/></l><r>butkul<s n="det"/></r></p></e>
+    <e><p><l>қай<s n="det"/></l><r>qay<s n="det"/></r></p></e>
+    <e><p><l>қайсы<s n="det"/></l><r>qaysi<s n="det"/></r></p></e>
+    <e><p><l>қайсыбір<s n="det"/></l><r>qaysi<b/>bir<s n="det"/></r></p></e>
+    <e><p><l>қанша<s n="det"/></l><r>qancha<s n="det"/></r></p></e>
+    <e><p><l>кей<s n="det"/></l><r>ba'zi<s n="det"/></r></p></e>
+    <e><p><l>кейбір<s n="det"/></l><r>ba'zi<b/>bir<s n="det"/></r></p></e>
+    <e><p><l>көптеген<s n="det"/></l><r>koʻplagan<s n="det"/></r></p></e>
+    <e><p><l>күллі<s n="det"/></l><r>butun<s n="det"/></r></p></e>
+    <e><p><l>миллиардтаған<s n="det"/></l><r>milliardlagan<s n="det"/></r></p></e>
+    <e><p><l>миллиондаған<s n="det"/></l><r>millionlagan<s n="det"/></r></p></e>
+    <e><p><l>мынау<s n="det"/></l><r>mana<b/>bu<s n="det"/></r></p></e>
+    <e><p><l>мыңдаған<s n="det"/></l><r>minglagan<s n="det"/></r></p></e>
+    <e><p><l>өз<s n="det"/></l><r>oʻz<s n="det"/></r></p></e>
+    <e><p><l>ол<s n="det"/></l><r>u<s n="det"/></r></p></e>
+    <e><p><l>ондаған<s n="det"/></l><r>oʻnlagan<s n="det"/></r></p></e>
+    <e><p><l>осы<s n="det"/></l><r>shu<s n="det"/></r></p></e>
+    <e><p><l>осынау<s n="det"/></l><r>shunday<s n="det"/></r></p></e>
+    <e><p><l>сол<s n="det"/></l><r>shu<s n="det"/></r></p></e>
+    <e><p><l>сонау<s n="det"/></l><r>mazkur<s n="det"/></r></p></e>
+
+	<e><p><l>мен<s n="post"/></l><r>va<s n="post"/></r></p></e>
+	<e><p><l>пен<s n="post"/></l><r>bilan<s n="post"/></r></p></e>
+    <e><p><l>арқылы<s n="post"/></l><r>orqali<s n="post"/></r></p></e>
+    <e><p><l>арналған<s n="post"/></l><r>atalgan<s n="post"/></r></p></e>
+    <e><p><l>басқа<s n="post"/></l><r>boshqa<s n="post"/></r></p></e>
+    <e><p><l>бері<s n="post"/></l><r>beri<s n="post"/></r></p></e>
+    <e><p><l>бетер<s n="post"/></l><r>battar<s n="post"/></r></p></e>
+    <e><p><l>бірге<s n="post"/></l><r>birga<s n="post"/></r></p></e>
+    <e><p><l>бойда<s n="post"/></l><r>vaqtida<s n="post"/></r></p></e>
+    <e><p><l>бойы<s n="post"/></l><r>boʻyi<s n="post"/></r></p></e>
+    <e><p><l>бойымен<s n="post"/></l><r>boʻylab<s n="post"/></r></p></e>
+    <e><p><l>бойында<s n="post"/></l><r>boʻyida<s n="post"/></r></p></e>
+    <e><p><l>бойынша<s n="post"/></l><r>boʻyicha<s n="post"/></r></p></e>
+    <e><p><l>бұрын<s n="post"/></l><r>oldin<s n="post"/></r></p></e>
+    <e><p><l>гөрі<s n="post"/></l><r>koʻra<s n="post"/></r></p></e>
+    <e><p><l>ғұрлы<s n="post"/></l><r>sifatida<s n="post"/></r></p></e>
+    <e><p><l>дейін<s n="post"/></l><r>qadar<s n="post"/></r></p></e>
+    <e><p><l>дейін<s n="post"/></l><r>gacha<s n="post"/></r></p></e>
+    <e><p><l>әрі<s n="post"/></l><r>uzoqroq<s n="post"/></r></p></e>
+    <e><p><l>жайында<s n="post"/></l><r>haqida<s n="post"/></r></p></e>
+    <e><p><l>жөнінде<s n="post"/></l><r>toʻgʻrisida<s n="post"/></r></p></e>
+    <e><p><l>жуық<s n="post"/></l><r>yaqin<s n="post"/></r></p></e>
+    <e><p><l>ілгері<s n="post"/></l><r>ilgari<s n="post"/></r></p></e>
+    <e><p><l>іспетті<s n="post"/></l><r>singari<s n="post"/></r></p></e>
+    <e><p><l>іспетті<s n="post"/></l><r>kabi<s n="post"/></r></p></e>
+    <e><p><l>қабат<s n="post"/></l><r>qavat<s n="post"/></r></p></e>
+    <e><p><l>қарағанда<s n="post"/></l><r>qaraganda<s n="post"/></r></p></e>
+    <e><p><l>қарағанда<s n="post"/></l><r>nisbatan<s n="post"/></r></p></e>
+    <e><p><l>қарай<s n="post"/></l><r>sari<s n="post"/></r></p></e>
+    <e><p><l>қарай<s n="post"/></l><r>tomon<s n="post"/></r></p></e>
+    <e><p><l>қарамағында<s n="post"/></l><r>qaramogʻida<s n="post"/></r></p></e>
+    <e><p><l>қарамағындағы<s n="post"/></l><r>qaramogʻidagi<s n="post"/></r></p></e>
+    <e><p><l>қарамай<s n="post"/></l><r>qaramay<s n="post"/></r></p></e>
+    <e><p><l>қарамастан<s n="post"/></l><r>qaramasdan<s n="post"/></r></p></e>
+    <e><p><l>қарсы<s n="post"/></l><r>qarshi<s n="post"/></r></p></e>
+    <e><p><l>қатар<s n="post"/></l><r>tashqari<s n="post"/></r></p></e>
+    <e><p><l>кейін<s n="post"/></l><r>keyin<s n="post"/></r></p></e>
+    <e><p><l>қоса<s n="post"/></l><r>birga<s n="post"/></r></p></e>
+    <e><p><l>құрлы<s n="post"/></l><r>kamyob<s n="post"/></r></p></e>
+    <e><p><l>мақсатында<s n="post"/></l><r>maqsadida<s n="post"/></r></p></e>
+    <e><p><l>сайын<s n="post"/></l><r>sayin<s n="post"/></r></p></e>
+    <e><p><l>салым<s n="post"/></l><r>ulush<s n="post"/></r></p></e>
+    <e><p><l>сәйкес<s n="post"/></l><r>binoan<s n="post"/></r></p></e>
+    <e><p><l>секілді<s n="post"/></l><r>goʻyo<s n="post"/></r></p></e>
+    <e><p><l>сияқты<s n="post"/></l><r>singari<s n="post"/></r></p></e>
+    <e><p><l>соң<s n="post"/></l><r>soʻng<s n="post"/></r></p></e>
+    <e><p><l>таман<s n="post"/></l><r>tomon<s n="post"/></r></p></e>
+    <e><p><l>таяу<s n="post"/></l><r>yaqin<s n="post"/></r></p></e>
+    <e><p><l>туралы<s n="post"/></l><r>haqida<s n="post"/></r></p></e>
+    <e><p><l>үшін<s n="post"/></l><r>uchun<s n="post"/></r></p></e>
+    <e><p><l>хақында<s n="post"/></l><r>haqida<s n="post"/></r></p></e>
+    <e><p><l>шейін<s n="post"/></l><r>gacha<s n="post"/></r></p></e>
+
+	<e><p><l>ма<s n="qst"/></l><r>mi<s n="qst"/></r></p></e>
+	<e><p><l>ма<b/>не<s n="qst"/></l><r>emasmi<s n="qst"/></r></p></e>
+
+    <e><p><l>ж.<s n="abbr"/></l><r>j.<s n="abbr"/></r></p></e>
+    <e><p><l>жж.<s n="abbr"/></l><r>jj.<s n="abbr"/></r></p></e>
+    <e><p><l>т.б.<s n="abbr"/></l><r>t.b.<s n="abbr"/></r></p></e>
+    <e><p><l>кг<s n="abbr"/></l><r>kg<s n="abbr"/></r></p></e>
+    <e><p><l>км<s n="abbr"/></l><r>km<s n="abbr"/></r></p></e>
+    <e><p><l>км²<s n="abbr"/></l><r>km²<s n="abbr"/></r></p></e>
+    <e><p><l>км³<s n="abbr"/></l><r>km³<s n="abbr"/></r></p></e>
+
+
 
 
 
