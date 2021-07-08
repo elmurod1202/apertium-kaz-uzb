@@ -10704,6 +10704,115 @@
     <e><p><l>этностық<s n="adj"/></l><r>etnik<s n="adj"/></r></p></e>
     <e><p><l>ядролық<s n="adj"/></l><r>yadroviy<s n="adj"/></r></p></e>
 
+	<e><p><l>бүгін<s n="adv"/></l><r>bugun<s n="adv"/></r></p></e>
+	<e><p><l>енді<s n="adv"/></l><r>endi<s n="adv"/></r></p></e>
+	<e><p><l>кеше<s n="adv"/></l><r>kecha<s n="adv"/></r></p></e>
+	<e><p><l>қайта<s n="adv"/></l><r>qayta<s n="adv"/></r></p></e>
+	<e><p><l>ішінде<s n="adv"/></l><r>davomida<s n="adv"/></r></p></e> <!-- "in" -->
+	<e><p><l>әрдайым<s n="adv"/></l><r>xar<b/>doim<s n="adv"/></r></p></e>
+	<e><p><l>әлі<s n="adv"/></l><r>xali<s n="adv"/></r></p></e> <!-- "still" (location) -->
+	<e><p><l>әлі<b/>де<b/>болса<s n="adv"/></l><r>hali<b/>xam<b/>boʻlsa<s n="adv"/></r></p></e> <!-- "still" (location) -->
+	<e><p><l>еш<b/>қашан<s n="adv"/><s n="itg"/></l><r>hech<b/>qachon<s n="adv"/><s n="itg"/></r></p></e> <!-- "never" -->
+	<e><p><l>мүмкін<s n="adv"/><s n="itg"/></l><r>mumkin<s n="adv"/><s n="itg"/></r></p></e> <!-- "probably" -->
+	<e><p><l>қашан<s n="adv"/><s n="itg"/></l><r>qachon<s n="adv"/><s n="itg"/></r></p></e> <!-- "where" (location) -->
+	<e><p><l>қайда<s n="adv"/><s n="itg"/></l><r>qayerda<s n="adv"/><s n="itg"/></r></p></e> <!-- "where" (location) -->
+    <e><p><l>азғана<s n="adv"/></l><r>ozgina<s n="adv"/></r></p></e>
+    <e><p><l>азғантай<s n="adv"/></l><r>ozgina<s n="adv"/></r></p></e>
+    <e><p><l>ақшалай<s n="adv"/></l><r>xar<b/>qalay<s n="adv"/></r></p></e>
+    <e><p><l>алға<s n="adv"/></l><r>oldinga<s n="adv"/></r></p></e>
+    <e><p><l>алғашында<s n="adv"/></l><r>boshida<s n="adv"/></r></p></e>
+    <e><p><l>ана<b/>жолғы<s n="adv"/></l><r>bir<b/>marta<s n="adv"/></r></p></e>
+    <e><p><l>аса<s n="adv"/></l><r>koʻproq<s n="adv"/></r></p></e>
+    <e><p><l>барынша<s n="adv"/></l><r>boricha<s n="adv"/></r></p></e>
+    <e><p><l>бері<s n="adv"/></l><r>beri<s n="adv"/></r></p></e>
+    <e><p><l>бәрібір<s n="adv"/></l><r>baribir<s n="adv"/></r></p></e>
+    <e><p><l>біраз<s n="adv"/></l><r>biroz<s n="adv"/></r></p></e>
+    <e><p><l>бірге<s n="adv"/></l><r>birga<s n="adv"/></r></p></e>
+    <e><p><l>бірен-саран<s n="adv"/></l><r>onda-sonda<s n="adv"/></r></p></e>
+    <e><p><l>біржола<s n="adv"/></l><r>biryoʻla<s n="adv"/></r></p></e>
+    <e><p><l>біржолата<s n="adv"/></l><r>biratoʻla<s n="adv"/></r></p></e>
+    <e><p><l>бірталай<s n="adv"/></l><r>birtalay<s n="adv"/></r></p></e>
+    <e><p><l>бірте-бірте<s n="adv"/></l><r>asta-sekin<s n="adv"/></r></p></e>
+    <e><p><l>біртіндеп<s n="adv"/></l><r>oz-ozdan<s n="adv"/></r></p></e>
+    <e><p><l>біршама<s n="adv"/></l><r>bir<b/>necha<s n="adv"/></r></p></e>
+    <e><p><l>бұлайша<s n="adv"/></l><r>shunday<b/>qilib<s n="adv"/></r></p></e>
+    <e><p><l>бұл<b/>жолғы<s n="adv"/></l><r>bu<b/>safar<s n="adv"/></r></p></e>
+    <e><p><l>бұрынғыдай<s n="adv"/></l><r>oldingiday<s n="adv"/></r></p></e>
+    <e><p><l>бұрыннан<s n="adv"/></l><r>oldindan<s n="adv"/></r></p></e>
+    <e><p><l>дәл<s n="adv"/></l><r>aniq<s n="adv"/></r></p></e>
+    <e><p><l>дереу<s n="adv"/></l><r>darrov<s n="adv"/></r></p></e>
+    <e><p><l>әбден<s n="adv"/></l><r>obdon<s n="adv"/></r></p></e>
+    <e><p><l>әдейі<s n="adv"/></l><r>qasddan<s n="adv"/></r></p></e>
+    <e><p><l>ежелде<s n="adv"/></l><r>azalda<s n="adv"/></r></p></e>
+    <e><p><l>әзірше<s n="adv"/></l><r>hozircha<s n="adv"/></r></p></e>
+    <e><p><l>әйтеуір<s n="adv"/></l><r>qandaydir<s n="adv"/></r></p></e>
+    <e><p><l>екіталай<s n="adv"/></l><r>nogumon<s n="adv"/></r></p></e>
+    <e><p><l>әлгіндей<s n="adv"/></l><r>kabi<s n="adv"/></r></p></e>
+    <e><p><l>әлдеқайда<s n="adv"/></l><r>alla<b/>qayerda<s n="adv"/></r></p></e>
+    <e><p><l>әлі<s n="adv"/></l><r>hali<s n="adv"/></r></p></e>
+    <e><p><l>ең<s n="adv"/></l><r>eng<s n="adv"/></r></p></e>
+    <e><p><l>ендеше<s n="adv"/></l><r>shunday<b/>boʻlsa<s n="adv"/></r></p></e>
+    <e><p><l>әрдайым<s n="adv"/></l><r>xar<b/>doim<s n="adv"/></r></p></e>
+    <e><p><l>әрі<s n="adv"/></l><r>yanada<s n="adv"/></r></p></e>
+    <e><p><l>әрқашан<s n="adv"/></l><r>har<b/>qachon<s n="adv"/></r></p></e>
+    <e><p><l>әрлі-берлі<s n="adv"/></l><r>vaqti-vaqti<b/>bilan<s n="adv"/></r></p></e>
+    <e><p><l>ерте<s n="adv"/></l><r>erta<s n="adv"/></r></p></e>
+    <e><p><l>ертең<s n="adv"/></l><r>ertang<s n="adv"/></r></p></e>
+    <e><p><l>әсіресе<s n="adv"/></l><r>ayniqsa<s n="adv"/></r></p></e>
+    <e><p><l>әсте<s n="adv"/></l><r>aslida<s n="adv"/></r></p></e>
+    <e><p><l>әуелі<s n="adv"/></l><r>avval<s n="adv"/></r></p></e>
+    <e><p><l>еш<s n="adv"/></l><r>hech<s n="adv"/></r></p></e>
+    <e><p><l>ешқашан<s n="adv"/></l><r>hech<b/>qachan<s n="adv"/></r></p></e>
+    <e><p><l>жағалап<s n="adv"/></l><r>yoqalab<s n="adv"/></r></p></e>
+    <e><p><l>жазбаша<s n="adv"/></l><r>yozma<s n="adv"/></r></p></e>
+    <e><p><l>жалт<s n="adv"/></l><r>yalt<s n="adv"/></r></p></e>
+    <e><p><l>жартылай<s n="adv"/></l><r>qisman<s n="adv"/></r></p></e>
+    <e><p><l>жаяу<s n="adv"/></l><r>yayov<s n="adv"/></r></p></e>
+    <e><p><l>жинағы<s n="adv"/></l><r>oʻrnatilgan<s n="adv"/></r></p></e>
+    <e><p><l>жолшыбай<s n="adv"/></l><r>yoʻl-yoʻlakay<s n="adv"/></r></p></e>
+    <e><p><l>жым<s n="adv"/></l><r>jim<s n="adv"/></r></p></e>
+    <e><p><l>іле<s n="adv"/></l><r>darrov<s n="adv"/></r></p></e>
+    <e><p><l>қазір<s n="adv"/></l><r>hozir<s n="adv"/></r></p></e>
+    <e><p><l>қайта<s n="adv"/></l><r>qayta<s n="adv"/></r></p></e>
+    <e><p><l>қайтадан<s n="adv"/></l><r>qaytadan<s n="adv"/></r></p></e>
+    <e><p><l>қалайша<s n="adv"/></l><r>qanday<s n="adv"/></r></p></e>
+    <e><p><l>кейде<s n="adv"/></l><r>qayda<s n="adv"/></r></p></e>
+    <e><p><l>кейіннен<s n="adv"/></l><r>ortidan<s n="adv"/></r></p></e>
+    <e><p><l>керісінше<s n="adv"/></l><r>aksincha<s n="adv"/></r></p></e>
+    <e><p><l>кешкісін<s n="adv"/></l><r>kechki<s n="adv"/></r></p></e>
+    <e><p><l>көбінесе<s n="adv"/></l><r>koʻpincha<s n="adv"/></r></p></e>
+    <e><p><l>көптеп<s n="adv"/></l><r>koʻplab<s n="adv"/></r></p></e>
+    <e><p><l>көрнеу<s n="adv"/></l><r>ravshan<s n="adv"/></r></p></e>
+    <e><p><l>күрт<s n="adv"/></l><r>toʻsatdan<s n="adv"/></r></p></e>
+    <e><p><l>міне<s n="adv"/></l><r>mana<s n="adv"/></r></p></e>
+    <e><p><l>мүлде<s n="adv"/></l><r>butunlay<s n="adv"/></r></p></e>
+    <e><p><l>мүлдем<s n="adv"/></l><r>butunlay<s n="adv"/></r></p></e>
+    <e><p><l>небәрі<s n="adv"/></l><r>faqatgina<s n="adv"/></r></p></e>
+    <e><p><l>негізінде<s n="adv"/></l><r>negizida<s n="adv"/></r></p></e>
+    <e><p><l>негізінен<s n="adv"/></l><r>asosan<s n="adv"/></r></p></e>
+    <e><p><l>неғұрлым<s n="adv"/></l><r>koʻp<s n="adv"/></r></p></e>
+    <e><p><l>неліктен<s n="adv"/></l><r>nima<b/>uchun<s n="adv"/></r></p></e>
+    <e><p><l>ойымша<s n="adv"/></l><r>oʻylashimcha<s n="adv"/></r></p></e>
+    <e><p><l>оншалық<s n="adv"/></l><r>koʻproq<s n="adv"/></r></p></e>
+    <e><p><l>осылайша<s n="adv"/></l><r>shunday<b/>qilib<s n="adv"/></r></p></e>
+    <e><p><l>өте<s n="adv"/></l><r>juda<s n="adv"/></r></p></e>
+    <e><p><l>сәл<s n="adv"/></l><r>sal<s n="adv"/></r></p></e>
+    <e><p><l>сөзінше<s n="adv"/></l><r>soʻzma-soʻz<s n="adv"/></r></p></e>
+    <e><p><l>сонсоң<s n="adv"/></l><r>shundan<b/>soʻng<s n="adv"/></r></p></e>
+    <e><p><l>соншалық<s n="adv"/></l><r>shunchalik<s n="adv"/></r></p></e>
+    <e><p><l>соншалықты<s n="adv"/></l><r>shunchalik<s n="adv"/></r></p></e>
+    <e><p><l>соншама<s n="adv"/></l><r>juda<b/>oz<s n="adv"/></r></p></e>
+    <e><p><l>сосын<s n="adv"/></l><r>undan<b/>soʻng<s n="adv"/></r></p></e>
+    <e><p><l>тағы<s n="adv"/></l><r>tagʻin<s n="adv"/></r></p></e>
+    <e><p><l>таяуда<s n="adv"/></l><r>tez<b/>orada<s n="adv"/></r></p></e>
+    <e><p><l>тек<s n="adv"/></l><r>faqat<s n="adv"/></r></p></e>
+    <e><p><l>тіпті<s n="adv"/></l><r>butunlay<s n="adv"/></r></p></e>
+    <e><p><l>төмендегідей<s n="adv"/></l><r>quyidagicha<s n="adv"/></r></p></e>
+    <e><p><l>тым<s n="adv"/></l><r>ham<s n="adv"/></r></p></e>
+    <e><p><l>ұдайы<s n="adv"/></l><r>doimiy<s n="adv"/></r></p></e>
+    <e><p><l>шәксіз<s n="adv"/></l><r>shubhasiz<s n="adv"/></r></p></e>
+    <e><p><l>шығар<s n="adv"/></l><r>taxminan<s n="adv"/></r></p></e>
+    <e><p><l>ылғи<s n="adv"/></l><r>doimo<s n="adv"/></r></p></e>
 
 
 
