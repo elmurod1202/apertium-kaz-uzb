@@ -9676,5 +9676,38 @@
 <e>       <p><l>тұр<s n="vaux"/></l>                   <r>tur<s n="vaux"/></r></p></e>
 <e>       <p><l>шық<s n="vaux"/></l>                   <r>chiq<s n="vaux"/></r></p></e>
 
+    <!-- ******************************
+        UNSORTED YET
+      ****************************** -->
+<e>       <p><l>код<s n="n"/></l>                  <r>kod<s n="n"/></r></p></e>
+<e>       <p><l>коммуна<s n="n"/></l>              <r>kommuna<s n="n"/></r></p></e>
+<e>       <p><l>NGC<s n="abbr"/></l>               <r>NGC<s n="abbr"/></r></p></e>
+<e>       <p><l>әкімшілік<s n="adj"/></l>          <r>ma`muriy<s n="adj"/></r></p></e>
+<e>       <p><l>тізілім<s n="n"/></l>              <r>tuzilma<s n="n"/></r></p></e>
+<e>       <p><l>сағасы<s n="n"/></l>               <r>oʻzan<s n="n"/></r></p></e>
+<e>       <p><l>сушаруашылық<s n="adj"/></l>       <r>sugʻoriladigan<s n="adj"/></r></p></e>
+<e>       <p><l>реестр<s n="n"/></l>               <r>reestr<s n="n"/></r></p></e>
+<e>       <p><l>обь<s n="n"/></l>                  <r>ob<s n="n"/></r></p></e>
+<e>       <p><l>федералды<s n="adj"/></l>          <r>federal<s n="adj"/></r></p></e>
+<e>       <p><l>INSEE<s n="abbr"/></l>             <r>INSEE<s n="abbr"/></r></p></e>
+<e>       <p><l>РФ<s n="abbr"/></l>                <r>RF<s n="abbr"/></r></p></e>
+<e>       <p><l>А<s n="abbr"/></l>                <r>A<s n="abbr"/></r></p></e> <!--point A, A series,..-->
+<e>       <p><l>Б<s n="abbr"/></l>                <r>B<s n="abbr"/></r></p></e>
+<e>       <p><l>В<s n="abbr"/></l>                <r>V<s n="abbr"/></r></p></e>
+<e>       <p><l>IC<s n="abbr"/></l>               <r>IC<s n="abbr"/></r></p></e>
+<e>       <p><l>PGC<s n="abbr"/></l>              <r>PGC<s n="abbr"/></r></p></e>
+<e>       <p><l>FIPS<s n="abbr"/></l>             <r>FIPS<s n="abbr"/></r></p></e>
+<e>       <p><l>Еділ<s n="np"/><s n="top"/></l>   <r>Volga<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Кама<s n="np"/><s n="top"/></l>   <r>Kama<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>федератив<s n="adj"/></l>         <r>federativ<s n="adj"/></r></p></e>
+<e>       <p><l>ҚР<s n="abbr"/></l>               <r>Qozogʻiston<b/>Respublikasi<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>MCG<s n="abbr"/></l>              <r>MCG<s n="abbr"/></r></p></e>
+<e>       <p><l>ZWG<s n="abbr"/></l>              <r>ZWG<s n="abbr"/></r></p></e>
+<e>       <p><l>ЕКАТТЕ<s n="abbr"/></l>           <r>EKATTE<s n="abbr"/></r></p></e>
+<e>       <p><l>провинция<s n="n"/></l>           <r>viloyat<s n="n"/></r></p></e>
+<e>       <p><l>каталог<s n="n"/></l>             <r>katalog<s n="n"/></r></p></e>
+<e>       <p><l>муниципалитет<s n="n"/></l>       <r>munitsipalitet<s n="n"/></r></p></e>
+
+
 </section>
 </dictionary>
