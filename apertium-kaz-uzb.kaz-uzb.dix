@@ -9684,10 +9684,11 @@
 <e>       <p><l>NGC<s n="abbr"/></l>               <r>NGC<s n="abbr"/></r></p></e>
 <e>       <p><l>әкімшілік<s n="adj"/></l>          <r>ma`muriy<s n="adj"/></r></p></e>
 <e>       <p><l>тізілім<s n="n"/></l>              <r>tuzilma<s n="n"/></r></p></e>
-<e>       <p><l>сағасы<s n="n"/></l>               <r>oʻzan<s n="n"/></r></p></e>
+<e>       <p><l>саға<s n="n"/></l>               <r>oʻzan<s n="n"/></r></p></e>
 <e>       <p><l>сушаруашылық<s n="adj"/></l>       <r>sugʻoriladigan<s n="adj"/></r></p></e>
 <e>       <p><l>реестр<s n="n"/></l>               <r>reestr<s n="n"/></r></p></e>
 <e>       <p><l>обь<s n="n"/></l>                  <r>ob<s n="n"/></r></p></e>
+<e>       <p><l>Обь<s n="n"/></l>                  <r>Ob<s n="n"/></r></p></e>
 <e>       <p><l>федералды<s n="adj"/></l>          <r>federal<s n="adj"/></r></p></e>
 <e>       <p><l>INSEE<s n="abbr"/></l>             <r>INSEE<s n="abbr"/></r></p></e>
 <e>       <p><l>РФ<s n="abbr"/></l>                <r>RF<s n="abbr"/></r></p></e>
@@ -9700,6 +9701,7 @@
 <e>       <p><l>Еділ<s n="np"/><s n="top"/></l>   <r>Volga<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Кама<s n="np"/><s n="top"/></l>   <r>Kama<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>федератив<s n="adj"/></l>         <r>federativ<s n="adj"/></r></p></e>
+<e>       <p><l>Федеративтік<s n="adj"/></l>         <r>federativ<s n="adj"/></r></p></e>
 <e>       <p><l>ҚР<s n="abbr"/></l>               <r>Qozogʻiston<b/>Respublikasi<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>MCG<s n="abbr"/></l>              <r>MCG<s n="abbr"/></r></p></e>
 <e>       <p><l>ZWG<s n="abbr"/></l>              <r>ZWG<s n="abbr"/></r></p></e>
@@ -9707,6 +9709,36 @@
 <e>       <p><l>провинция<s n="n"/></l>           <r>viloyat<s n="n"/></r></p></e>
 <e>       <p><l>каталог<s n="n"/></l>             <r>katalog<s n="n"/></r></p></e>
 <e>       <p><l>муниципалитет<s n="n"/></l>       <r>munitsipalitet<s n="n"/></r></p></e>
+
+<e>       <p><l>аудандастыру<s n="n"/></l>        <r>hududlashtirish<s n="n"/></r></p></e>
+<e>       <p><l>сушаруашылық<s n="adj"/></l>         <r>sugʻoriladigan<s n="adj"/></r></p></e>
+<e>       <p><l>геоақпараттық<s n="adj"/></l>         <r>geografik<s n="adj"/></r></p></e>
+<e>       <p><l>галактика<s n="n"/></l>       <r>galaktika<s n="n"/></r></p></e>
+<e>       <p><l>құйылысы<s n="n"/></l>       <r>quyilish<b/>joyi<s n="n"/></r></p></e>
+<e>       <p><l>түпнұсқа<s n="adj"/></l>         <r>original<s n="adj"/></r></p></e>
+<e>       <p><l>түпнұсқа<s n="adj"/></l>         <r>asl<b/>nusxa<s n="adj"/></r></p></e>
+<e>       <p><l>шоқжұлдыз<s n="n"/></l>       <r>yulduz<b/>turkumi<s n="n"/></r></p></e>
+<e>       <p><l>объект<s n="n"/></l>       <r>obyekt<s n="n"/></r></p></e>
+<e>       <p><l>астрономы<s n="n"/></l>       <r>astronom<s n="n"/></r></p></e>
+<e>       <p><l>астроном<s n="n"/></l>       <r>astronom<s n="n"/></r></p></e>
+<e>       <p><l>Печора<s n="np"/><s n="top"/></l>   <r>Pechora<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Бразилия<s n="np"/><s n="top"/></l>   <r>Braziliya<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Печорск<s n="np"/><s n="top"/></l>   <r>Pechorsk<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Двинск<s n="np"/><s n="top"/></l>   <r>Dvinsk<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Ақтөбе<s n="np"/><s n="top"/></l>   <r>Aktobe<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Ока<s n="np"/><s n="top"/></l>   <r>Oka<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Двина<s n="np"/><s n="top"/></l>   <r>Dvina<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Жамбыл<s n="np"/><s n="top"/></l>   <r>Jambul<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>қамқоршы<s n="n"/></l>       <r>qoʻriqchi<s n="n"/></r></p></e>
+<e>       <p><l>санат<s n="n"/></l>       <r>turkum<s n="n"/></r></p></e>
+<e>       <p><l>дереккөз<s n="n"/></l>       <r>manbaa<s n="n"/></r></p></e>
+<e>       <p><l>алғаш<s n="adv"/></l>       <r>birinchi<s n="adv"/></r></p></e>
+<e>       <p><l>ду<s n="n"/></l>               <r>shovqin<s n="abbr"/></r></p></e>
+
+
+<e>       <p><l>геоақпараттық<s n="adj"/></l>         <r>geografik<s n="adj"/></r></p></e>
+<e>       <p><l>дереккөз<s n="n"/></l>       <r>manbaa<s n="n"/></r></p></e>
+
 
 
 </section>
