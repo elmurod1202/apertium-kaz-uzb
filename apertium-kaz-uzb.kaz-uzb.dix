@@ -263,7 +263,7 @@
 <e>       <p><l>алыс<s n="adj"/></l>                   <r>olis<s n="adj"/></r></p></e>
 <e>       <p><l>алғашқы<s n="adj"/></l>                <r>birinchi<s n="adj"/></r></p></e>
 <e>       <p><l>алғашқы<s n="adj"/></l>                <r>oldingi<s n="adj"/></r></p></e>
-<e>       <p><l>алғыр<s n="adj"/></l>                  <r>olg'ir<s n="adj"/></r></p></e>
+<e>       <p><l>алғыр<s n="adj"/></l>                  <r>olgʻir<s n="adj"/></r></p></e>
 <e>       <p><l>алғыр<s n="adj"/></l>                  <r>qobiliyatli<s n="adj"/></r></p></e>
 <e>       <p><l>алғыр<s n="adj"/></l>                  <r>layoqatli<s n="adj"/></r></p></e>
 <e>       <p><l>аман<s n="adj"/></l>                   <r>omon<s n="adj"/></r></p></e>
@@ -292,7 +292,7 @@
 <e>       <p><l>арнайы<s n="adj"/></l>                 <r>istisnoli<s n="adj"/></r></p></e>
 <e>       <p><l>арнайы<s n="adj"/></l>                 <r>maxsus<s n="adj"/></r></p></e>
 <e>       <p><l>арнаулы<s n="adj"/></l>                <r>maxsus<s n="adj"/></r></p></e>
-<e>       <p><l>арнаулы<s n="adj"/></l>                <r>mo'ljallangan<s n="adj"/></r></p></e>
+<e>       <p><l>арнаулы<s n="adj"/></l>                <r>moʻljallangan<s n="adj"/></r></p></e>
 <e>       <p><l>артиллериялық<s n="adj"/></l>          <r>arteriyalik<s n="adj"/></r></p></e>
 <e>       <p><l>артиллериялық<s n="adj"/></l>          <r>artilleriyalik<s n="adj"/></r></p></e>
 <e>       <p><l>артық<s n="adj"/></l>                  <r>ortiq<s n="adj"/></r></p></e>
@@ -9744,7 +9744,7 @@
 <e><p><l>Тоқаев<s n="np"/><s n="ant"/></l><r>Toqayev<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>түрғындар<s n="n"/></l><r>aholi<s n="n"/></r></p></e>
 <e><p><l>жазықтығ<s n="n"/></l><r>tekislik<s n="n"/></r></p></e>
-<e><p><l>маңы<s n="n"/></l><r>bo'yi<s n="n"/></r></p></e>
+<e><p><l>маңы<s n="n"/></l><r>boʻyi<s n="n"/></r></p></e>
 <e><p><l>әкімшілік<s n="n"/></l><r>ma'muriyat<s n="n"/></r></p></e>
 <e><p><l>жүзеге<s n="n"/></l><r>amalga<s n="n"/></r></p></e>
 <e><p><l>тұсаукесер<s n="n"/></l><r>taqdimot<s n="n"/></r></p></e>
@@ -9754,32 +9754,32 @@
 <e><p><l>атау<s n="n"/></l><r>nom<s n="n"/></r></p></e>
 <e><p><l>ның<s n="det"/></l><r>ning<s n="det"/></r></p></e>
 <e><p><l>этникааралық<s n="n"/></l><r>millatlararo<s n="n"/></r></p></e>
-<e><p><l>орнықтыру<s n="n"/></l><r>o'rnatish<s n="n"/></r></p></e>
+<e><p><l>орнықтыру<s n="n"/></l><r>oʻrnatish<s n="n"/></r></p></e>
 <e><p><l>ғаламшар<s n="n"/></l><r>sayyora<s n="n"/></r></p></e>
 <e><p><l>террасса<s n="n"/></l><r>terrassa<s n="n"/></r></p></e>
 <e><p><l>палеозойлық<s n="n"/></l><r>paleozey<s n="n"/></r></p></e>
-<e><p><l>төрттік<s n="num"/></l><r>to'rtinchi<s n="num"/></r></p></e>
+<e><p><l>төрттік<s n="num"/></l><r>toʻrtinchi<s n="num"/></r></p></e>
 <e><p><l>құмдақ<s n="n"/></l><r>qumloq<s n="n"/></r></p></e>
 <e><p><l>гидрографиялық<s n="adj"/></l><r>gidrogeografik<s n="adj"/></r></p></e>
 <e><p><l>Сарыбұлақ<s n="np"/><s n="top"/></l><r>Sariqbuloq<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>төңіректе<s n="adv"/></l><r>atrofida<s n="adv"/></r></p></e>
 <e><p><l>қоршап<s n="adv"/></l><r>qurshab<s n="adv"/></r></p></e>
-<e><p><l>қоршап<s n="adv"/></l><r>o'rab<s n="adv"/></r></p></e>
+<e><p><l>қоршап<s n="adv"/></l><r>oʻrab<s n="adv"/></r></p></e>
 <e><p><l>кейбіреуі<s n="det"/></l><r>ba'zilari<s n="det"/></r></p></e>
-<e><p><l>көктеп<s n="det"/></l><r>bo'ylab<s n="det"/></r></p></e>
-<e><p><l>кермек<s n="adj"/></l><r>ko'lmak<s n="adj"/></r></p></e>
-<e><p><l>Сасықкөл<s n="np"/><s n="top"/></l><r>Sassiqko'l<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>көктеп<s n="det"/></l><r>boʻylab<s n="det"/></r></p></e>
+<e><p><l>кермек<s n="adj"/></l><r>koʻlmak<s n="adj"/></r></p></e>
+<e><p><l>Сасықкөл<s n="np"/><s n="top"/></l><r>Sassiqkoʻl<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Жоламан<s n="np"/><s n="top"/></l><r>Jolaman<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Тышқанкөл<s n="np"/><s n="top"/></l><r>Sichqonko'l<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Танакөл<s n="np"/><s n="top"/></l><r>Tanako'l<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Жылтыркөл<s n="np"/><s n="top"/></l><r>Jiltirko'l<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Тазкөл<s n="np"/><s n="top"/></l><r>Tazko'l<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Тышқанкөл<s n="np"/><s n="top"/></l><r>Sichqonkoʻl<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Танакөл<s n="np"/><s n="top"/></l><r>Tanakoʻl<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Жылтыркөл<s n="np"/><s n="top"/></l><r>Jiltirkoʻl<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Тазкөл<s n="np"/><s n="top"/></l><r>Tazkoʻl<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Қайнарлы<s n="np"/><s n="top"/></l><r>Qaynarli<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Тағанкөл<s n="np"/><s n="top"/></l><r>Tag'anko'l<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Тағанкөл<s n="np"/><s n="top"/></l><r>Tagʻankoʻl<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Майбалық<s n="np"/><s n="top"/></l><r>Maybaliq<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Бұзықты<s n="np"/><s n="top"/></l><r>Buzuqti<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Шенет<s n="np"/><s n="top"/></l><r>Shenet<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Ағанас<s n="np"/><s n="top"/></l><r>Ag'anas<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Ағанас<s n="np"/><s n="top"/></l><r>Agʻanas<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Тюмень<s n="np"/><s n="top"/></l><r>Tyumen<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Мойылды<s n="np"/><s n="top"/></l><r>Moyildi<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Тентек<s n="np"/><s n="top"/></l><r>Tentek<s n="np"/><s n="top"/></r></p></e>
@@ -9790,8 +9790,8 @@
 <e><p><l>Шортанды<s n="np"/><s n="top"/></l><r>Shortandi<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Коянда<s n="np"/><s n="top"/></l><r>Koyanda<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Сарыарқа<s n="np"/><s n="top"/></l><r>Sariarqa<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Ақкөл<s n="np"/><s n="top"/></l><r>Oqko'l<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Афганистан<s n="np"/><s n="top"/></l><r>Afg'oniston<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Ақкөл<s n="np"/><s n="top"/></l><r>Oqkoʻl<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Афганистан<s n="np"/><s n="top"/></l><r>Afgʻoniston<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Белоруссия<s n="np"/><s n="top"/></l><r>Belorusiya<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Тажікстан<s n="np"/><s n="top"/></l><r>Tojikiston<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Бәйтерек<s n="np"/><s n="top"/></l><r>Boyterak<s n="np"/><s n="top"/></r></p></e>
@@ -9811,7 +9811,7 @@
 <e><p><l>жылыту<s n="n"/></l><r>isitish<s n="n"/></r></p></e>
 <e><p><l>қазандықтар<s n="n"/></l><r>qozonxona<s n="n"/></r></p></e>
 <e><p><l>артықшылық<s n="n"/></l><r>imtiyoz<s n="n"/></r></p></e>
-<e><p><l>қондырғы<s n="v"/></l><r>o'rnatish<s n="v"/></r></p></e>
+<e><p><l>қондырғы<s n="v"/></l><r>oʻrnatish<s n="v"/></r></p></e>
 <e><p><l>салықтық<s n="n"/></l><r>soliq<s n="n"/></r></p></e>
 <e><p><l>өнеркәсіптік<s n="n"/></l><r>sanoat<s n="n"/></r></p></e>
 <e><p><l>эксплуатация<s n="n"/></l><r>ekspluatatsiya<s n="n"/></r></p></e>
@@ -9824,13 +9824,13 @@
 <e><p><l>жұмылд<s n="v"/></l><r>safarbar<b/>qil<s n="v"/></r></p></e>
 <e><p><l>методика<s n="n"/></l><r>uslub<s n="n"/></r></p></e>
 <e><p><l>мигрант<s n="n"/></l><r>migrant<s n="n"/></r></p></e>
-<e><p><l>тәлімбағ<s n="n"/></l><r>qo'riqxona<s n="n"/></r></p></e>
+<e><p><l>тәлімбағ<s n="n"/></l><r>qoʻriqxona<s n="n"/></r></p></e>
 <e><p><l>массив<s n="n"/></l><r>massiv<s n="n"/></r></p></e>
 <e><p><l>цикл<s n="n"/></l><r>davr<s n="n"/></r></p></e>
 <e><p><l>баланс<s n="n"/></l><r>balans<s n="n"/></r></p></e>
 <e><p><l>пантеон<s n="n"/></l><r>panteon<s n="n"/></r></p></e>
 <e><p><l>орналасұан<s n="v"/></l><r>joylashgan<s n="v"/></r></p></e>
-<e><p><l>бағытталған<s n="v"/></l><r>bag'ishlangan<s n="v"/></r></p></e>
+<e><p><l>бағытталған<s n="v"/></l><r>bagʻishlangan<s n="v"/></r></p></e>
 <e><p><l>саяжай<s n="n"/></l><r>yozgi<b/>uy<s n="n"/></r></p></e>
 <e><p><l>аллювийлік <s n="adj"/></l><r>allyuvial<s n="adj"/></r></p></e>
 <e><p><l>ұзақтығы<s n="n"/></l><r>uzoqligi<s n="n"/></r></p></e>
@@ -9840,7 +9840,7 @@
 <e><p><l>бұрқағы<s n="n"/></l><r>favvora<s n="n"/></r></p></e>
 <e><p><l>жасал<s n="v"/></l><r>yasal<s n="v"/></r></p></e>
 <e><p><l>т.б.<s n="abbr"/></l><r>va<b/>boshqalar<s n="abbr"/></r></p></e>
-<e><p><l>толысқан<s n="adj"/></l><r>to'lib<b/>toshgan<s n="adj"/></r></p></e>
+<e><p><l>толысқан<s n="adj"/></l><r>toʻlib<b/>toshgan<s n="adj"/></r></p></e>
 <e><p><l>аймақаралық<s n="adj"/></l><r>mintaqalar<b/>aro<s n="adj"/></r></p></e>
 <e><p><l>символдық<s n="adj"/></l><r>ramziy<s n="adj"/></r></p></e>
 <e><p><l>үлттық<s n="adj"/></l><r>milliy<s n="adj"/></r></p></e>
@@ -9850,24 +9850,24 @@
 <e><p><l>маусымдық<s n="adj"/></l><r>mavsumiy<s n="adj"/></r></p></e>
 <e><p><l>кешендік<s n="adj"/></l><r>murakkab<s n="adj"/></r></p></e>
 <e><p><l>ішінара<s n="adj"/></l><r>qisman<s n="adj"/></r></p></e>
-<e><p><l>бөген<s n="n"/></l><r>to'g'on<s n="n"/></r></p></e>
+<e><p><l>бөген<s n="n"/></l><r>toʻgʻon<s n="n"/></r></p></e>
 <e><p><l>топтық<s n="n"/></l><r>guruh<s n="n"/></r></p></e>
 <e><p><l>ақбалық<s n="n"/></l><r>oqbaliq<s n="n"/></r></p></e>
 <e><p><l>нәлім<s n="n"/></l><r>nelim<s n="n"/></r></p></e>
 <e><p><l>мөңке<s n="n"/></l><r>carassіus<s n="n"/></r></p></e>
 <e><p><l>аққайран<s n="n"/></l><r>aqqayran<s n="n"/></r></p></e>
 <e><p><l>сазан<s n="n"/></l><r>sazan<s n="n"/></r></p></e>
-<e><p><l>шортан<s n="n"/></l><r>cho'rtan<s n="n"/></r></p></e>
+<e><p><l>шортан<s n="n"/></l><r>choʻrtan<s n="n"/></r></p></e>
 <e><p><l>көксерке<s n="n"/></l><r>zander<s n="n"/></r></p></e>
 <e><p><l>ауызсу<s n="n"/></l><r>ichimlik<b/>suvi<s n="n"/></r></p></e>
-<e><p><l>орманшылық<s n="n"/></l><r>o'rmonchilik<s n="n"/></r></p></e>
+<e><p><l>орманшылық<s n="n"/></l><r>oʻrmonchilik<s n="n"/></r></p></e>
 <e><p><l>учаскі<s n="n"/></l><r>uchastka<s n="n"/></r></p></e>
-<e><p><l>шығым<s n="n"/></l><r>sig'im<s n="n"/></r></p></e>
-<e><p><l>сыйымды<s n="n"/></l><r>sig'imli<s n="n"/></r></p></e>
-<e><p><l>алабұға<s n="n"/></l><r>olabug'a<s n="n"/></r></p></e>
+<e><p><l>шығым<s n="n"/></l><r>sigʻim<s n="n"/></r></p></e>
+<e><p><l>сыйымды<s n="n"/></l><r>sigʻimli<s n="n"/></r></p></e>
+<e><p><l>алабұға<s n="n"/></l><r>olabugʻa<s n="n"/></r></p></e>
 <e><p><l>қыщ<s n="n"/></l><r>keramika<s n="n"/></r></p></e>
 <e><p><l>бұлақ<s n="n"/></l><r>buloq<s n="n"/></r></p></e>
-<e><p><l>өлкетану<s n="n"/></l><r>o'lkashunoslik<s n="n"/></r></p></e>
+<e><p><l>өлкетану<s n="n"/></l><r>oʻlkashunoslik<s n="n"/></r></p></e>
 <e><p><l>комбинант<s n="n"/></l><r>kombinat<s n="n"/></r></p></e>
 <e><p><l>даңғыл<s n="n"/></l><r>xiyobon<s n="n"/></r></p></e>
 <e><p><l>жерасты<s n="n"/></l><r>yerosti<s n="n"/></r></p></e>
@@ -9883,7 +9883,7 @@
 <e><p><l>Акмолинск<s n="np"/><s n="top"/></l><r>Akmolinsk<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Ақмол<s n="np"/><s n="top"/></l><r>Akmol<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>түрғындар<s n="n"/></l><r>aholi<s n="n"/></r></p></e>
-<e><p><l>маңы<s n="adv"/></l><r>bo'yi<s n="adv"/></r></p></e>
+<e><p><l>маңы<s n="adv"/></l><r>boʻyi<s n="adv"/></r></p></e>
 <e><p><l>жазықтығын<s n="n"/></l><r>tekisligi<s n="n"/></r></p></e>
 <e><p><l>жазықтық<s n="n"/></l><r>tekislik<s n="n"/></r></p></e>
 <e><p><l>жүлге<s n="n"/></l><r>adir<s n="n"/></r></p></e>
@@ -9897,30 +9897,30 @@
 <e><p><l>ның<s n="det"/></l><r>ning<s n="det"/></r></p></e>
 <e><p><l>этникааралық<s n="adj"/></l><r>millatlararo<s n="adj"/></r></p></e>
 <e><p><l>ғаламшар<s n="n"/></l><r>sayyora<s n="n"/></r></p></e>
-<e><p><l>орнықтыру<s n="v"/></l><r>o'rnatish<s n="v"/></r></p></e>
+<e><p><l>орнықтыру<s n="v"/></l><r>oʻrnatish<s n="v"/></r></p></e>
 <e><p><l>террасса<s n="n"/></l><r>terrassa<s n="n"/></r></p></e>
 <e><p><l>каштан<s n="n"/></l><r>kashtan<s n="n"/></r></p></e>
 <e><p><l>палеозойлық<s n="adj"/></l><r>paleozey<s n="adj"/></r></p></e>
-<e><p><l>төрттік<s n="num"/><s n="ord"/></l><r>to'rtinchi<s n="num"/><s n="ord"/></r></p></e>
+<e><p><l>төрттік<s n="num"/><s n="ord"/></l><r>toʻrtinchi<s n="num"/><s n="ord"/></r></p></e>
 <e><p><l>Сарыбұлақ<s n="np"/><s n="top"/></l><r>Sariqbuloq<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>қуаң<s n="adj"/></l><r>qurg'oq<s n="adj"/></r></p></e>
-<e><p><l>толысып<s n="adj"/></l><r>to'lib<s n="adj"/></r></p></e>
+<e><p><l>қуаң<s n="adj"/></l><r>qurgʻoq<s n="adj"/></r></p></e>
+<e><p><l>толысып<s n="adj"/></l><r>toʻlib<s n="adj"/></r></p></e>
 <e><p><l>қоршап<s n="adv"/></l><r>qurshab<s n="adv"/></r></p></e>
 <e><p><l>кейбіреуі<s n="det"/></l><r>ba'zilari<s n="det"/></r></p></e>
 <e><p><l>кермек<s n="n"/></l><r>kermek<s n="n"/></r></p></e>
-<e><p><l>Сасықкөл<s n="np"/><s n="top"/></l><r>Sassiqko'l<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Сасықкөл<s n="np"/><s n="top"/></l><r>Sassiqkoʻl<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Жоламан<s n="np"/><s n="top"/></l><r>Jolaman<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Тышқанкөл<s n="np"/><s n="top"/></l><r>Sichqonko'l<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Танакөл<s n="np"/><s n="top"/></l><r>Tanako'l<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Жылтыркөл<s n="np"/><s n="top"/></l><r>Jiltirko'l<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Тазкөл<s n="np"/><s n="top"/></l><r>Tazko'l<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Тышқанкөл<s n="np"/><s n="top"/></l><r>Sichqonkoʻl<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Танакөл<s n="np"/><s n="top"/></l><r>Tanakoʻl<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Жылтыркөл<s n="np"/><s n="top"/></l><r>Jiltirkoʻl<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Тазкөл<s n="np"/><s n="top"/></l><r>Tazkoʻl<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Қайнарлы<s n="np"/><s n="top"/></l><r>Qaynarli<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Тағанкөл<s n="np"/><s n="top"/></l><r>Tag'anko'l<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Тағанкөл<s n="np"/><s n="top"/></l><r>Tagʻankoʻl<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Бұзықты<s n="np"/><s n="top"/></l><r>Buzuqti<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Шенет<s n="np"/><s n="top"/></l><r>Shenet<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Ағанас<s n="np"/><s n="top"/></l><r>Ag'anas<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Ағанас<s n="np"/><s n="top"/></l><r>Agʻanas<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Майбалық<s n="np"/><s n="top"/></l><r>Maybaliq<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>көктеп<s n="det"/></l><r>bo'ylab<s n="det"/></r></p></e>
+<e><p><l>көктеп<s n="det"/></l><r>boʻylab<s n="det"/></r></p></e>
 <e><p><l>Тюмень<s n="np"/><s n="top"/></l><r>Tyumen<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Мойылды<s n="np"/><s n="top"/></l><r>Moyildi<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Тілендиев<s n="np"/><s n="ant"/></l><r>Tilendiev<s n="np"/><s n="ant"/></r></p></e>
@@ -9942,9 +9942,9 @@
 <e><p><l>Шортанды<s n="np"/><s n="top"/></l><r>Shortandi<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Коянда<s n="np"/><s n="top"/></l><r>Koyanda<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Сарыарқа<s n="np"/><s n="top"/></l><r>Sariarqa<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Ақкөл<s n="np"/><s n="top"/></l><r>Oqko'l<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Ақкөл<s n="np"/><s n="top"/></l><r>Oqkoʻl<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Килиманджаро<s n="np"/><s n="top"/></l><r>Килиманджаро<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Афганистан<s n="np"/><s n="top"/></l><r>Afg'oniston<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Афганистан<s n="np"/><s n="top"/></l><r>Afgʻoniston<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Белоруссия<s n="np"/><s n="top"/></l><r>Belorusiya<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Тажікстан<s n="np"/><s n="top"/></l><r>Tojikiston<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Бәйтерек<s n="np"/><s n="top"/></l><r>Boyterak<s n="np"/><s n="top"/></r></p></e>
@@ -9962,7 +9962,7 @@
 <e><p><l>жерасты<s n="adj"/></l><r>yerosti<s n="adj"/></r></p></e>
 <e><p><l>Нияз<s n="np"/><s n="top"/></l><r>Niyaz<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>ұзақтығы<s n="n"/></l><r>davomiyligi<s n="n"/></r></p></e>
-<e><p><l>толысқан<s n="adj"/></l><r>to'lgan<s n="adj"/></r></p></e>
+<e><p><l>толысқан<s n="adj"/></l><r>toʻlgan<s n="adj"/></r></p></e>
 <e><p><l>таратқыш<s n="v"/></l><r>tarqatish<s n="v"/></r></p></e>
 <e><p><l>нәлім<s n="n"/></l><r>nelim<s n="n"/></r></p></e>
 <e><p><l>мөңке<s n="n"/></l><r>carassіus<s n="n"/></r></p></e>
@@ -9972,7 +9972,7 @@
 <e><p><l>кешендік<s n="adj"/></l><r>murakkab<s n="adj"/></r></p></e>
 <e><p><l>топтық<s n="n"/></l><r>guruh<s n="n"/></r></p></e>
 <e><p><l>ауызсу<s n="n"/></l><r>ichimlik<b/>suvi<s n="n"/></r></p></e>
-<e><p><l>шығым<s n="n"/></l><r>sig'im<s n="n"/></r></p></e>
+<e><p><l>шығым<s n="n"/></l><r>sigʻim<s n="n"/></r></p></e>
 <e><p><l>қыщ<s n="n"/></l><r>keramika<s n="n"/></r></p></e>
 <e><p><l>комбинант<s n="n"/></l><r>kombinat<s n="n"/></r></p></e>
 <e><p><l>іздестіру-барлау<s n="n"/></l><r>qidiruv-razvedka<s n="n"/></r></p></e>
@@ -9981,9 +9981,9 @@
 <e><p><l>аллювийлік <s n="adj"/></l><r>allyuvial<s n="adj"/></r></p></e>
 <e><p><l>га<s n="abbr"/></l><r>ga<s n="abbr"/></r></p></e>
 <e><p><l>ге<s n="abbr"/></l><r>ге<s n="abbr"/></r></p></e>
-<e><p><l>орманшылық<s n="adj"/></l><r>o'rmonchilik<s n="adj"/></r></p></e>
+<e><p><l>орманшылық<s n="adj"/></l><r>oʻrmonchilik<s n="adj"/></r></p></e>
 <e><p><l>учаскі<s n="n"/></l><r>maydon<s n="n"/></r></p></e>
-<e><p><l>тәлімбағ<s n="n"/></l><r>qo'riqxona<s n="n"/></r></p></e>
+<e><p><l>тәлімбағ<s n="n"/></l><r>qoʻriqxona<s n="n"/></r></p></e>
 <e><p><l>қауымдастық<s n="n"/></l><r>uyushma<s n="n"/></r></p></e>
 <e><p><l>баланс<s n="n"/></l><r>balans<s n="n"/></r></p></e>
 <e><p><l>орналасұан<s n="adj"/></l><r>joylashgan<s n="adj"/></r></p></e>
@@ -10000,7 +10000,7 @@
 <e><p><l>эксплуатация<s n="n"/></l><r>ekspluatatsiya<s n="n"/></r></p></e>
 <e><p><l>өнеркәсіптік<s n="adj"/></l><r>sanoat<s n="adj"/></r></p></e>
 <e><p><l>сусындар<s n="n"/></l><r>ichimlik<s n="n"/></r></p></e>
-<e><p><l>шоғырланған<s n="n"/></l><r>yo'naltirilgan<s n="v"/></r></p></e>
+<e><p><l>шоғырланған<s n="n"/></l><r>yoʻnaltirilgan<s n="v"/></r></p></e>
 <e><p><l>жасал<s n="v"/></l><r>yasal<s n="v"/></r></p></e>
 <e><p><l>жасалынған<s n="adj"/></l><r>yasalgan<s n="adj"/></r></p></e>
 <e><p><l>радиатор<s n="n"/></l><r>radiator<s n="n"/></r></p></e>
@@ -10011,16 +10011,16 @@
 <e><p><l>салықтық<s n="n"/></l><r>soliq<s n="n"/></r></p></e>
 <e><p><l>қарастыратын<s n="n"/></l><r>ta'minlovchi<s n="v"/></r></p></e>
 <e><p><l>инновациондық<s n="adj"/></l><r>innovatsion<s n="adj"/></r></p></e>
-<e><p><l>бағытталған<s n="v"/></l><r>bag'ishlangan<s n="v"/></r></p></e>
-<e><p><l>арнал<s n="v"/></l><r>bag'ishlan<s n="v"/></r></p></e>
+<e><p><l>бағытталған<s n="v"/></l><r>bagʻishlangan<s n="v"/></r></p></e>
+<e><p><l>арнал<s n="v"/></l><r>bagʻishlan<s n="v"/></r></p></e>
 <e><p><l>өндеу<s n="v"/></l><r>ishlab<b/>chiqarish<s n="v"/></r></p></e>
-<e><p><l>өлкетану<s n="n"/></l><r>o'lkashunoslik<s n="n"/></r></p></e>
+<e><p><l>өлкетану<s n="n"/></l><r>oʻlkashunoslik<s n="n"/></r></p></e>
 <e><p><l>үлттық<s n="adj"/></l><r>milliy<s n="adj"/></r></p></e>
 <e><p><l>холл<s n="n"/></l><r>zal<s n="n"/></r></p></e>
 <e><p><l>діңгег<s n="n"/></l><r>tayanch<s n="n"/></r></p></e>
 <e><p><l>бұрқағы<s n="n"/></l><r>favvora<s n="n"/></r></p></e>
-<e><p><l>дағдыла<s n="n"/></l><r>ko'nik<s n="v"/></r></p></e>
-<e><p><l>дағдылануға<s n="n"/></l><r>ko'nikish<s n="v"/></r></p></e>
+<e><p><l>дағдыла<s n="n"/></l><r>koʻnik<s n="v"/></r></p></e>
+<e><p><l>дағдылануға<s n="n"/></l><r>koʻnikish<s n="v"/></r></p></e>
 <e><p><l>бірдеңе<s n="n"/></l><r>biror<b/>narsa<s n="n"/></r></p></e>
 <e><p><l>дәлме<s n="adj"/></l><r>aniq<s n="adj"/></r></p></e>
 <e><p><l>ұлғайтып<s n="v"/></l><r>kattalashtirib<s n="v"/></r></p></e>
@@ -10040,7 +10040,7 @@
 <e><p><l>заңдылықтар<s n="n"/></l><r>qonuniyat<s n="n"/></r></p></e>
 <e><p><l>матем<s n="n"/></l><r>matematika<s n="n"/></r></p></e>
 <e><p><l>инженерия<s n="n"/></l><r>injiniriya<s n="n"/></r></p></e>
-<e><p><l>болжау<s n="v"/></l><r>bo'lishi<s n="v"/></r></p></e>
+<e><p><l>болжау<s n="v"/></l><r>boʻlishi<s n="v"/></r></p></e>
 <e><p><l>ықтималдық<s n="n"/></l><r>ehtimollik<s n="n"/></r></p></e>
 <e><p><l>шапалақ<s n="n"/></l><r>shapaloq<s n="n"/></r></p></e>
 <e><p><l>рахмет<s n="n"/></l><r>rahmat<s n="n"/></r></p></e>
@@ -10060,15 +10060,15 @@
 <e><p><l>қияли<s n="adj"/></l><r>xayoliy<s n="adj"/></r></p></e>
 <e><p><l>қылық<s n="n"/></l><r>qiliq<s n="n"/></r></p></e>
 <e><p><l>түйіндеп<s n="v"/></l><r>qadoqlash<s n="v"/></r></p></e>
-<e><p><l>көрелік<s n="v"/></l><r>ko'raylik<s n="v"/></r></p></e>
+<e><p><l>көрелік<s n="v"/></l><r>koʻraylik<s n="v"/></r></p></e>
 <e><p><l>еретіндер<s n="n"/></l><r>ergashish<s n="n"/></r></p></e>
 <e><p><l>елестет<s n="v"/></l><r>tasavvur<b/>qil<s n="v"/></r></p></e>
 <e><p><l>жапон<s n="np"/></l><r>yapon<s n="np"/></r></p></e>
 <e><p><l>квартал<s n="n"/></l><r>kvartal<s n="n"/></r></p></e>
 <e><p><l>торыққан<s n="adj"/></l><r>charchagan<s n="adj"/></r></p></e>
-<e><p><l>ойнаган<s n="adj"/></l><r>o'ynagan<s n="adj"/></r></p></e>
+<e><p><l>ойнаган<s n="adj"/></l><r>oʻynagan<s n="adj"/></r></p></e>
 <e><p><l>кайда<s n="adv"/></l><r>qayerda<s n="adv"/></r></p></e>
-<e><p><l>бакша<s n="n"/></l><r>bog'cha<s n="n"/></r></p></e>
+<e><p><l>бакша<s n="n"/></l><r>bogʻcha<s n="n"/></r></p></e>
 <e><p><l>кейин<s n="adv"/></l><r>keyin<s n="adv"/></r></p></e>
 <e><p><l>т.б.<s n="abbr"/></l><r>boshqalar<s n="det"/></r></p></e>
 <e><p><l>ауызсу<s n="n"/></l><r>ichimlik<b/>suvi<s n="n"/></r></p></e>
