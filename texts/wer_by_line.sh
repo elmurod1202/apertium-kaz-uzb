@@ -26,9 +26,10 @@ rm tmp.ref
 readarray -t sorted_lines < <(for a in "${lines[@]}"; do echo "$a"; done | sort -r)
 
 # Saving the array in a file:
+rm wer_lines.txt
 for a in "${sorted_lines[@]}" 
 do
     echo "$a" >> wer_lines.txt
 done
-
+echo "Results saved in wer_lines.txt"
 echo "Done."

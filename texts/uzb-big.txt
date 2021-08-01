@@ -170,7 +170,7 @@
 170	Harakat ijtimoiy sifat olishi kerak.
 171	Yetakchining oʻzigina emas, balki izdoshlar ham ajralib turishi kerak.
 172	Chunki yangi qoʻshilganlar etakchiga emas, izdoshlarga taqlid qiladilar.
-173	Yana ikkitasi keladi.
+173	Yana ikkitasi kelayapdi.
 174	Ularning ortidan uchtasi qoʻshildi. Bu muhim. 
 175	Guruh harakatga aylandi.
 176	Aholi soni ortgan sari normal holga aylandi.
@@ -202,7 +202,7 @@
 202	Hatto, Google Xaritaga qarang. Mana, 14., 15., 16., 17., 18., 19. kvartallar.
 203	Kvartalning nomi bor, va koʻchalar shu kvartallarning orasidagi nomsiz boʻshliq.
 204	Azamat bilan Oygul bogʻda.
-205	Bugun ob-havo juda yaxshi, iliq.
+205	Ob-havo bugun juda yaxshi, iliq.
 206	Lekin kecha juda sovuq boʻldi.
 207	Shu sababli ular tashqarida oʻynay olishmadi.
 208	Azamat va Oygul oʻyashni yaxshi koʻradi, ular har doim katta uyning oldidagi bogʻda birga oʻynashadi.
@@ -211,7 +211,7 @@
 211	Azamatning kichkina bir kuchugi bor, hozir u ham bogʻda.
 212	Kuchuk bolalar bilan oʻynashni yaxshi koʻradi.
 213	Kuchugi hozir juda xursand.
-214	Oygulning chi, kuchugi bormi?
+214	Lekin Oygulning kuchugi bormi?
 215	Yoʻq, Oygulning kuchugi yoʻq, uning mushugi bor.
 216	Lekin mushugi uyda, uxlayabdi.
 217	Ularning onasi mushugi bilan birga uyda, u derazadan Azamat bilan Oygulning oʻyiniga qarab turibdi.
@@ -236,15 +236,15 @@
 236	Oygul bogʻ ichida sekin yuribdi.
 237	U haliyam Azamatni topishga harakat qilayabdi.
 238	U stol va stullarning tagini qidirib yuribdi, lekin Azamat hech qayerda yoʻq.
-239	Oygul hamma joyni qidirib yuribdi, lekin uni topa olmayabdi.
+239	Oygul hamma yerni qarabb yuribdi, lekin Azamati topa olmayabdi.
 240	Keyin u bir ovoz eshitdi, bu avoz eski katta daraxtning ortidan chiqayabdi.
 241	Bu Azamat boʻlishi kerak.
-242	Ovoz yana eshitildi!
+242	U ovoz yana eshitildi!
 243	Oygul diqqat bilan tinglaydi.
 244	Bu qush ham, hayvon ham emas.
-245	U ovozni yaxshi eshitayabdi.
+245	U endi o'sha ovozni aniqroq eshita boshladi.
 246	Bu Azamat boʻlishi kerak!
-247	Keyin u bir kichkina qoʻl koʻradi.
+247	Soʻng unga kichkina bir qoʻl koʻrinadi.
 248	Yaqinroq borganida esa, boshini ham koʻradi.
 249	Oygul "Men seni toptim!" - deb kuladi.
 250	Ular ikkalasi ham xursand boʻlib uyiga kelayabdi, bir narsa yeb, oziroq suv ichadigan vaqt boʻldi.

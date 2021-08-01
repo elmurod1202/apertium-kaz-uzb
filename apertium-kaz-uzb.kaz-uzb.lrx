@@ -626,8 +626,8 @@
 <rule weight ="1"><match lemma="кішкене" tags="adj.*"><select lemma="kichkina" tags="adj.*"/></match></rule>
 
 <!-- default translation for the word "кішкентай"-->
-<rule weight ="1"><match lemma="кішкентай" tags="adj"><select lemma="kichkintoy" tags="adj"/></match></rule>
-<rule weight ="1"><match lemma="кішкентай" tags="adj.*"><select lemma="kichkintoy" tags="adj.*"/></match></rule>
+<rule weight ="1"><match lemma="кішкентай" tags="adj"><select lemma="kichkina" tags="adj"/></match></rule>
+<rule weight ="1"><match lemma="кішкентай" tags="adj.*"><select lemma="kichkina" tags="adj.*"/></match></rule>
 
 <!-- default translation for the word "кіші"-->
 <rule weight ="1"><match lemma="кіші" tags="adj"><select lemma="kichik" tags="adj"/></match></rule>
@@ -1346,8 +1346,8 @@
 <rule weight ="1"><match lemma="ақшалай" tags="adv.*"><select lemma="xar qalay" tags="adv.*"/></match></rule>
 
 <!-- default translation for the word "барлық"-->
-<rule weight ="1"><match lemma="барлық" tags="adv"><select lemma="borliq" tags="adv"/></match></rule>
-<rule weight ="1"><match lemma="барлық" tags="adv.*"><select lemma="borliq" tags="adv.*"/></match></rule>
+<rule weight ="1"><match lemma="барлық" tags="adv"><select lemma="barcha" tags="adv"/></match></rule>
+<rule weight ="1"><match lemma="барлық" tags="adv.*"><select lemma="barcha" tags="adv.*"/></match></rule>
 
 <!-- default translation for the word "баста"-->
 <rule weight ="1"><match lemma="баста" tags="adv"><select lemma="boshida" tags="adv"/></match></rule>
@@ -6356,6 +6356,68 @@
 <!-- default translation for the word "өңде"-->
 <rule weight ="1"><match lemma="өңде" tags="v"><select lemma="ishla" tags="v"/></match></rule>
 <rule weight ="1"><match lemma="өңде" tags="v.*"><select lemma="ishla" tags="v.*"/></match></rule>
+
+
+
+<!-- default translation for the adj "әбден"-->
+<rule weight ="1"><match lemma="әбден" tags="adj"><select lemma="obdon" tags="adj"/></match></rule>
+<rule weight ="1"><match lemma="әбден" tags="adj.*"><select lemma="obdon" tags="adj.*"/></match></rule>
+<!-- if "әбден" comes before an adjective, then it's "juda" -->
+<rule weight ="2">
+  <match lemma="әбден">
+    <select lemma="juda"/>
+  </match>
+  <match lemma="*" tags="adj" />
+</rule>
+
+<!-- "Одан кейін" = "So'ng" -->
+<rule weight ="2">  <!-- Not working? -->
+  <match lemma="одан" tags="*">
+    <select lemma=""/>
+  </match>
+  <match lemma="кейін" tags="adv">
+    <select lemma="soʻng" tags="adv"/>
+  </match>
+</rule>
+
+<!-- If "қайта" comes before verb.* = "yana" -->
+<rule weight ="2">
+  <match lemma="қайта" tags="adv">
+    <select lemma="yana" tags="adv"/>
+  </match>
+  <match lemma="*" tags="v.*"></match>
+</rule>
+
+<!-- "барлық жер" = "hamma yer" -->
+<rule weight ="2">
+  <match lemma="барлық" tags="adv">
+    <select lemma="hamma"/>
+  </match>
+  <match lemma="жер" tags="*">
+    <select lemma="yer" tags="*"/>
+  </match>
+</rule>
+
+<!-- If "Ал" comes before a person's name, = "biroq"  ### Did not work
+<rule weight ="2">
+  <match lemma="ал" tags="cnjcoo">
+    <select lemma="biroq" tags="cnjcoo"/>
+  </match>
+  <or>
+    <match lemma="*" tags="np.ant"/>
+    <match lemma="*" tags="np.ant.*"/>
+  </or>
+</rule>
+-->
+
+<!-- "Тағы екеуі" = "yana ikkovi" -->
+<rule weight ="2">
+  <match lemma="тағы" tags="adv">
+    <select lemma="yana" tags="adv"/>
+  </match>
+  <match lemma="*" tags="cnjcoo"/>
+</rule>
+
 
 
 
