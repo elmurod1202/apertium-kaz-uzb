@@ -100,7 +100,7 @@
 100	Xususan, shaharning rivojlanishi ishlab chiqarishning umumiy hajmida innovatsion mahsulotni yuqori ulushi bor, rivojlangan sanoat tarmoqlariga (qurilish materiallari ishlab chiqarish, oziq-ovqat mahsulotlarini qayta ishlash va boshqalar), shaharning yalpi hududiy mahsulotining asosiy qismini ta'minlovchi kichik biznes hamda rivojlangan turizm sohasiga moʻljallangan raqobatbardosh iqtisodiyotni qurishga qaratilgan.
 101	2009 yili qayta ishlash sanoati korxonalari tomonidan 77,25 mlrd tenge hajmida mahsulot ishlab chiqarildi - bu qayta ishlangan mahsulotlarning 81 foizini tashkil etadi.
 102	Shaharda Akmola viloyat filarmoniyasi, muzeylar (QR Milliy muzeyi, tarix-oʻlkashunoslik muzeyi, tasviriy san'at muzeyi, Saken Seyfullin muzeyi), teatrlar (К. Bayseitova nomidagi milliy opera va balet teatri, К.Quvonchbayev nomidagi qozoq musiqiy-drama teatri, Maksim Gorkiy nomidagi davlat akademik rus drama teatri, Milliy Fazo markazi, «Nur Olam» kelajak energiya muzeyi, kutubxonalar.
-103	Shaharda Akmola viloyat filarmoniyasi, muzeylar (QR Milliy muzeyi, tarix-oʻlkashunoslik muzeyi, tasviriy san'at muzeyi, Saken Seyfullin muzeyi), teatrlar (К. Bayseitova nomidagi milliy opera va balet teatri, К.Quvonchbayev nomidagi qozoq musiqiy-drama teatri, Maksim Gorkiy nomidagi davlat akademik rus drama teatri, Milliy Fazo markazi, «Nur Olam» kelajak energiya muzeyi, kutubxonalar.
+103	Baiseitova nomidagi Milliy opera va balet teatri, K. Kuanyshbaev nomidagi qozoq musiqali drama teatri, Maksim Gorkiy nomidagi Davlat akademik rus drama teatri, Milliy kosmik markazi, "Nur olem" kelajak energiyasi muzeyi, kutubxonalar.
 104	Shaharning madaniy-ma'rifiy muassasalariga Kongresslar zali, Yoshlar saroyi va Prezident madaniyat markazini xam  kiritsa boʻladi.
 105	"Boyterak" yodgorligi shaharning asosiy ramzi boʻlib sanaladi.
 106	2000 yil 6-iyulda Azat Boyarlinning loyihasi asosida "Hayot tayanchi" favvorasi yaratildi.
@@ -143,7 +143,7 @@
 143	Bu piramidaning eng yuqorisida - matanaliz turadi.
 144	Meni notoʻgʻri tushunmanglar. Rahmat!
 145	Tahlil ham juda muhim mavzu.
-146	Odamzot aqlining ajoyib mevasi.
+146	Odamzod aqlning ajoyib mevasi.
 147	Tabiatdagi qonununiyatlar matanaliz tilida gapiradi.
 148	Matematika, muhandislik, iqtisodiyotni oʻqiyotgan har bir talaba universitetdagi birinchi yilning oxiriga qadar soʻzsiz tahlilni oʻrganishi kerak.
 149	Ammo, matematika professori sifatida aytmoqchimanki, umrida faqat sanoqli kishi ongli, mazmunli ravishda kundalik tahlildan foydalanadi.
@@ -162,7 +162,7 @@
 162	Boshqalarga etakchiga qanday ergashishni koʻrsatadi.
 163	Bunday olib qarasangiz, lider uni oʻzi bilan teng koʻradi.
 164	Endi gap rahbar haqida emas, yaʻni, ular haqida.
-165	Koʻryapsizmi, birinchi ergashuvchi boʻlish ergashish lider boʻlish bilan bir xil.74	Endi, u doʻstlarini chaqirayapti.
+165	Koʻryapsizmi, birinchi ergashuvchi boʻlish lider boʻlish bilan bir xil.
 166	Shunday qilib, ajralib turish uchun jasorat kerak.
 167	Birinchi izdosh orqali xayolparast kishi etakchiga aylanadi.
 168	Endi ikkinchi izdosh paydo boʻldi.

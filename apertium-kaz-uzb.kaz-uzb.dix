@@ -1867,6 +1867,7 @@
 <e>       <p><l>қане<s n="ij"/></l>                    <r>qani<s n="cnjadv"/></r></p></e>
 <e>       <p><l>әйтпесе<s n="cnjadv"/></l>             <r>yoʻqsa<s n="cnjadv"/></r></p></e>
 <e>       <p><l>өйткені<s n="cnjsub"/></l>             <r>chunki<s n="cnjadv"/></r></p></e>
+<e>       <p><l>кейін<s n="cnjadv"/></l>                  <r>keyin<s n="cnjadv"/></r></p></e>
 
     <!-- ******************************
           group cnjcoo_symbol
@@ -2705,7 +2706,7 @@
 <e>       <p><l>ақша<s n="n"/></l>                     <r>pul<s n="n"/></r></p></e>
 <e>       <p><l>ақы<s n="n"/></l>                      <r>haq<s n="n"/></r></p></e>
 <e>       <p><l>ақыл<s n="n"/></l>                     <r>aql<s n="n"/></r></p></e>
-<e>       <p><l>ақыл<s n="n"/></l>                     <r>aql-zexn<s n="n"/></r></p></e>
+<e>       <p><l>ақыл<s n="n"/></l>                     <r>zexn<s n="n"/></r></p></e>
 <e>       <p><l>ақыл<s n="n"/></l>                     <r>idrok<s n="n"/></r></p></e>
 <e>       <p><l>ақылдылық<s n="n"/></l>                <r>donolik<s n="n"/></r></p></e>
 <e>       <p><l>ақылсыз<s n="n"/></l>                  <r>aqlsiz<s n="n"/></r></p></e>
@@ -5339,6 +5340,7 @@
 <e>       <p><l>рет<s n="n"/></l>                      <r>muddat<s n="n"/></r></p></e>
 <e>       <p><l>рет<s n="n"/></l>                      <r>vaqt<s n="n"/></r></p></e>
 <e>       <p><l>рет<s n="n"/></l>                      <r>zamon<s n="n"/></r></p></e>
+<e>       <p><l>рет<s n="n"/></l>                      <r>sifat<s n="n"/></r></p></e>
 <e>       <p><l>ретсіз<s n="n"/></l>                   <r>tartibsiz<s n="n"/></r></p></e>
 <e>       <p><l>реттеy<s n="n"/></l>                   <r>tartib<s n="n"/></r></p></e>
 <e>       <p><l>референдум<s n="n"/></l>               <r>referendum<s n="n"/></r></p></e>
@@ -6876,6 +6878,7 @@
 <e>       <p><l>қатар<s n="n"/></l>                    <r>satr<s n="n"/></r></p></e>
 <e>       <p><l>қатар<s n="n"/></l>                    <r>tizim<s n="n"/></r></p></e>
 <e>       <p><l>қате<s n="n"/></l>                     <r>xato<s n="n"/></r></p></e>
+<e>       <p><l>қате<s n="adj"/></l>                   <r>notoʻgʻri<s n="adj"/></r></p></e>
 <e>       <p><l>қатер<s n="n"/></l>                    <r>xavfli<s n="n"/></r></p></e>
 <e>       <p><l>қатер<s n="n"/></l>                    <r>xatarli<s n="n"/></r></p></e>
 <e>       <p><l>қатпарлар<s n="n"/></l>                <r>burma<s n="n"/></r></p></e>
@@ -9743,7 +9746,6 @@
 <e><p><l>Бразилия<s n="np"/><s n="top"/></l><r>Brazilya<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Қасымжомарт<s n="np"/><s n="ant"/></l><r>Qosim-Joʻmart<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Абылай<s n="np"/><s n="ant"/></l><r>Abilay<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Тоқаев<s n="np"/><s n="ant"/></l><r>Toqayev<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>түрғындар<s n="n"/></l><r>aholi<s n="n"/></r></p></e>
 <e><p><l>жазықтығ<s n="n"/></l><r>tekislik<s n="n"/></r></p></e>
 <e><p><l>маңы<s n="n"/></l><r>boʻyi<s n="n"/></r></p></e>
@@ -9799,12 +9801,9 @@
 <e><p><l>Бәйтерек<s n="np"/><s n="top"/></l><r>Boyterak<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Тілендиев<s n="np"/><s n="ant"/></l><r>Tilendiev<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Вячеслав<s n="np"/><s n="ant"/></l><r>Vyacheslav<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Бәйсеитова<s n="np"/><s n="ant"/></l><r>Bayseitova<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Көлгінов<s n="np"/><s n="ant"/></l><r>Kelginov<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Боярлин<s n="np"/><s n="ant"/></l><r>Boyarlin<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Қуанышбаев<s n="np"/><s n="ant"/></l><r>Kushanbayev<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Бәйсеитова<s n="np"/><s n="cog"/></l><r>Bayseitova<s n="np"/><s n="cog"/></r></p></e>
+<e><p><l>Қуанышбаев<s n="np"/><s n="cog"/></l><r>Kushanbayev<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Сәкен<s n="np"/><s n="ant"/></l><r>Seken<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Сейфуллин<s n="np"/><s n="ant"/></l><r>Seyfullin<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>КазСтат<s n="org"/></l><r>KazStat<s n="org"/></r></p></e>
 <e><p><l>агломерация<s n="n"/></l><r>aglomeratsiya<s n="n"/></r></p></e>
 <e><p><l>облыстық<s n="adj"/></l><r>viloyat<s n="adj"/></r></p></e>
@@ -9891,7 +9890,6 @@
 <e><p><l>жүлге<s n="n"/></l><r>adir<s n="n"/></r></p></e>
 <e><p><l>тұсаукесер<s n="n"/></l><r>taqdimot<s n="n"/></r></p></e>
 <e><p><l>Жомарт<s n="np"/><s n="ant"/></l><r>Jomart<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Тоқаев<s n="np"/><s n="ant"/></l><r>Toqayev<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Қасымжомарт<s n="np"/><s n="ant"/></l><r>Qasimjomart<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Бахыт<s n="np"/><s n="ant"/></l><r>Baxt<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Морган<s n="np"/><s n="ant"/></l><r>Morgan<s n="np"/><s n="ant"/></r></p></e>
@@ -9935,7 +9933,7 @@
 <e><p><l>гидрографиялық<s n="adj"/></l><r>gidrogeografik<s n="adj"/></r></p></e>
 <e><p><l>төңірек<s n="adv"/></l><r>atrof<s n="adv"/></r></p></e>
 <e><p><l>қоршап<s n="adv"/></l><r>qurshab<s n="adv"/></r></p></e>
-<e><p><l>Урюпин<s n="np"/><s n="top"/></l><r>Урюпин<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Урюпин<s n="np"/><s n="top"/></l><r>Uryupin<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Тентек<s n="np"/><s n="top"/></l><r>Tentek<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Қарасу<s n="np"/><s n="top"/></l><r>Qorasuv<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Ақбұлақ<s n="np"/><s n="top"/></l><r>Oqbuloq<s n="np"/><s n="top"/></r></p></e>
@@ -9953,14 +9951,11 @@
 <e><p><l>Эльм<s n="np"/><s n="top"/></l><r>Elm<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Оук<s n="np"/><s n="top"/></l><r>Ouk<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Вячеслав<s n="np"/><s n="ant"/></l><r>Vyacheslav<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Бәйсеитова<s n="np"/><s n="ant"/></l><r>Bayseitova<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Көлгінов<s n="np"/><s n="ant"/></l><r>Kelginov<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Бәйсеитова<s n="np"/><s n="cog"/></l><r>Bayseitova<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Максим<s n="np"/><s n="ant"/></l><r>Maksim<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Горький<s n="np"/><s n="ant"/></l><r>Gorkiy<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Боярлин<s n="np"/><s n="ant"/></l><r>Boyarlin<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Қуанышбаев<s n="np"/><s n="ant"/></l><r>Kushanbayev<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Горький<s n="np"/><s n="cog"/></l><r>Gorkiy<s n="np"/><s n="cog"/></r></p></e>
+<e><p><l>Қуанышбаев<s n="np"/><s n="cog"/></l><r>Kushanbayev<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Сәкен<s n="np"/><s n="ant"/></l><r>Seken<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Сейфуллин<s n="np"/><s n="ant"/></l><r>Seyfullin<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>жерасты<s n="adj"/></l><r>yerosti<s n="adj"/></r></p></e>
 <e><p><l>Нияз<s n="np"/><s n="top"/></l><r>Niyaz<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>ұзақтығы<s n="n"/></l><r>davomiyligi<s n="n"/></r></p></e>
@@ -10053,8 +10048,8 @@
 <e><p><l>ойысуы<s n="adv"/></l><r>yondashuv<s n="adv"/></r></p></e>
 <e><p><l>тоқетері<s n="n"/></l><r>xulosa<s n="n"/></r></p></e>
 <e><p><l>ілесуді<s n="adv"/></l><r>ergashish<s n="adv"/></r></p></e>
-<e><p><l>лидер<s n="adj"/></l><r>yetakchi<s n="adj"/></r></p></e>
-<e><p><l>ілесуші<s n="adv"/></l><r>ergashish<s n="adv"/></r></p></e>
+<e><p><l>лидер<s n="n"/></l><r>yetakchi<s n="n"/></r></p></e>
+<e><p><l>ілесуші<s n="n"/></l><r>ergashuvchi<s n="n"/></r></p></e>
 <e><p><l>ілестіруден<s n="adj"/></l><r>ergashtiradigan<s n="adj"/></r></p></e>
 <e><p><l>ілесу<s n="v"/></l><r>ergashish<s n="v"/></r></p></e>
 <e><p><l>ерекшелену<s n="v"/></l><r>ajralib<b/>turish><s n="v"/></r></p></e>
@@ -10194,7 +10189,7 @@
 <e><p><l>жүлге<s n="n"/></l><r>adir<s n="n"/></r></p></e>
 <e><p><l>тұсаукесер<s n="n"/></l><r>taqdimot<s n="n"/></r></p></e>
 <e><p><l>Жомарт<s n="np"/><s n="ant"/></l><r>Jomart<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Тоқаев<s n="np"/><s n="ant"/></l><r>Toqayev<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Тоқаев<s n="np"/><s n="cog"/></l><r>Toqayev<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Қасымжомарт<s n="np"/><s n="ant"/></l><r>Qasimjomart<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Н.Назарбаев<s n="np"/><s n="ant"/></l><r>N.Nazarbayev<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Бахыт<s n="np"/><s n="ant"/></l><r>Baxit<s n="np"/><s n="ant"/></r></p></e>
@@ -10250,22 +10245,18 @@
 <e><p><l>Коянда<s n="np"/><s n="top"/></l><r>Koyanda<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Сарыарқа<s n="np"/><s n="top"/></l><r>Sariarqa<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Ақкөл<s n="np"/><s n="top"/></l><r>Oqkoʻl<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Килиманджаро<s n="np"/><s n="top"/></l><r>Килиманджаро<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Килиманджаро<s n="np"/><s n="top"/></l><r>Kilimanjaro<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Афганистан<s n="np"/><s n="top"/></l><r>Afgʻoniston<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Белоруссия<s n="np"/><s n="top"/></l><r>Belorusiya<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Тажікстан<s n="np"/><s n="top"/></l><r>Tojikiston<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Бәйтерек<s n="np"/><s n="top"/></l><r>Boyterak<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Бәйтерек<s n="np"/><s n="top"/></l><r>Boʻyterak<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Эльм<s n="np"/><s n="top"/></l><r>Elm<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Оук<s n="np"/><s n="top"/></l><r>Oyk<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Вячеслав<s n="np"/><s n="ant"/></l><r>Vyacheslav<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Бәйсеитова<s n="np"/><s n="ant"/></l><r>Bayseitova<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>К.Бәйсеитова<s n="np"/><s n="ant"/></l><r>К.Бәйсеитова<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>К.Қуанышбаев<s n="np"/><s n="ant"/></l><r>К.Қуанышбаев<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Көлгінов<s n="np"/><s n="ant"/></l><r>Kelginov<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Бәйсеитова<s n="np"/><s n="cog"/></l><r>Bayseitova<s n="np"/><s n="cog"/></r></p></e>
+<e><p><l>Көлгінов<s n="np"/><s n="cog"/></l><r>Kelginov<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Максим<s n="np"/><s n="ant"/></l><r>Максим<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Горький<s n="np"/><s n="ant"/></l><r>Горький<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Боярлин<s n="np"/><s n="ant"/></l><r>Boyarlin<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Қуанышбаев<s n="np"/><s n="ant"/></l><r>Kushanbayev<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Боярлин<s n="np"/><s n="cog"/></l><r>Boyarlin<s n="np"/><s n="cog"/></r></p></e>
+<e><p><l>Сперлоктың<s n="np"/><s n="cog"/></l><r>Sperloktin<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Сәкен<s n="np"/><s n="ant"/></l><r>Seken<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Сейфуллин<s n="np"/><s n="ant"/></l><r>Seyfullin<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>жерасты<s n="adj"/></l><r>yerosti<s n="adj"/></r></p></e>
@@ -10287,16 +10278,8 @@
 <e><p><l>сыйымдылығы<s n="n"/></l><r>сыйымдылығы<s n="n"/></r></p></e>
 <e><p><l>қыщ<s n="n"/></l><r>keramika<s n="n"/></r></p></e>
 <e><p><l>комбинант<s n="n"/></l><r>kombinat<s n="n"/></r></p></e>
-<e><p><l>ӨМК-*ға<s n="n"/></l><r>ӨМК-*ға<s n="n"/></r></p></e>
-<e><p><l>бойлай<s n="org"/></l><r>бойлай<s n="org"/></r></p></e>
-<e><p><l>ЖЭО<s n="org"/></l><r>ЖЭО<s n="org"/></r></p></e>
-<e><p><l>Рожденственский<s n="org"/></l><r>Рожденственский<s n="org"/></r></p></e>
-<e><p><l>күлтөкпесінен<s n="n"/></l><r>күлтөкпесінен<s n="n"/></r></p></e>
-<e><p><l>қиылысына<s n="n"/></l><r>қиылысына<s n="n"/></r></p></e>
-<e><p><l>селитебті<s n="n"/></l><r>селитебті<s n="n"/></r></p></e>
-<e><p><l>ұласады<s n="n"/></l><r>ұласады<s n="n"/></r></p></e>
-<e><p><l>шылау<s n="n"/></l><r>шылау<s n="n"/></r></p></e>
-<e><p><l>абаттандырылды<s n="n"/></l><r>абаттандырылды<s n="n"/></r></p></e>
+<e><p><l>ЖЭО<s n="org"/></l><r>JEO<s n="org"/></r></p></e>
+<e><p><l>Рожденственский<s n="org"/></l><r>Rojdenstvenskiy<s n="org"/></r></p></e>
 <e><p><l>іздестіру-барлау<s n="n"/></l><r>qidiruv-razvedka<s n="n"/></r></p></e>
 <e><p><l>барлау<s n="n"/></l><r>razvedka<s n="n"/></r></p></e>
 <e><p><l>ішінара<s n="adj"/></l><r>qisman<s n="adj"/></r></p></e>
@@ -10318,7 +10301,7 @@
 <e><p><l>TED<s n="org"/></l><r>TED<s n="org"/></r></p></e>
 <e><p><l>ТМД<s n="org"/></l><r>MDH<s n="org"/></r></p></e>
 <e><p><l>ҰЗМИ<s n="org"/></l><r>MIMI<s n="org"/></r></p></e>
-<e><p><l>Дельфий<s n="org"/></l><r>Delfiy<s n="org"/></r></p></e>
+<e><p><l>Дельфий<s n="np"/><s n="cog"/></l><r>Delfiy<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>аймақаралық<s n="adj"/></l><r>mintaqalararo<s n="adj"/></r></p></e>
 <e><p><l>эксплуатация<s n="n"/></l><r>ekspluatatsiya<s n="n"/></r></p></e>
 <e><p><l>өнеркәсіптік<s n="adj"/></l><r>sanoat<s n="adj"/></r></p></e>
@@ -10369,6 +10352,7 @@
 <e><p><l>шапалақ<s n="n"/></l><r>shapaloq<s n="n"/></r></p></e>
 <e><p><l>рахмет<s n="n"/></l><r>rahmat<s n="n"/></r></p></e>
 <e><p><l>аналог<s n="adj"/></l><r>analog<s n="adj"/></r></p></e>
+<e><p><l>аналог<s n="n"/></l><r>analog<s n="n"/></r></p></e>
 <e><p><l>дижитал<s n="adj"/></l><r>raqamli<s n="adj"/></r></p></e>
 <e><p><l>дискретті<s n="adj"/></l><r>diskret<s n="adj"/></r></p></e>
 <e><p><l>болжалды<s n="adj"/></l><r>tahminiy<s n="adj"/></r></p></e>
